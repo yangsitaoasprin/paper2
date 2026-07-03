@@ -1,0 +1,30 @@
+name: cyp450
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.14
+  - numpy=2.3.5
+  - pandas=3.0.3
+  - matplotlib=3.10.6
+  - pillow=12.0.0
+  - kiwisolver=1.4.9
+  - fonttools=4.60.1
+  - scikit-learn=1.9.0
+  - rdkit=2026.03.3
+  - pip
+  - pip:
+      - torch==2.11.0
+
+# Local verification notes:
+# - The verified interpreter path was:
+#   C:\Users\Administrator\.conda\envs\cyp450\python.exe
+# - The locally verified PyTorch build reported:
+#   torch==2.11.0+cu128
+# - The locally verified CUDA runtime reported by PyTorch was:
+#   torch.version.cuda == 12.8
+# - The locally verified stable figure-rendering stack was:
+#   numpy 2.3.5, matplotlib 3.10.6, pillow 12.0.0,
+#   kiwisolver 1.4.9, fonttools 4.60.1
+# - In the older local `cyp450` snapshot with newer graph-stack variants on
+#   Windows 11, matplotlib rendering crashed during `savefig()` and
+#   `FigureCanvasAgg.draw()`.

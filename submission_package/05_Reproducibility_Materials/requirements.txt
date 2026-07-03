@@ -1,0 +1,24 @@
+# Verified local environment for this submission bundle:
+# - Python 3.13.14
+# - Windows 11
+# - PyTorch 2.11.0 with CUDA 12.8 build locally observed as 2.11.0+cu128
+# - RDKit 2026.03.3
+# - Verified stable figure-rendering stack:
+#   matplotlib 3.10.6, numpy 2.3.5, pillow 12.0.0,
+#   kiwisolver 1.4.9, fonttools 4.60.1
+# - In local verification, newer graph-stack variants in the legacy `cyp450`
+#   environment caused native crashes at render/save time on Windows 11.
+#
+# For strict reproduction, prefer the documented `cyp450` conda environment
+# and the version notes in README.md. This file provides the core Python
+# package requirements in pip-style notation.
+
+numpy==2.3.5
+pandas==3.0.3
+matplotlib==3.10.6
+pillow==12.0.0
+kiwisolver==1.4.9
+fonttools==4.60.1
+scikit-learn==1.9.0
+torch==2.11.0
+rdkit==2026.03.3

@@ -1,0 +1,1894 @@
+Name,SMILES,Label,Source
+ONDANSETRON,Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,1,DrugBank
+Dextromethorphan,COc1ccc2c(c1)C13CCCCC1C(C2)N(C)CC3,1,SuperCYP
+Retinol (vit A),CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CCO,1,SuperCYP
+carbamazepine,NC(=O)N1c2ccccc2C=Cc2ccccc21,1,Yamashita
+cilostazol,O=C1CCc2cc(OCCCCc3nnnn3C3CCCCC3)ccc2N1,1,Yamashita
+naphthalene,c1ccc2ccccc2c1,1,Yamashita
+ESTRONE (E(1)),CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O,1,DrugBank
+SULFADIAZINE (SULFONAMIDE),Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1,1,CYP Knowledgebase 
+"1,3-BUTADIENE (BD)",C=CC=C,1,CYP Knowledgebase 
+atomoxetine,CNCCC(Oc1ccccc1C)c1ccccc1,1,Yamashita
+nabumetone,COc1ccc2cc(CCC(C)=O)ccc2c1,1,Yamashita
+enflurane,FC(F)OC(F)(F)C(F)Cl,1,DrugBank
+halothane,FC(F)(F)C(Cl)Br,1,DrugBank
+isoflurane,FC(F)OC(Cl)C(F)(F)F,1,DrugBank
+methoxyflurane,COC(F)(F)C(Cl)Cl,1,DrugBank
+sevoflurane,FCOC(C(F)(F)F)C(F)(F)F,1,DrugBank
+acetaminophen,CC(=O)Nc1ccc(O)cc1,1,DrugBank
+NAPQI,CC(=O)N=C1C=CC(=O)C=C1,1,CYP Knowledgebase 
+aniline,Nc1ccccc1,1,Yamashita
+benzene,c1ccccc1,1,Yamashita
+chlorzoxazone,O=c1[nH]c2cc(Cl)ccc2o1,1,DrugBank
+"N,N-dimethylformamide",CN(C)C=O,1,CYP Knowledgebase 
+theophylline,Cn1c(=O)c2[nH]cnc2n(C)c1=O,1,DrugBank
+"1,2-DICHLOROPROPANE",CC(Cl)CCl,1,CYP Knowledgebase 
+4-METHYLPHENOL (P-CRESOL),Cc1ccc(O)cc1,1,CYP Knowledgebase 
+ACETALDEHYDE,CC=O,1,Yamashita
+ACETONE,CC(C)=O,1,Yamashita
+APLIDINE,CCC(C)C1NC(=O)C(NC(=O)C(CC(C)C)N(C)C(=O)C2CCCN2C(=O)C(C)=O)C(C)OC(=O)C(Cc2ccc(OC)cc2)N(C)C(=O)C2CCCN2C(=O)C(CC(C)C)NC(=O)C(C)C(=O)C(C(C)C)OC(=O)CC1O,1,CYP Knowledgebase 
+CARVEDILOL,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,1,DrugBank
+ETHYL CARBAMATE (URETHANE),CCOC(N)=O,1,CYP Knowledgebase 
+ETHYLBENZENE,CCc1ccccc1,1,Yamashita
+ETOPOSIDE,COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,1,DrugBank
+FURAN,c1ccoc1,1,Yamashita
+INDOLE,c1ccc2[nH]ccc2c1,1,Yamashita
+ISOPRENE,C=CC(=C)C,1,Yamashita
+METHYLANISOLE,COc1ccccc1C,1,CYP Knowledgebase 
+METHYLCHLORIDE,CCl,1,CYP Knowledgebase 
+METHYLEUGENOL,C=CCc1ccc(OC)c(OC)c1,1,Yamashita
+MEXILETINE,Cc1cccc(C)c1OCC(C)N,1,DrugBank
+N-METHYLFORMAMIDE,CNC=O,1,Yamashita
+N-NITROSODIBUTYLAMINE (NDBA),CCCCN(CCCC)N=O,1,CYP Knowledgebase 
+N-NITROSOPYRROLIDINE (NPYR),O=NN1CCCC1,1,CYP Knowledgebase 
+PHENACETIN,CCOc1ccc(NC(C)=O)cc1,1,Yamashita
+PHENYLDIAZENE,N=Nc1ccccc1,1,Yamashita
+QUINIDINE,C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12,1,DrugBank
+TEGAFUR,O=c1[nH]c(=O)n(C2CCCO2)cc1F,1,DrugBank
+UROPORPHYRINOGEN,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C2,1,CYP Knowledgebase 
+VESNARINONE,COc1ccc(C(=O)N2CCN(c3ccc4c(c3)CCC(=O)N4)CC2)cc1OC,1,Yamashita
+VINYL BROMIDE,C=CBr,1,CYP Knowledgebase 
+Benzyl alcohol,OCc1ccccc1,1,DrugBank
+Nilvadipine,COC(=O)C1=C(C#N)NC(C)=C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1,1,DrugBank
+Propacetamol,CCN(CC)CC(=O)Oc1ccc(NC(C)=O)cc1,1,CYP Knowledgebase 
+Nicotinamide,NC(=O)c1cccnc1,1,DrugBank
+Mitoxantrone,O=C1c2c(O)ccc(O)c2C(=O)c2c(NCCNCCO)ccc(NCCNCCO)c21,1,DrugBank
+Fomepizole,Cc1cn[nH]c1,1,DrugBank
+Isoniazid,NNC(=O)c1ccncc1,1,DrugBank
+Zopiclone,CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,1,SuperCYP
+Paramethadione,CCC1(C)OC(=O)N(C)C1=O,1,DrugBank
+Clevidipine,CCCC(=O)OCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl,1,DrugBank
+Enfuvirtide,CCC(C)C(NC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(Cc1cnc[nH]1)NC(=O)C(NC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(NC(=O)C(Cc1ccc(O)cc1)NC(C)=O)C(C)O)C(C)CC)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NC(CCC(N)=O)C(=O)NC(CC(N)=O)C(=O)NC(CCC(N)=O)C(=O)NC(CCC(N)=O)C(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CC(N)=O)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(N)=O)C(=O)NC(CCC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CC(=O)O)C(=O)NC(CCCCN)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(C)C(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(N)=O)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1ccccc1)C(N)=O,1,CYP Knowledgebase 
+Tirapazamine,Nc1n[n+]([O-])c2ccccc2[n+]1[O-],1,CYP Knowledgebase 
+Dalfampridine,Nc1ccncc1,1,DrugBank
+Fingolimod,CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1,1,DrugBank
+N-Methyl-N-(Methylbenzyl)Formamide,CC(c1ccccc1)N(C)C=O,1,CYP Knowledgebase 
+"1,2-dichlorobenzene",Clc1ccccc1Cl,1,Yamashita
+Cenobamate,NC(=O)OC(Cn1ncnn1)c1ccccc1Cl,1,DrugBank
+Sertraline,CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc21,1,DrugBank
+Phenytoin,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,1,DrugBank
+Primidone,CCC1(c2ccccc2)C(=O)NCNC1=O,1,DrugBank
+Dorzolamide,CCNC1CC(C)S(=O)(=O)c2sc(S(N)(=O)=O)cc21,1,DrugBank
+Umifenovir,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,1,CYP Knowledgebase 
+Selumetinib,Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21,1,DrugBank
+2-(4-chlorphenoxy)-ethanol,OCCOc1ccc(Cl)cc1,1,CYP Knowledgebase 
+Acetic acid,CC(=O)O,1,Yamashita
+Benzydamine,CN(C)CCCOc1nn(Cc2ccccc2)c2ccccc12,1,SuperCYP
+Brompheniramine,CN(C)CCC(c1ccc(Br)cc1)c1ccccn1,1,SuperCYP
+Carbinoxamine,CN(C)CCOC(c1ccc(Cl)cc1)c1ccccn1,1,SuperCYP
+Disulfiram,CCN(CC)C(=S)SSC(=S)N(CC)CC,1,SuperCYP
+Folic acid,Nc1nc2ncc(CNc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)nc2c(=O)[nH]1,1,SuperCYP
+Glucosamine,NC1C(O)OC(CO)C(O)C1O,1,SuperCYP
+Levocarnitine,C[N+](C)(C)CC(O)CC(=O)[O-],1,SuperCYP
+Menadione,CC1=CC(=O)c2ccccc2C1=O,1,DrugBank
+Paraoxon,CCOP(=O)(OCC)Oc1ccc([N+](=O)[O-])cc1,1,SuperCYP
+Perazine,CN1CCN(CCCN2c3ccccc3Sc3ccccc32)CC1,1,SuperCYP
+Rifampicin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c(C=NN5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,1,DrugBank
+Thiram,CN(C)C(=S)SSC(=S)N(C)C,1,SuperCYP
+Vincamin,CCC12CCCN3CCc4c(n(c5ccccc45)C(O)(C(=O)OC)C1)C32,1,SuperCYP
+2-Naphthylhydrazine,NNc1ccc2ccccc2c1,1,Siyang_Tian
+"1,3-dimethyluric acid",Cn1c(=O)c2[nH]c(=O)[nH]c2n(C)c1=O,1,Yamashita
+1-bromopropane,CCCBr,1,Yamashita
+1'-hydroxyestragole,C=CC(O)c1ccc(OC)cc1,1,Yamashita
+"2,2,2-trifluoroethanol",OCC(F)(F)F,1,Yamashita
+2-bromoacetaldehyde,O=CCBr,1,Yamashita
+4-hydroxy-2-nonenal,CCCCCC(O)C=CC=O,1,Yamashita
+4-nitrocatechol,O=[N+]([O-])c1ccc(O)c(O)c1,1,Yamashita
+6-hydroxychlorzoxazone,O=c1[nH]c2cc(Cl)c(O)cc2o1,1,Yamashita
+acetonitrile,CC#N,1,Yamashita
+acrylamide,C=CC(N)=O,1,Yamashita
+alanine,CC(N)C(=O)O,1,Yamashita
+allylnitrile,C=CCC#N,1,Yamashita
+aminopyrine,Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,1,DrugBank
+atrazine,CCNc1nc(Cl)nc(NC(C)C)n1,1,Yamashita
+azoxymethane,CN=[N+](C)[O-],1,Yamashita
+benzamide,NC(=O)c1ccccc1,1,Yamashita
+beraprost,CC#CCC(C)C(O)C=CC1C(O)CC2Oc3c(CCCC(=O)O)cccc3C21,1,Yamashita
+butyraldehyde,CCCC=O,1,Yamashita
+carbocysteine,NC(CSCC(=O)O)C(=O)O,1,Yamashita
+cardamonin,COc1cc(O)cc(O)c1C(=O)C=Cc1ccccc1,1,Yamashita
+chlorodibromomethane,ClC(Br)Br,1,Yamashita
+cis-crotononitrile,CC=CC#N,1,Yamashita
+cis-parinaric acid,CCC=CC=CC=CC=CCCCCCCCC(=O)O,1,Yamashita
+clofibric acid,CC(C)(Oc1ccc(Cl)cc1)C(=O)O,1,DrugBank
+clomiphene,CCN(CC)CCOc1ccc(C(=C(Cl)c2ccccc2)c2ccccc2)cc1,1,Yamashita
+coumarin,O=c1ccc2ccccc2o1,1,Yamashita
+desflurane,FC(F)OC(F)C(F)(F)F,1,DrugBank
+diallyl sulfone,C=CCS(=O)(=O)CC=C,1,Yamashita
+dimethylsulfoxide,CS(C)=O,1,Yamashita
+dopamine,NCCc1ccc(O)c(O)c1,1,Yamashita
+droloxifene,CCC(=C(c1ccc(OCCN(C)C)cc1)c1cccc(O)c1)c1ccccc1,1,Yamashita
+estragole,C=CCc1ccc(OC)cc1,1,Yamashita
+ether,CCOCC,1,Yamashita
+ethoxyresorufin,CCOc1ccc2nc3ccc(=O)cc-3oc2c1,1,Yamashita
+formaldehyde,C=O,1,Yamashita
+glutathione,NC(CCC(=O)NC(CS)C(=O)NCC(=O)O)C(=O)O,1,Yamashita
+glycerol,OCC(O)CO,1,DrugBank
+glycidamide,NC(=O)C1CO1,1,Yamashita
+glycine,NCC(=O)O,1,Yamashita
+homocysteine,NC(CCS)C(=O)O,1,Yamashita
+huperzine A,CC=C1C2C=C(C)CC1(N)c1ccc(=O)[nH]c1C2,1,Yamashita
+imidazole,c1c[nH]cn1,1,Yamashita
+ketoconazole,CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,1,Yamashita
+malondialdehyde,O=CCC=O,1,Yamashita
+menthofuran,Cc1coc2c1CCC(C)C2,1,Yamashita
+methacrylonitrile,C=C(C)C#N,1,Yamashita
+methylazoxymethanol,C[N+]([O-])=NCO,1,Yamashita
+propiolaldehyde,C#CC=O,1,Yamashita
+pyrene,c1cc2ccc3cccc4ccc(c1)c2c34,1,Yamashita
+quinone,O=C1C=CC(=O)C=C1,1,Yamashita
+S-adenosylhomocysteine,Nc1ncnc2c1ncn2C1OC(CSCCC(N)C(=O)O)C(O)C1O,1,DrugBank
+salvinorin a,COC(=O)C1CC(OC(C)=O)C(=O)C2C1(C)CCC1C(=O)OC(c3ccoc3)CC12C,1,CYP Knowledgebase 
+skatole,Cc1c[nH]c2ccccc12,1,Yamashita
+spermine,NCCCNCCCCNCCCN,1,Yamashita
+sulfoxide,CCCCCCCCS(=O)C(C)Cc1ccc2c(c1)OCO2,1,Yamashita
+sulphamethazine,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,1,Yamashita
+thioacetamide,CC(N)=S,1,Yamashita
+tranylcypromine,NC1CC1c1ccccc1,1,Yamashita
+trifluoroacetic acid,O=C(O)C(F)(F)F,1,Yamashita
+tryptophan,NC(Cc1c[nH]c2ccccc12)C(=O)O,1,Yamashita
+veratridine,COc1ccc(C(=O)OC2CCC3(C)C4CCC5C6(O)CC(O)C7(O)C(CN8CC(C)CCC8C7(C)O)C6(O)CC53OC24O)cc1OC,1,Yamashita
+vinylfluoride,C=CF,1,Yamashita
+3-cyano-7-methoxycoumarin,COc1ccc2cc(C#N)c(=O)oc2c1,1,Siyang_Tian
+6-nitrochrysene,O=[N+]([O-])c1cc2c3ccccc3ccc2c2ccccc12,1,Siyang_Tian
+7-methoxyresorufin,COc1ccc2nc3ccc(=O)cc-3oc2c1,1,Siyang_Tian
+FLU-1,Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1,1,Siyang_Tian
+MTBE,COC(C)(C)C,1,Siyang_Tian
+NMBA,CCCCN(C)N=O,1,Siyang_Tian
+NMEA,CCNC,1,Siyang_Tian
+TAME,COC(=O)C(CCCN=C(N)N)NS(=O)(=O)c1ccc(C)cc1,1,Siyang_Tian
+bpr0l075,COc1ccc2c(C(=O)c3cc(OC)c(OC)c(OC)c3)c[nH]c2c1,1,Holmer
+dibenzo_a_l_pyrene,c1ccc2c(c1)cc1ccc3cccc4c5ccccc5c2c1c34,1,Holmer
+hexane,CCCCCC,1,Holmer
+methiocarb,CNC(=O)Oc1cc(C)c(SC)c(C)c1,1,Holmer
+o-phenylphenol,Oc1ccccc1-c1ccccc1,1,Siyang_Tian
+zileuton,CC(c1cc2ccccc2s1)N(O)C(N)=O,1,Holmer
+1-ETHYLPYRENE (EP),CCc1ccc2ccc3cccc4ccc1c2c34,1,CYP Knowledgebase 
+rabeprazole_thioether,COCCCOc1ccnc(CSc2nc3ccccc3[nH]2)c1C,1,Holmer
+METHANOL (MEOH),CO,1,CYP Knowledgebase 
+abt_761,CC(C#Cc1ccc(Cc2ccc(F)cc2)s1)N(O)C(N)=O,1,Holmer
+O-ANISIDINE (2-METHOXYANILINE),COc1ccccc1N,1,CYP Knowledgebase 
+N-NITROSOBENZYLMETHYLAMINE (NBZMA),CN(Cc1ccccc1)N=O,1,CYP Knowledgebase 
+FELBAMATE (FBM),NC(=O)OCC(COC(N)=O)c1ccccc1,1,DrugBank
+dibenzo_a_h_anthracene,c1ccc2c(c1)ccc1cc3c(ccc4ccccc43)cc12,1,Holmer
+VINYL CARBAMATE (VC),C=COC(N)=O,1,CYP Knowledgebase 
+PYRIDINE (PY),c1ccncc1,1,DrugBank
+CAFFEINE (METHYLXANTHINE THEOPHYLLINE; CA),Cn1c(=O)c2c(ncn2C)n(C)c1=O,1,DrugBank
+SALICYLATE (2-HYDROXY-BENZOIC ACID),O=C(O)c1ccccc1[O-],1,CYP Knowledgebase 
+NITROSOMORPHOLINE (N-NITROSOMORPHOLINE),O=NN1CCOCC1,1,CYP Knowledgebase 
+XYLENE P-,Cc1ccc(C)cc1,1,CYP Knowledgebase 
+N-NITROSODI-N-PROPYLAMINE (NDPA),CCCN(CCC)N=O,1,CYP Knowledgebase 
+DACARBAZINE (DTIC),CN(C)N=Nc1nc[nH]c1C(N)=O,1,DrugBank
+"S-METHYL N,N-DIETHYLTHIOLCARBAMATE (DETC-ME)",CCN(CC)C(=O)SC,1,CYP Knowledgebase 
+"N,N-DIETHYL-M-TOLUAMIDE (DEET; THE INSECT REPELLENT)",CCN(CC)C(=O)c1cccc(C)c1,1,CYP Knowledgebase 
+CP_677_623,COc1ccc(OC(F)(F)F)cc1CN,1,Siyang_Tian
+METHYLENE CHLORIDE (DICHLOROMETHANE; DCM),ClCCl,1,CYP Knowledgebase 
+Ademetionin,C[S+](CCC(N)C(=O)[O-])CC1OC(n2cnc3c(N)ncnc32)C(O)C1O,1,DrugBank
+"SAFROLE (A NATURAL PLANT CONSTITUENT; A METHYLENEDIOXY PHENYL COMPOUND, FOUND IN SASSAFRAS OIL AND CERTAIN OTHER ESSENTIAL OILS)",C=CCc1ccc2c(c1)OCO2,1,CYP Knowledgebase 
+NN_dimethyl_M_toluamide,Cc1cccc(C(=O)N(C)C)c1,1,Siyang_Tian
+XYLENE O-,Cc1ccccc1C,1,CYP Knowledgebase 
+1-METHYLPYRENE (MP),Cc1ccc2ccc3cccc4ccc1c2c34,1,CYP Knowledgebase 
+N-NITROSONORNICOTINE (NNN),O=NN1CCCC1c1cccnc1,1,DrugBank
+"1,2-EPOXY-3-BUTENE (BMO)",C=CC1CO1,1,CYP Knowledgebase 
+2-NITROANISOLE (2-NA),COc1ccccc1[N+](=O)[O-],1,CYP Knowledgebase 
+abt_438,CC(C#Cc1ccc(Cc2ccc(F)cc2)s1)NC(N)=O,1,Holmer
+METHYL-N-PENTYLNITROSAMINE (MPN),CCCCCN(C)N=O,1,CYP Knowledgebase 
+(2-NAPHTHYL)HYDRAZINE,NNc1cccc2ccccc12,1,CYP Knowledgebase 
+7-METHOXY-4-TRIFLUOROMETHYLCOUMARIN (MFC; 7-MFC),COc1ccc2c(C(F)(F)F)cc(=O)oc2c1,1,CYP Knowledgebase 
+DIALLYL SULFIDE (ALLYL SULFIDE; DAS),C=CCSCC=C,1,CYP Knowledgebase 
+BENZO[A]PYRENE (B[A]P; BAP; POLYCYCLIC AROMATIC HYDROCARBON (PAH)),c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,1,CYP Knowledgebase 
+"BUPROPION (INN, AMFEBUTAMONE; BUP)",CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,1,DrugBank
+N-(HYDROXYMETHYL)-N-METHYLFORMAMIDE (HMMF),CN(C=O)CO,1,CYP Knowledgebase 
+stearic_acid,CCCCCCCCCCCCCCCCCC(=O)O,1,Holmer
+"THEOBROMINE (3,7-DIMETHYLXANTHINE; TB)",Cn1cnc2c1c(=O)[nH]c(=O)n2C,1,DrugBank
+BROMODICHLOROMETHANE (BDCM),ClC(Cl)Br,1,CYP Knowledgebase 
+TRICHLOROETHYLENE (TCE; TRI),ClC=C(Cl)Cl,1,CYP Knowledgebase 
+"NORVERAPAMIL ([2,8-BIS-(3,4-DIMETHOXYPHENYL)-2-ISOPROPYL-6-AZAOCTANITRILE])",COc1ccc(CCNCCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,1,DrugBank
+VINYL CHLORIDE (VC),C=CCl,1,CYP Knowledgebase 
+STYRENE (VINYL BENZENE),C=Cc1ccccc1,1,CYP Knowledgebase 
+"7,12-DIMETHYLBENZ[A]ANTHRACENE (DMBA)",Cc1c2ccccc2c(C)c2c1ccc1ccccc12,1,CYP Knowledgebase 
+"1,1-DICHLOROETHYLENE (DCE; VINYLIDENE CHLORIDE)",C=C(Cl)Cl,1,CYP Knowledgebase 
+biochanin_A,COc1ccc(-c2coc3cc(O)cc(O)c3c2=O)cc1,1,Siyang_Tian
+9_anthraldehyde,O=Cc1c2ccccc2cc2ccccc12,1,Holmer
+PHENANTHRENE (PA; POLYCYCLIC AROMATIC HYDROCARBON (PAH)),c1ccc2c(c1)ccc1ccccc12,1,CYP Knowledgebase 
+ET-743 (TRABECTEDIN; YONDELIS),COc1cc2c(cc1O)CCNC21CSC2c3c(OC(C)=O)c(C)c4c(c3C(COC1=O)N1C(O)C3Cc5cc(C)c(OC)c(O)c5C(C21)N3C)OCO4,1,DrugBank
+"N-NITROSODIMETHYLAMINE (NDMA; DMN; DIMETHYLNITROSAMINE; N,N-NITROSODIMETHYLAMINE)",CN(C)N=O,1,CYP Knowledgebase 
+DAPSONE (DDS),Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1,1,DrugBank
+CHLOROFORM (CHCL3; TRICHLOROMETHANE),ClC(Cl)Cl,1,CYP Knowledgebase 
+DIETHYLDITHIOCARBAMATE METHYL ESTER (DDTC-ME),CCN(CC)C(=S)SC,1,CYP Knowledgebase 
+6_methylchrysene,Cc1cc2c3ccccc3ccc2c2ccccc12,1,Holmer
+5_methylchrysene,Cc1cc2ccccc2c2ccc3ccccc3c12,1,Holmer
+"7,8-DIHYDROXYBENZO[A]PYRENE (7,8-DIHYDRODIOL)",OC1C=Cc2c(cc3ccc4cccc5ccc2c3c45)C1O,1,CYP Knowledgebase 
+ANTIPYRINE (AP),Cc1cc(=O)n(-c2ccccc2)n1C,1,DrugBank
+FARNESOL (AN ENDOGENOUS 15-CARBON ISOPRENOL),CC(C)=CCCC(C)=CCCC(C)=CCO,1,CYP Knowledgebase 
+DBN,C1CN=C2CCCN2C1,1,Siyang_Tian
+P-NITROPHENOL (PARA-NITROPHENOL; 4-NITROPHENOL),O=[N+]([O-])c1ccc(O)cc1,1,CYP Knowledgebase 
+"2,6-DIMETHYLANILINE (2,6-DMA)",Cc1cccc(C)c1N,1,CYP Knowledgebase 
+"ETHYLENE DICHLORIDE (1,2-DICHLOROETHANE)",ClCCCl,1,CYP Knowledgebase 
+4-NITROANISOLE (P-NITROANISOLE),COc1ccc([N+](=O)[O-])cc1,1,CYP Knowledgebase 
+4-VINYL-1-CYCLOHEXENE (VCH),C=CC1CC=CCC1,1,CYP Knowledgebase 
+"GENISTEIN (4`,5,7-TRIHYDROXYISOFLAVONE)",O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,1,CYP Knowledgebase 
+13_cis_retinoic_acid,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,1,DrugBank
+7-ETHOXY-4-TRIFLUOROMETHYLCOUMARIN (ALKYLOXYCOUMARIN),CCOc1ccc2c(C(F)(F)F)cc(=O)oc2c1,1,CYP Knowledgebase 
+XYLENE M-,Cc1cccc(C)c1,1,CYP Knowledgebase 
+"N-NITROSODIETHYLAMINE (NDEA; DEN; DIETHYLNITROSAMINE; N,N-NITROSODIETHYLAMINE)",CCN(CC)N=O,1,CYP Knowledgebase 
+PHOSPHATIDYLCHOLINE (LECITHIN),C[N+](C)(C)CCOP(=O)(O)OCC(COC=O)OC=O,1,CYP Knowledgebase 
+linoleic_acid,CCCCCC=CCC=CCCCCCCCC(=O)[O-],1,Holmer
+CARBON TETRACHLORIDE (CCL4; TETRACHLOROMETHANE),ClC(Cl)(Cl)Cl,1,CYP Knowledgebase 
+P-CHLORO-M-XYLENOL (PCMX),Cc1cc(O)cc(C)c1Cl,1,CYP Knowledgebase 
+palmitic_acid,CCCCCCCCCCCCCCCC(=O)O,1,Holmer
+MOP-13031,COC(=O)C1=C(C)NC(C)=C(C(=O)O)C1c1cccc([N+](=O)[O-])c1,1,DrugBank
+4-(METHYLNITROSAMINO)-1-(3-PYRIDYL)-1-BUTANONE (A TOBACCO SMOKE-DERIVED NITROSAMINE; NNK),CN(CCCC(=O)c1cccnc1)N=O,1,CYP Knowledgebase 
+PULEGONE (A MONOTERPENE CONSTITUENT OF PENNYROYAL OIL),CC(C)=C1CCC(C)CC1=O,1,CYP Knowledgebase 
+ACRYLONITRILE (AN; ACN),C=CC#N,1,CYP Knowledgebase 
+4-(METHYLNITROSAMINO)-1-(3-PYRIDYL)-1-BUTANOL (NNAL),CN(CCCC(O)c1cccnc1)N=O,1,CYP Knowledgebase 
+TAMOXIFEN (TAM),CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,1,DrugBank
+myristic_acid,CCCCCCCCCCCCCC(=O)O,1,Holmer
+NICARDIPINE (NIC),COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1,1,DrugBank
+"GTS-21 (DMXB; (E)-3-(2,4-DIMETHOXYBENZYLIDENE)-3,4,5,6-TETRAHYDRO--2,3`-BIPYRIDENE DIHYDROCHLORIDE)",COc1ccc(C=C2CCCN=C2c2cccnc2)c(OC)c1,1,CYP Knowledgebase 
+4-chloromethyl-7-ethoxycoumarin,CCOc1ccc2c(CCl)cc(=O)oc2c1,1,Siyang_Tian
+N-METHYL-2-PYRROLIDONE (NMP),CN1CCCC1=O,1,CYP Knowledgebase 
+"1,2-DIBROMOETHANE (1,2-DBE)",BrCCBr,1,CYP Knowledgebase 
+ARACHIDONIC ACID (AA),CCCCCC=CCC=CCC=CCC=CCCCC(=O)O,1,CYP Knowledgebase 
+7-ETHOXY-COUMARIN,CCOc1ccc2ccc(=O)oc2c1,1,CYP Knowledgebase 
+"VERAPAMIL (R)-, (S)-",COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,1,DrugBank
+TRIMETHADIONE (TMO),CN1C(=O)OC(C)(C)C1=O,1,DrugBank
+PHENOBARBITAL (PB; NAPB),CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,1,DrugBank
+"OXAZOLIDINEDIONE (5-{4-[3-(4-CYCLOHEXYL-2-PROPYLPHENOXY)PROPOXY]PHENYL}-1,3-OXAZOLIDINE-2,4-DIONE; OZD)",O=C1COC(=O)N1,1,CYP Knowledgebase 
+LAURIC ACID (DODECANOIC ACID; DDA),CCCCCCCCCCCC(=O)O,1,CYP Knowledgebase 
+"ILOPERIDONE (BENZISOXAZOLE; [1-[4-[3-[4-(6-FLUORO-1, 2-BENZISOXAZOL-3-YL)-1-PIPERIDINYL]PROPOXY]-3-METHOXYPHENYL]ETH ANONE, 1)",COc1cc(C(C)=O)ccc1OCCCN1CCC(c2noc3cc(F)ccc23)CC1,1,CYP Knowledgebase 
+2N-PROPYLQUINOLINE (2NPQ),CCCc1ccc2ccccc2n1,1,CYP Knowledgebase 
+2_nonanol,CCCCCCCC(C)O,1,Holmer
+aminopyrine,CN(C)c1cn(C)n(-c2ccccc2)c1=O,1,DrugBank
+chlorpromazine_compound_1,CN(C)CCCCCN1c2ccccc2Sc2ccc(C(F)(F)F)cc21,1,Holmer
+cp_125_611,Oc1ccc(OC(F)(F)F)cc1CNC1CCCNC1c1ccccc1,1,Holmer
+cyclohexene,C1=CCCCC1,1,Holmer
+dacarbazine,CN(C)N=Nc1[nH]cnc1C(N)=O,1,DrugBank
+isoprene_epoxide_1,C=CC1(C)CO1,1,Holmer
+isoprene_epoxide_2,C=C(C)C1CO1,1,Holmer
+kr_31543,COC(OC)C1(C)Oc2ccc(N)cc2C(N(Cc2nnn(C)n2)c2ccc(Cl)cc2)C1O,1,Holmer
+linoleic_acid,CCCCCC=CCC=CCCCCCCCC(=O)O,1,Holmer
+mop_13031,COC(=O)C1=C(C)N=C(C)C(C(=O)O)C1c1cccc([N+](=O)[O-])c1,1,Holmer
+nicardipine,COC(=O)C1=C(C)N=C(C)C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1,1,DrugBank
+rosiglitazone,CN(CCOc1ccc(Cc2sc(=O)[nH]c2O)cc1)c1ccccn1,1,Yamashita
+tame,CCC(C)(C)OC,1,Holmer
+troglitazone,Cc1c(C)c2c(c(C)c1O)CCC(C)(COc1ccc(Cc3sc(=O)[nH]c3O)cc1)O2,1,Yamashita
+urporphyrinogen,O=C(O)CCc1c2[nH]c(c1CC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)Cc1[nH]c(c(CC(=O)O)c1CCC(=O)O)C2,1,Holmer
+"1,4-cineole",CC(C)C12CCC(C)(CC1)O2,0,Yamashita
+1'-hydroxybufuralol,CC(O)c1cccc2cc(C(O)CNC(C)(C)C)oc12,0,Yamashita
+1-methyl-3-propylxanthine,CCCn1c(=O)n(C)c(=O)c2[nH]cnc21,0,DrugBank
+"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",CN1CC=C(c2ccccc2)CC1,0,Yamashita
+1-methyluric acid,Cn1c(=O)[nH]c2[nH]c(=O)[nH]c2c1=O,0,Yamashita
+"2,3,7,8-tetrachlorodibenzo-p-dioxin",Clc1cc2c(cc1Cl)Oc1cc(Cl)c(Cl)cc1O2,0,Yamashita
+"2',6'-pipecoloxylidide",Cc1cccc(C)c1NC(=O)C1CCCCN1,0,Yamashita
+"2-amino-3,4-dimethylimidazo[4,5-f]quinoline",Cc1cc2ncccc2c2nc(N)n(C)c12,0,Yamashita
+2-aminofluorene,Nc1ccc2c(c1)Cc1ccccc1-2,0,Yamashita
+"2-chloro-1,1,1-trifluoroethane",FC(F)(F)CCl,0,Yamashita
+"2-chloro-1,1-difluoroethene",FC(F)=CCl,0,Yamashita
+"2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidine",CC=C1N(C)C(C)CC1(c1ccccc1)c1ccccc1,0,Yamashita
+2-hydroxycarbamazepine,NC(=O)N1c2ccccc2C=Cc2cc(O)ccc21,0,Yamashita
+2-hydroxyestradiol,CC12CCC3c4cc(O)c(O)cc4CCC3C1CCC2O,0,Yamashita
+2-hydroxyflutamide,CC(C)(O)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1,0,Yamashita
+"3,3'-diindolylmethane",c1ccc2c(Cc3c[nH]c4ccccc34)c[nH]c2c1,0,Yamashita
+3-cyano-7-ethoxycoumarin,CCOc1ccc2cc(C#N)c(=O)oc2c1,0,Yamashita
+3-hydroxyflunitrazepam,CN1C(=O)C(O)N=C(c2ccccc2F)c2cc([N+](=O)[O-])ccc21,0,DrugBank
+3-hydroxyquinidine,C=CC1(O)CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12,0,DrugBank
+3-hydroxyropivacaine,CCCN1CCCCC1C(=O)Nc1c(C)ccc(O)c1C,0,CYP Knowledgebase 
+3-ketodesogestrel,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3C(=C)CC21CC,0,Yamashita
+3-methoxymorphinan,COc1ccc2c(c1)C13CCCCC1C(C2)NCC3,0,Yamashita
+4-aminobiphenyl,Nc1ccc(-c2ccccc2)cc1,0,Yamashita
+4-chlorophenylbiguanide,NC(N)=NC(N)=Nc1ccc(Cl)cc1,0,Yamashita
+4-hydroxymephenytoin,CCC1(c2ccc(O)cc2)NC(=O)N(C)C1=O,0,Yamashita
+4-ipomeanol,CC(O)CCC(=O)c1ccoc1,0,Yamashita
+5-acetylamino-6-formylamino-3-methyluracil,CC(=O)Nc1c(NC=O)[nH]c(=O)n(C)c1=O,0,Yamashita
+5-fluorouracil,O=c1[nH]cc(F)c(=O)[nH]1,0,Yamashita
+5-methoxytryptamine,COc1ccc2[nH]cc(CCN)c2c1,0,Yamashita
+7-benzyloxyquinoline,c1ccc(COc2ccc3cccnc3c2)cc1,0,Yamashita
+7-hydroxychlorpromazine,CN(C)CCCN1c2ccc(O)cc2Sc2ccc(Cl)cc21,0,Yamashita
+7-hydroxycoumarin,O=c1ccc2ccc(O)cc2o1,0,Yamashita
+8-hydroxycarteolol,CC(C)(C)NCC(O)COc1ccc(O)c2c1CCC(=O)N2,0,Yamashita
+9-cis-retinal,CC(C=CC=C(C)C=CC1=C(C)CCCC1(C)C)=CC=O,0,Yamashita
+9-hydroxyrisperidone,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2O,0,Yamashita
+acenocoumarol,CC(=O)CC(c1ccc([N+](=O)[O-])cc1)c1c(O)c2ccccc2oc1=O,0,Yamashita
+acetanilide,CC(=O)Nc1ccccc1,0,Yamashita
+alachlor,CCc1cccc(CC)c1N(COC)C(=O)CCl,0,Yamashita
+albendazole,CCCSc1ccc2nc(NC(=O)OC)[nH]c2c1,0,Yamashita
+aldicarb,CNC(=O)ON=CC(C)(C)SC,0,Yamashita
+allopregnanolone,CC(=O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C,0,Yamashita
+allylmethyldisulfide,C=CCSSC,0,Yamashita
+alosetron,Cc1[nH]cnc1CN1CCc2c(c3ccccc3n2C)C1=O,0,DrugBank
+alpha-hydroxymetoprolol,COCC(O)c1ccc(OCC(O)CNC(C)C)cc1,0,CYP Knowledgebase 
+alpha-naphthoflavone,O=c1cc(-c2ccccc2)oc2c1ccc1ccccc12,0,Yamashita
+alprazolam,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,0,Yamashita
+ambroxol,Nc1c(Br)cc(Br)cc1CNC1CCC(O)CC1,0,Yamashita
+amiodarone,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1,0,Yamashita
+amlodipine,CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)C1c1ccccc1Cl,0,Yamashita
+amphetamine,CC(N)Cc1ccccc1,0,Yamashita
+amprenavir,CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1CCOC1)S(=O)(=O)c1ccc(N)cc1,0,Yamashita
+anandamide,CCCCCC=CCC=CCC=CCC=CCCCC(=O)NCCO,0,Yamashita
+androstenedione,CC12CCC3C(CCC4=CC(=O)CCC43C)C1CCC2=O,0,Yamashita
+apixaban,COc1ccc(-n2nc(C(N)=O)c3c2C(=O)N(c2ccc(N4CCCCC4=O)cc2)CC3)cc1,0,Yamashita
+aprindine,CCN(CC)CCCN(c1ccccc1)C1Cc2ccccc2C1,0,Yamashita
+argatroban,CC1CNc2c(cccc2S(=O)(=O)NC(CCCN=C(N)N)C(=O)N2CCC(C)CC2C(=O)O)C1,0,Yamashita
+aripiprazole,O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1,0,Yamashita
+artelinic acid,CC1CCC2C(C)C(OCc3ccc(C(=O)O)cc3)OC3OC4(C)CCC1C32OO4,0,Yamashita
+artemether,COC1OC2OC3(C)CCC4C(C)CCC(C1C)C24OO3,0,Yamashita
+artemisinin,CC1CCC2C(C)C(=O)OC3OC4(C)CCC1C32OO4,0,Yamashita
+aspartic acid,NC(CC(=O)O)C(=O)O,0,Yamashita
+aspirin,CC(=O)Oc1ccccc1C(=O)O,0,Yamashita
+atazanavir,COC(=O)NC(C(=O)NC(Cc1ccccc1)C(O)CN(Cc1ccc(-c2ccccn2)cc1)NC(=O)C(NC(=O)OC)C(C)(C)C)C(C)(C)C,0,Yamashita
+atorvastatin,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O,0,Yamashita
+bendamustine,Cn1c(CCCC(=O)O)nc2cc(N(CCCl)CCCl)ccc21,0,Yamashita
+benidipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC2CCCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,0,DrugBank
+benzbromarone,CCc1oc2ccccc2c1C(=O)c1cc(Br)c(O)c(Br)c1,0,Yamashita
+benzidine,Nc1ccc(-c2ccc(N)cc2)cc1,0,Yamashita
+benzodiazepine,C1=Cc2ccccc2NN=C1,0,Yamashita
+benzothiazole,c1ccc2scnc2c1,0,Yamashita
+benztropine,CN1C2CCC1CC(OC(c1ccccc1)c1ccccc1)C2,0,Yamashita
+benzylether,c1ccc(COCc2ccccc2)cc1,0,Yamashita
+benzylpiperazine,c1ccc(CN2CCNCC2)cc1,0,Yamashita
+beta-naphthoflavone,O=c1cc(-c2ccccc2)oc2ccc3ccccc3c12,0,Yamashita
+beta-thujone,CC1C(=O)CC2(C(C)C)CC12,0,Yamashita
+bicifadine,Cc1ccc(C23CNCC2C3)cc1,0,Yamashita
+bifendate,COC(=O)c1cc(OC)c2c(c1-c1c(C(=O)OC)cc(OC)c3c1OCO3)OCO2,0,Yamashita
+bisoprolol,CC(C)NCC(O)COc1ccc(COCCOC(C)C)cc1,0,Yamashita
+bosentan,COc1ccccc1Oc1c(NS(=O)(=O)c2ccc(C(C)(C)C)cc2)nc(-c2ncccn2)nc1OCCO,0,Yamashita
+brofaromine,COc1cc(Br)c2oc(C3CCNCC3)cc2c1,0,Yamashita
+bromazepam,O=C1CN=C(c2ccccn2)c2cc(Br)ccc2N1,0,DrugBank
+bromocriptine,CC(C)CC1C(=O)N2CCCC2C2(O)OC(NC(=O)C3C=C4c5cccc6[nH]c(Br)c(c56)CC4N(C)C3)(C(C)C)C(=O)N12,0,Yamashita
+bromperidol,O=C(CCCN1CCC(O)(c2ccc(Br)cc2)CC1)c1ccc(F)cc1,0,Yamashita
+budesonide,CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,0,Yamashita
+bupranolol,Cc1ccc(Cl)c(OCC(O)CNC(C)(C)C)c1,0,Yamashita
+buprenorphine,COC12CCC3(CC1C(C)(O)C(C)(C)C)C1Cc4ccc(O)c5c4C3(CCN1CC1CC1)C2O5,0,Yamashita
+buspirone,O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1,0,Yamashita
+candesartan,CCOc1nc2cccc(C(=O)O)c2n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,0,Yamashita
+carbaryl,CNC(=O)Oc1cccc2ccccc12,0,Yamashita
+carbazole,c1ccc2c(c1)[nH]c1ccccc12,0,Yamashita
+carebastine,CC(C)(C(=O)O)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1,0,Yamashita
+carisoprodol,CCCC(C)(COC(N)=O)COC(=O)NC(C)C,0,Yap
+catechol,Oc1ccccc1O,0,Yamashita
+celecoxib,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,0,Yamashita
+cephalomannine,CC=C(C)C(=O)NC(c1ccccc1)C(O)C(=O)OC1CC2(O)C(OC(=O)c3ccccc3)C3C4(OC(C)=O)COC4CC(O)C3(C)C(=O)C(OC(C)=O)C(=C1C)C2(C)C,0,Yamashita
+cerivastatin,COCc1c(C(C)C)nc(C(C)C)c(C=CC(O)CC(O)CC(=O)O)c1-c1ccc(F)cc1,0,Yamashita
+chalcone,O=C(C=Cc1ccccc1)c1ccccc1,0,Yamashita
+chloroquine,CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12,0,Yamashita
+chlorpheniramine,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,0,Yamashita
+chlorpromazine,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,0,DrugBank
+chlorpropamide,CCCNC(=O)NS(=O)(=O)c1ccc(Cl)cc1,0,Yamashita
+chlorpyrifos-oxon,CCOP(=O)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,0,Yamashita
+cholesterol,CC(C)CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,0,Yamashita
+cibenzoline,c1ccc(C2(c3ccccc3)CC2C2=NCCN2)cc1,0,Holmer
+ciclesonide,CC(C)C(=O)OCC(=O)C12OC(C3CCCCC3)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3C(O)CC12C,0,Yamashita
+cimetidine,CN=C(NC#N)NCCSCc1nc[nH]c1C,0,DrugBank
+cinacalcet,CC(NCCCc1cccc(C(F)(F)F)c1)c1cccc2ccccc12,0,Yamashita
+cinitapride,CCOc1cc(N)c([N+](=O)[O-])cc1C(=O)NC1CCN(CC2CC=CCC2)CC1,0,Yamashita
+cisapride,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC1OC,0,Yamashita
+clarithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C(O)C1(C)O,0,Yamashita
+clobazam,CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,0,Yamashita
+clomipramine,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21,0,Yamashita
+clopidogrel,COC(=O)C(c1ccccc1Cl)N1CCc2sccc2C1,0,Yamashita
+clotiazepam,CCc1cc2c(s1)N(C)C(=O)CN=C2c1ccccc1Cl,0,Yamashita
+creatinine,CN1CC(=O)N=C1N,0,Yamashita
+cryptotanshinone,CC1COC2=C1C(=O)C(=O)c1c2ccc2c1CCCC2(C)C,0,Yamashita
+cyclobenzaprine,CN(C)CCC=C1c2ccccc2C=Cc2ccccc21,0,Yamashita
+cycloguanil,CC1(C)N=C(N)N=C(N)N1c1ccc(Cl)cc1,0,Yamashita
+cyclophosphamide,O=P1(N(CCCl)CCCl)NCCCO1,0,Yamashita
+cysteine,NC(CS)C(=O)O,0,Yamashita
+cytarabine,Nc1ccn(C2OC(CO)C(O)C2O)c(=O)n1,0,Yamashita
+daidzein,O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12,0,Yamashita
+dalcetrapib,CCC(CC)CC1(C(=O)Nc2ccccc2SC(=O)C(C)C)CCCCC1,0,Yamashita
+dalfopristin,CCN(CC)CCS(=O)(=O)C1CCN2C(=O)c3coc(n3)CC(=O)CC(O)C=C(C)C=CCNC(=O)C=CC(C)C(C(C)C)OC(=O)C12,0,Yamashita
+darunavir,CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1COC2OCCC12)S(=O)(=O)c1ccc(N)cc1,0,Yamashita
+dasatinib,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,0,Yamashita
+daunorubicin,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(C)=O)CC3OC1CC(N)C(O)C(C)O1,0,Yamashita
+debrisoquine,N=C(N)N1CCc2ccccc2C1,0,Yamashita
+deguelin,COc1cc2c(cc1OC)C1C(=O)c3ccc4c(c3OC1CO2)C=CC(C)(C)O4,0,Yamashita
+delavirdine,CC(C)Nc1cccnc1N1CCN(C(=O)c2cc3cc(NS(C)(=O)=O)ccc3[nH]2)CC1,0,Yamashita
+deltamethrin,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,0,Yamashita
+deoxypodophyllotoxin,COc1cc(C2c3cc4c(cc3CC3COC(=O)C32)OCO4)cc(OC)c1OC,0,Yamashita
+deramciclane,CN(C)CCOC1(c2ccccc2)CC2CCC1(C)C2(C)C,0,Yamashita
+derivative,CCN(CC)c1ccc2cc(-c3nnc(-c4ccccc4)s3)c(=O)oc2c1,0,Yamashita
+desethylamiodarone,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCNCC)c(I)c1,0,Yamashita
+desglymidodrine,COc1ccc(OC)c(C(O)CN)c1,0,Yamashita
+desipramine,CNCCCN1c2ccccc2CCc2ccccc21,0,DrugBank
+desmethylazelastine,O=c1c2ccccc2c(Cc2ccc(Cl)cc2)nn1C1CCCNCC1,0,DrugBank
+desmethylflunitrazepam,O=C1CN=C(c2ccccc2F)c2cc([N+](=O)[O-])ccc2N1,0,DrugBank
+desmethylmianserin,c1ccc2c(c1)Cc1ccccc1N1CCNCC21,0,Yamashita
+desmethyltrimipramine,CNCC(C)CN1c2ccccc2CCc2ccccc21,0,DrugBank
+desogestrel,C#CC1(O)CCC2C3CCC4=CCCCC4C3C(=C)CC21CC,0,Yamashita
+desvenlafaxine,CN(C)CC(c1ccc(O)cc1)C1(O)CCCCC1,0,Yamashita
+dexamethasone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,0,DrugBank
+dextropropoxyphene,CCC(=O)OC(Cc1ccccc1)(c1ccccc1)C(C)CN(C)C,0,Yamashita
+dextrorphan,CN1CCC23CCCCC2C1Cc1ccc(O)cc13,0,Yamashita
+diazepam,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,0,DrugBank
+diazinon,CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1,0,Yamashita
+dibenzoylmethane,O=C(CC(=O)c1ccccc1)c1ccccc1,0,Yamashita
+dichlobenil,N#Cc1c(Cl)cccc1Cl,0,Yamashita
+diclofenac,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,0,DrugBank
+dihydralazine,NNc1nnc(NN)c2ccccc12,0,Yamashita
+dihydrocodeine,COc1ccc2c3c1OC1C(O)CCC4C(C2)N(C)CCC341,0,Yamashita
+dihydrodiol,OC1C=Cc2ccccc2C1O,0,Yamashita
+dihydromorphine,CN1CCC23c4c5ccc(O)c4OC2C(O)CCC3C1C5,0,Yamashita
+dihydropyridine,C1=CCNC=C1,0,Yamashita
+diltiazem,COc1ccc(C2Sc3ccccc3N(CCN(C)C)C(=O)C2OC(C)=O)cc1,0,Yamashita
+dipyridamole,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,0,Yamashita
+disopyramide,CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ccccn1)C(C)C,0,Yamashita
+docetaxel,CC(=O)OC12COC1CC(O)C1(C)C(=O)C(O)C3=C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c4ccccc4)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C,0,Yamashita
+dofetilide,CN(CCOc1ccc(NS(C)(=O)=O)cc1)CCc1ccc(NS(C)(=O)=O)cc1,0,Yamashita
+dolasetron,O=C(OC1CC2CC3CC(C1)N2CC3=O)c1c[nH]c2ccccc12,0,Yamashita
+domperidone,O=c1[nH]c2ccccc2n1CCCN1CCC(n2c(=O)[nH]c3cc(Cl)ccc32)CC1,0,Yamashita
+donepezil,COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2,0,Yamashita
+doxepin,CN(C)CCC=C1c2ccccc2COc2ccccc21,0,Yamashita
+doxorubicin,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(=O)CO)CC3OC1CC(N)C(O)C(C)O1,0,Yamashita
+duloxetine,CNCCC(Oc1cccc2ccccc12)c1cccs1,0,Yamashita
+ebastine,CC(C)(C)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1,0,Yamashita
+efavirenz,O=C1Nc2ccc(Cl)cc2C(C#CC2CC2)(C(F)(F)F)O1,0,Yamashita
+eicosapentaenoic acid,CCC=CCC=CCC=CCC=CCC=CCCCC(=O)O,0,Yamashita
+eletriptan,CN1CCCC1Cc1c[nH]c2ccc(CCS(=O)(=O)c3ccccc3)cc12,0,DrugBank
+ellipticine,Cc1c2ccncc2c(C)c2c1[nH]c1ccccc12,0,Yamashita
+emetine,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21,0,Yamashita
+encainide,COc1ccc(C(=O)Nc2ccccc2CCC2CCCCN2C)cc1,0,Yap
+endoxifen,CCC(=C(c1ccc(O)cc1)c1ccc(OCCNC)cc1)c1ccccc1,0,Yamashita
+enoxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)nc21,0,Yamashita
+eribulin,C=C1CC2CCC34CC5OC6C(OC7CCC(CC(=O)CC8C(CC9OC(CCC1O2)CC(C)C9=C)OC(CC(O)CN)C8OC)OC7C6O3)C5O4,0,Yamashita
+erlotinib,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1,0,Yamashita
+erythromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O,0,Yamashita
+estazolam,Clc1ccc2c(c1)C(c1ccccc1)=NCc1nncn1-2,0,Yamashita
+estrone sulfate,CC12CCC3c4ccc(OS(=O)(=O)O)cc4CCC3C1CCC2=O,0,DrugBank
+ethylmorphine,CCOc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341,0,Yamashita
+etizolam,CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1Cl,0,Yamashita
+etodolac,CCc1cccc2c3c([nH]c12)C(CC)(CC(=O)O)OCC3,0,Yamashita
+etoperidone,CCc1nn(CCCN2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CC,0,Yamashita
+etoricoxib,Cc1ccc(-c2ncc(Cl)cc2-c2ccc(S(C)(=O)=O)cc2)cn1,0,DrugBank
+etravirine,Cc1cc(C#N)cc(C)c1Oc1nc(Nc2ccc(C#N)cc2)nc(N)c1Br,0,Yamashita
+everolimus,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(OCCO)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,0,Yamashita
+ezlopitant,COc1ccc(C(C)C)cc1CNC1C2CCN(CC2)C1C(c1ccccc1)c1ccccc1,0,Yamashita
+felodipine,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl,0,DrugBank
+fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,0,Yamashita
+fexofenadine,CC(C)(C(=O)O)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,0,Yamashita
+finasteride,CC(C)(C)NC(=O)C1CCC2C3CCC4NC(=O)C=CC4(C)C3CCC12C,0,Yamashita
+fipronil,N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1S(=O)C(F)(F)F,0,Yamashita
+flavone,O=c1cc(-c2ccccc2)oc2ccccc12,0,Yamashita
+flecainide,O=C(NCC1CCCCN1)c1cc(OCC(F)(F)F)ccc1OCC(F)(F)F,0,Yamashita
+fluconazole,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,0,Yamashita
+flunitrazepam,CN1C(=O)CN=C(c2ccccc2F)c2cc([N+](=O)[O-])ccc21,0,DrugBank
+fluorescein,O=C1OC2(c3ccc(O)cc3Oc3cc(O)ccc32)c2ccccc21,0,Yamashita
+fluperlapine,CN1CCN(C2=Nc3cc(F)ccc3Cc3ccccc32)CC1,0,Yamashita
+flurbiprofen,CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1,0,Yamashita
+flutamide,CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1,0,Holmer
+fluvastatin,CC(C)n1c(C=CC(O)CC(O)CC(=O)O)c(-c2ccc(F)cc2)c2ccccc21,0,Yamashita
+frovatriptan,CNC1CCc2[nH]c3ccc(C(N)=O)cc3c2C1,0,Yamashita
+furafylline,Cc1nc2c([nH]1)c(=O)n(C)c(=O)n2Cc1ccco1,0,Yamashita
+galangin,O=c1c(O)c(-c2ccccc2)oc2cc(O)cc(O)c12,0,Yamashita
+galantamine,COc1ccc2c3c1OC1CC(O)C=CC31CCN(C)C2,0,Yamashita
+gamma-tocotrienol,CC(C)=CCCC(C)=CCCC(C)=CCCC1(C)CCc2cc(O)c(C)c(C)c2O1,0,Yamashita
+gefitinib,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,0,Yamashita
+gemfibrozil,Cc1ccc(C)c(OCCCC(C)(C)C(=O)O)c1,0,Yamashita
+gestodene,C#CC1(O)C=CC2C3CCC4=CC(=O)CCC4C3CCC21CC,0,Yamashita
+gliclazide,Cc1ccc(S(=O)(=O)NC(=O)NN2CC3CCCC3C2)cc1,0,Yamashita
+glimepiride,CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCC(C)CC3)cc2)C1=O,0,Yamashita
+glipizide,Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc2)cn1,0,Yamashita
+glucuronide,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)OC1OC(C(=O)O)C(O)C(O)C1O,0,Yamashita
+glyburide,COc1ccc(Cl)cc1C(=O)NCCc1ccc(S(=O)(=O)NC(=O)NC2CCCCC2)cc1,0,Yamashita
+granisetron,CN1C2CCCC1CC(NC(=O)c1nn(C)c3ccccc13)C2,0,Yamashita
+guanabenz,NC(N)=NN=Cc1c(Cl)cccc1Cl,0,Yamashita
+halofantrine,CCCCN(CCCC)CCC(O)c1cc2c(Cl)cc(Cl)cc2c2cc(C(F)(F)F)ccc12,0,Yamashita
+harmaline,COc1ccc2c3c([nH]c2c1)C(C)=NCC3,0,Yamashita
+hesperetin,COc1ccc(C2CC(=O)c3c(O)cc(O)cc3O2)cc1O,0,Yamashita
+hexobarbital,CN1C(=O)NC(=O)C(C)(C2=CCCCC2)C1=O,0,Yamashita
+histamine,NCCc1cnc[nH]1,0,Yamashita
+hydrastine,COc1ccc2c(c1OC)C(=O)OC2C1c2cc3c(cc2CCN1C)OCO3,0,Yamashita
+hydromorphone,CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3C1C5,0,Yamashita
+hydroxynefazodone,CC(O)c1nn(CCCN2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1,0,Yamashita
+hydroxyurea,NC(=O)NO,0,Yamashita
+ibogaine,CCC1CC2CC3c4[nH]c5ccc(OC)cc5c4CCN(C2)C13,0,Yamashita
+ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,0,Yamashita
+ibutilide,CCCCCCCN(CC)CCCC(O)c1ccc(NS(C)(=O)=O)cc1,0,Yamashita
+idarubicin,CC(=O)C1(O)Cc2c(O)c3c(c(O)c2C(OC2CC(N)C(O)C(C)O2)C1)C(=O)c1ccccc1C3=O,0,Yamashita
+ifosfamide,O=P1(NCCCl)OCCCN1CCCl,0,Yamashita
+ilaprazole,COc1ccnc(CS(=O)c2nc3ccc(-n4cccc4)cc3[nH]2)c1C,0,Yamashita
+imidacloprid,O=[N+]([O-])N=C1NCCN1Cc1ccc(Cl)nc1,0,Yamashita
+imidafenacin,Cc1nccn1CCC(C(N)=O)(c1ccccc1)c1ccccc1,0,Yamashita
+imipramine,CN(C)CCCN1c2ccccc2CCc2ccccc21,0,DrugBank
+imrecoxib,CCCN1CC(c2ccc(S(C)(=O)=O)cc2)=C(c2ccc(C)cc2)C1=O,0,Yamashita
+indapamide,CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,0,Yamashita
+indinavir,CC(C)(C)NC(=O)C1CN(Cc2cccnc2)CCN1CC(O)CC(Cc1ccccc1)C(=O)NC1c2ccccc2CC1O,0,Yamashita
+indoleamine,Nc1cc2ccccc2[nH]1,0,Yamashita
+indoline,c1ccc2c(c1)CCN2,0,Yamashita
+indomethacin,COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,0,Yamashita
+irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,0,Holmer
+irsogladine,Nc1nc(N)nc(-c2cc(Cl)ccc2Cl)n1,0,Yamashita
+isoflavone,O=c1c(-c2ccccc2)coc2ccccc12,0,Yamashita
+isosafrole,CC=Cc1ccc2c(c1)OCO2,0,Yamashita
+isosorbide dinitrate,O=[N+]([O-])OC1COC2C(O[N+](=O)[O-])COC12,0,DrugBank
+itraconazole,CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O,0,DrugBank
+ixabepilone,CC(=Cc1csc(C)n1)C1CC2OC2(C)CCCC(C)C(O)C(C)C(=O)C(C)(C)C(O)CC(=O)N1,0,Yamashita
+kaempferol,O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,0,Yamashita
+ketobemidone,CCC(=O)C1(c2cccc(O)c2)CCN(C)CC1,0,Yamashita
+lansoprazole,Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1,0,Yamashita
+lapatinib,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1,0,Yamashita
+laquinimod,CCN(C(=O)c1c(O)c2c(Cl)cccc2n(C)c1=O)c1ccccc1,0,Yamashita
+lasofoxifene,Oc1ccc2c(c1)CCC(c1ccccc1)C2c1ccc(OCCN2CCCC2)cc1,0,Yamashita
+leflunomide,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,0,Yamashita
+levofloxacin,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,0,Yamashita
+levomepromazine,COc1ccc2c(c1)N(CC(C)CN(C)C)c1ccccc1S2,0,DrugBank
+levonorgestrel,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21CC,0,Yamashita
+lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,0,Yamashita
+limonene,C=C(C)C1CC=C(C)CC1,0,Yamashita
+linalool,C=CC(C)(O)CCC=C(C)C,0,Yamashita
+lisofylline,CC(O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O,0,Yamashita
+lithocholic acid,CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C,0,Yamashita
+loperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,0,Holmer
+loratadine,CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,0,Yamashita
+lornoxicam,CN1C(C(=O)Nc2ccccn2)=C(O)c2sc(Cl)cc2S1(=O)=O,0,Yamashita
+losartan,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,0,Yamashita
+lovastatin,CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,0,Yamashita
+luciferin,O=C(O)C1CSC(c2nc3ccc(O)cc3s2)=N1,0,Yamashita
+lynestrenol,C#CC1(O)CCC2C3CCC4=CCCCC4C3CCC21C,0,Yamashita
+malaoxon,CCOC(=O)CC(SP(=O)(OC)OC)C(=O)OCC,0,Yamashita
+mannitol,OCC(O)C(O)C(O)C(O)CO,0,Yamashita
+maprotiline,CNCCCC12CCC(c3ccccc31)c1ccccc12,0,Yamashita
+maraviroc,Cc1nnc(C(C)C)n1C1CC2CCC(C1)N2CCC(NC(=O)C1CCC(F)(F)CC1)c1ccccc1,0,Yamashita
+maribavir,CC(C)Nc1nc2cc(Cl)c(Cl)cc2n1C1OC(CO)C(O)C1O,0,Yamashita
+mefloquine,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,0,Yamashita
+meglitinide,COc1ccc(Cl)cc1C(=O)NCCc1ccc(C(=O)O)cc1,0,CYP Knowledgebase 
+MeIQx,Cc1cnc2ccc3c(nc(N)n3C)c2n1,0,Yamashita
+melatonin,COc1ccc2[nH]cc(CCNC(C)=O)c2c1,0,Yamashita
+meloxicam,Cc1cnc(NC(=O)C2=C(O)c3ccccc3S(=O)(=O)N2C)s1,0,Yamashita
+meperidine,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,0,Yamashita
+mephobarbital,CCC1(c2ccccc2)C(=O)NC(=O)N(C)C1=O,0,DrugBank
+meprobamate,CCCC(C)(COC(N)=O)COC(N)=O,0,Yamashita
+mequitazine,c1ccc2c(c1)Sc1ccccc1N2CC1CN2CCC1CC2,0,Yamashita
+mesoridazine,CN1CCCCC1CCN1c2ccccc2Sc2ccc(S(C)=O)cc21,0,DrugBank
+methadone,CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1,0,Yamashita
+methamphetamine,CNC(C)Cc1ccccc1,0,Yamashita
+methimazole,Cn1cc[nH]c1=S,0,DrugBank
+methoxychlor,COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1,0,Yamashita
+methylenedioxymethamphetamine,CNC(C)Cc1ccc2c(c1)OCO2,0,Yamashita
+methylphenidate,COC(=O)C(c1ccccc1)C1CCCCN1,0,Yamashita
+metoclopramide,CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC,0,Yamashita
+mevalonate,CC(O)(CCO)CC(=O)[O-],0,Yamashita
+mianserin,CN1CCN2c3ccccc3Cc3ccccc3C2C1,0,Holmer
+mibefradil,COCC(=O)OC1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2C1C(C)C,0,Yamashita
+mifepristone,CC#CC1(O)CCC2C3CCC4=CC(=O)CCC4=C3C(c3ccc(N(C)C)cc3)CC21C,0,Yamashita
+mirodenafil,CCCOc1ccc(S(=O)(=O)N2CCN(CCO)CC2)cc1-c1nc2c(CCC)cn(CC)c2c(=O)[nH]1,0,Yamashita
+mirtazapine,CN1CCN2c3ncccc3Cc3ccccc3C2C1,0,Yamashita
+moclobemide,O=C(NCCN1CCOCC1)c1ccc(Cl)cc1,0,Yamashita
+modafinil,NC(=O)CS(=O)C(c1ccccc1)c1ccccc1,0,Yamashita
+morin,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,0,Yamashita
+morphine,CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5,0,Yamashita
+muraglitazar,COc1ccc(OC(=O)N(CC(=O)O)Cc2ccc(OCCc3nc(-c4ccccc4)oc3C)cc2)cc1,0,Yamashita
+naloxone,C=CCN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,0,Yamashita
+naproxen,COc1ccc2cc(C(C)C(=O)O)ccc2c1,0,Yamashita
+naringin,CC1OC(OC2C(Oc3cc(O)c4c(c3)OC(c3ccc(O)cc3)CC4=O)OC(CO)C(O)C2O)C(O)C(O)C1O,0,Yamashita
+nateglinide,CC(C)C1CCC(C(=O)NC(Cc2ccccc2)C(=O)O)CC1,0,Yamashita
+N-depropylpropafenone,NCC(O)COc1ccccc1C(=O)CCc1ccccc1,0,Yamashita
+N-desmethylclobazam,O=C1CC(=O)N(c2ccccc2)c2cc(Cl)ccc2N1,0,Yamashita
+N-desmethyltamoxifen,CCC(=C(c1ccccc1)c1ccc(OCCNC)cc1)c1ccccc1,0,Yamashita
+nebivolol,OC(CNCC(O)C1CCc2cc(F)ccc2O1)C1CCc2cc(F)ccc2O1,0,Yamashita
+nefazodone,CCc1nn(CCCN2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1,0,Yamashita
+nifedipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],0,DrugBank
+nimetazepam,CN1C(=O)CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc21,0,DrugBank
+nitrazepam,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,0,DrugBank
+nitroglycerine,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],0,Yamashita
+nizatidine,CNC(=C[N+](=O)[O-])NCCSCc1csc(CN(C)C)n1,0,Yamashita
+norclozapine,Clc1ccc2c(c1)N=C(N1CCNCC1)c1ccccc1N2,0,Yamashita
+norcodeine,COc1ccc2c3c1OC1C(O)C=CC4C(C2)NCCC341,0,Yamashita
+nordiazepam,O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1,0,Yamashita
+norethindrone,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C,0,Yamashita
+norfentanyl,CCC(=O)N(c1ccccc1)C1CCNCC1,0,Yamashita
+norfluoxetine,NCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,0,Yamashita
+normeperidine,CCOC(=O)C1(c2ccccc2)CCNCC1,0,Yamashita
+nortriptyline,CNCCC=C1c2ccccc2CCc2ccccc21,0,DrugBank
+ochratoxin A,CC1Cc2c(Cl)cc(C(=O)NC(Cc3ccccc3)C(=O)O)c(O)c2C(=O)O1,0,Yamashita
+O-demethylmetoprolol,CC(C)NCC(O)COc1ccc(CCO)cc1,0,Yamashita
+O-desmethylmethoxyphenamine,CNC(C)Cc1ccccc1O,0,Yamashita
+okadaic acid,C=C1C(O)C2OC3(CCC(C=CC(C)C4CC(C)=CC5(OC(CC(C)(O)C(=O)O)CCC5O)O4)O3)CCC2OC1C(O)CC(C)C1OC2(CCCCO2)CCC1C,0,Yamashita
+olanzapine,Cc1cc2c(s1)Nc1ccccc1N=C2N1CCN(C)CC1,0,Yamashita
+omeprazole,COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1,0,Yamashita
+omeprazole sulfone,COc1ccc2nc(S(=O)(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1,0,Yamashita
+osthol,COc1ccc2ccc(=O)oc2c1CC=C(C)C,0,Yamashita
+oxatomide,O=c1[nH]c2ccccc2n1CCCN1CCN(C(c2ccccc2)c2ccccc2)CC1,0,Yamashita
+oxiconazole,Clc1ccc(CON=C(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,0,Yamashita
+oxybutynin,CCN(CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1,0,Yamashita
+oxycodone,COc1ccc2c3c1OC1C(=O)CCC4(O)C(C2)N(C)CCC314,0,Yamashita
+oxymorphone,CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,0,Yamashita
+ozagrel,O=C(O)C=Cc1ccc(Cn2ccnc2)cc1,0,Yamashita
+paclitaxel,CC(=O)OC1C(=O)C2(C)C(O)CC3OCC3(OC(C)=O)C2C(OC(=O)c2ccccc2)C2(O)CC(OC(=O)C(O)C(NC(=O)c3ccccc3)c3ccccc3)C(C)=C1C2(C)C,0,Yamashita
+pactimibe,CCCCCCCCN1CCc2c(C)c(CC(=O)O)c(C)c(NC(=O)C(C)(C)C)c21,0,CYP Knowledgebase 
+palonosetron,O=C1c2cccc3c2C(CCC3)CN1C1CN2CCC1CC2,0,Yamashita
+pantoprazole,COc1ccnc(CS(=O)c2nc3ccc(OC(F)F)cc3[nH]2)c1OC,0,Yamashita
+parathion,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,0,Yamashita
+paraxanthine,Cn1c(=O)[nH]c2ncn(C)c2c1=O,0,DrugBank
+paroxetine,Fc1ccc(C2CCNCC2COc2ccc3c(c2)OCO3)cc1,0,Yamashita
+PbTx-2,C=C(C=O)CC1CC(O)C2(C)OC3CC4OC5CC6(C)OC7(C)CCC8OC9CC%10(C)OC%11C(C)=CC(=O)OC%11CC%10OC9CC(C)C8OC7CC6OC5(C)CC=CC4OC3CC2O1,0,Yamashita
+pefloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCN(C)CC3)cc21,0,Yamashita
+pentoxifylline,CC(=O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O,0,Yamashita
+pentoxyresorufin,CCCCCOc1ccc2nc3ccc(=O)cc-3oc2c1,0,Yamashita
+perhexiline,C1CCC(C(CC2CCCCN2)C2CCCCC2)CC1,0,Yamashita
+perospirone,O=C1C2CCCCC2C(=O)N1CCCCN1CCN(c2nsc3ccccc23)CC1,0,Yamashita
+perphenazine,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,0,Yamashita
+phenethylisothiocyanate,S=C=NCCc1ccccc1,0,Yamashita
+phenprocoumon,CCC(c1ccccc1)c1c(O)c2ccccc2oc1=O,0,Yamashita
+phenylalanine,NC(Cc1ccccc1)C(=O)O,0,Yamashita
+piceatannol,Oc1cc(O)cc(C=Cc2ccc(O)c(O)c2)c1,0,Yamashita
+pimobendan,COc1ccc(-c2nc3ccc(C4=NNC(=O)CC4C)cc3[nH]2)cc1,0,Yamashita
+pimozide,O=c1[nH]c2ccccc2n1C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,0,Yamashita
+pinoline,COc1ccc2[nH]c3c(c2c1)CCNC3,0,Yamashita
+pioglitazone,CCc1ccc(CCOc2ccc(CC3SC(=O)NC3=O)cc2)nc1,0,Yamashita
+piperine,O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1,0,Yamashita
+piroxicam,CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O,0,Yamashita
+pitavastatin,O=C(O)CC(O)CC(O)C=Cc1c(C2CC2)nc2ccccc2c1-c1ccc(F)cc1,0,Yamashita
+podophyllotoxin,COc1cc(C2c3cc4c(cc3C(O)C3COC(=O)C23)OCO4)cc(OC)c1OC,0,Yamashita
+posaconazole,CCC(C(C)O)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(F)cc6F)C5)cc4)CC3)cc2)c1=O,0,Yamashita
+pranlukast,O=C(Nc1cccc2c(=O)cc(-c3nn[nH]n3)oc12)c1ccc(OCCCCc2ccccc2)cc1,0,Yamashita
+prasugrel,CC(=O)Oc1cc2c(s1)CCN(C(C(=O)C1CC1)c1ccccc1F)C2,0,Yamashita
+pravastatin,CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C21,0,Yamashita
+praziquantel,O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3C2C1,0,Yamashita
+procainamide,CCN(CC)CCNC(=O)c1ccc(N)cc1,0,Yamashita
+progesterone,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,0,Yamashita
+promethazine,CC(CN1c2ccccc2Sc2ccccc21)N(C)C,0,Yamashita
+propafenone,CCCNCC(O)COc1ccccc1C(=O)CCc1ccccc1,0,Yamashita
+propionic acid,CCC(=O)O,0,Yamashita
+propofol,CC(C)c1cccc(C(C)C)c1O,0,DrugBank
+propranolol,CC(C)NCC(O)COc1cccc2ccccc12,0,Yamashita
+pyrazoloacridine,COc1ccc2c(c1)-c1nn(CCCN(C)C)c3ccc([N+](=O)[O-])c(c13)N2,0,Yamashita
+quazepam,Fc1ccccc1C1=NCC(=S)N(CC(F)(F)F)c2ccc(Cl)cc21,0,Yamashita
+quercetin,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,0,Yamashita
+quetiapine,OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,0,Yamashita
+quinupristin,CCC1NC(=O)C(NC(=O)c2ncccc2O)C(C)OC(=O)C(c2ccccc2)NC(=O)C2CC(=O)C(CSC3CN4CCC3CC4)CN2C(=O)C(Cc2ccc(N(C)C)cc2)N(C)C(=O)C2CCCN2C1=O,0,Yamashita
+rabeprazole,COCCCOc1ccnc(CS(=O)c2nc3ccccc3[nH]2)c1C,0,Yamashita
+raloxifene,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12,0,Yamashita
+ramelteon,CCC(=O)NCCC1CCc2ccc3c(c21)CCO3,0,Yamashita
+ranolazine,COc1ccccc1OCC(O)CN1CCN(CC(=O)Nc2c(C)cccc2C)CC1,0,Yamashita
+rasagiline,C#CCNC1CCc2ccccc21,0,Yamashita
+reboxetine,CCOc1ccccc1OC(c1ccccc1)C1CNCCO1,0,Yamashita
+remoxipride,CCN1CCCC1CNC(=O)c1c(OC)ccc(Br)c1OC,0,Yamashita
+repaglinide,CCOc1cc(CC(=O)NC(CC(C)C)c2ccccc2N2CCCCC2)ccc1C(=O)O,0,Yamashita
+repinotan,O=C1c2ccccc2S(=O)(=O)N1CCCCNCC1CCc2ccccc2O1,0,Yamashita
+resorufin,O=c1ccc2nc3ccc(O)cc3oc-2c1,0,Yamashita
+resveratrol,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1,0,Yamashita
+rifabutin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5c(c4c3C2=O)NC2(CCN(CC(C)C)CC2)N=5)=NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,0,Yamashita
+riluzole,Nc1nc2ccc(OC(F)(F)F)cc2s1,0,Yamashita
+risperidone,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2,0,Yamashita
+ritonavir,CC(C)c1nc(CN(C)C(=O)NC(C(=O)NC(Cc2ccccc2)CC(O)C(Cc2ccccc2)NC(=O)OCc2cncs2)C(C)C)cs1,0,Yamashita
+roflumilast,O=C(Nc1c(Cl)cncc1Cl)c1ccc(OC(F)F)c(OCC2CC2)c1,0,Yamashita
+ropinirole,CCCN(CCC)CCc1cccc2c1CC(=O)N2,0,Yamashita
+ropivacaine,CCCN1CCCCC1C(=O)Nc1c(C)cccc1C,0,Yamashita
+rosiglitazone,CN(CCOc1ccc(CC2SC(=O)NC2=O)cc1)c1ccccn1,0,Yamashita
+rosuvastatin,CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1C=CC(O)CC(O)CC(=O)O,0,Yamashita
+rotenone,C=C(C)C1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,0,Yamashita
+rutaecarpine,O=c1c2ccccc2nc2n1CCc1c-2[nH]c2ccccc12,0,Yamashita
+sabeluzole,CN(c1nc2ccccc2s1)C1CCN(CC(O)COc2ccc(F)cc2)CC1,0,Yamashita
+sanguinarine,C[n+]1cc2c3c(ccc2c2ccc4cc5c(cc4c21)OCO5)OCO3,0,Yamashita
+saquinavir,CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1,0,Yamashita
+sarizotan,Fc1ccc(-c2cncc(CNCC3CCc4ccccc4O3)c2)cc1,0,Yamashita
+selegiline,C#CCN(C)C(C)Cc1ccccc1,0,Yamashita
+serotonin,NCCc1c[nH]c2ccc(O)cc12,0,Yamashita
+sertindole,O=C1NCCN1CCN1CCC(c2cn(-c3ccc(F)cc3)c3ccc(Cl)cc23)CC1,0,Yamashita
+silodosin,CC(Cc1cc2c(c(C(N)=O)c1)N(CCCO)CC2)NCCOc1ccccc1OCC(F)(F)F,0,Yamashita
+silybin,COc1cc(C2Oc3cc(C4Oc5cc(O)cc(O)c5C(=O)C4O)ccc3OC2CO)ccc1O,0,Yamashita
+simvastatin,CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,0,Yamashita
+sirolimus,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,0,Yamashita
+solifenacin,O=C(OC1CN2CCC1CC2)N1CCc2ccccc2C1c1ccccc1,0,Yamashita
+sorafenib,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,0,Yamashita
+sotrastaurin,CN1CCN(c2nc(C3=C(c4c[nH]c5ccccc45)C(=O)NC3=O)c3ccccc3n2)CC1,0,Yamashita
+sparteine,C1CCN2CC3CC(CN4CCCCC34)C2C1,0,Yamashita
+sterigmatocystin,COc1cc2c(c3oc4cccc(O)c4c(=O)c13)C1C=COC1O2,0,Yamashita
+sufentanil,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,0,Yamashita
+sulfaphenazole,Nc1ccc(S(=O)(=O)Nc2ccnn2-c2ccccc2)cc1,0,Yamashita
+sulfinpyrazone,O=C1C(CCS(=O)c2ccccc2)C(=O)N(c2ccccc2)N1c1ccccc1,0,Yamashita
+sulfonylurea,NC(=O)N=S(=O)=O,0,Yamashita
+sunitinib,CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1C,0,Yamashita
+tacrolimus,C=CCC1C=C(C)CC(C)CC(OC)C2OC(O)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C)=CC3CCC(O)C(OC)C3)C(C)C(O)CC1=O)C(C)CC2OC,0,Yamashita
+tadalafil,CN1CC(=O)N2C(Cc3c([nH]c4ccccc34)C2c2ccc3c(c2)OCO3)C1=O,0,Yamashita
+tandospirone,O=C1C2C3CCC(C3)C2C(=O)N1CCCCN1CCN(c2ncccn2)CC1,0,Yamashita
+tangeretin,COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2)cc1,0,Yamashita
+telithromycin,CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C2N(CCCCn3cnc(-c4cccnc4)c3)C(=O)OC12C,0,Yamashita
+tenoxicam,CN1C(C(=O)Nc2ccccn2)=C(O)c2sccc2S1(=O)=O,0,Yamashita
+terbutryne,CCNc1nc(NC(C)(C)C)nc(SC)n1,0,Yamashita
+tetrahydrocannabinol,CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21,0,Siyang_Tian
+thiabendazole,c1ccc2[nH]c(-c3cscn3)nc2c1,0,Yamashita
+thiamethoxam,CN1COCN(Cc2cnc(Cl)s2)C1=N[N+](=O)[O-],0,Yamashita
+thiocoraline,CSCC1C(=O)SCC(NC(=O)c2nc3ccccc3cc2O)C(=O)NCC(=O)N(C)C2CSSCC(C(=O)N1C)N(C)C(=O)CNC(=O)C(NC(=O)c1nc3ccccc3cc1O)CSC(=O)C(CSC)N(C)C2=O,0,Yamashita
+thioridazine,CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2,0,DrugBank
+thiotepa,S=P(N1CC1)(N1CC1)N1CC1,0,Yamashita
+thiothixene,CN1CCN(CCC=C2c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,0,Yamashita
+ticlopidine,Clc1ccccc1CN1CCc2sccc2C1,0,DrugBank
+tilidine,CCOC(=O)C1(c2ccccc2)CCC=CC1N(C)C,0,Yamashita
+timolol,CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1,0,Yamashita
+tipifarnib,Cn1cncc1C(N)(c1ccc(Cl)cc1)c1ccc2c(c1)c(-c1cccc(Cl)c1)cc(=O)n2C,0,Yamashita
+tipranavir,CCCC1(CCc2ccccc2)CC(O)=C(C(CC)c2cccc(NS(=O)(=O)c3ccc(C(F)(F)F)cn3)c2)C(=O)O1,0,Yamashita
+tirilazad,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3=CCC2(C)C1C(=O)CN1CCN(c2cc(N3CCCC3)nc(N3CCCC3)n2)CC1,0,Yamashita
+tizanidine,Clc1ccc2nsnc2c1NC1=NCCN1,0,Yamashita
+tolperisone,Cc1ccc(C(=O)C(C)CN2CCCCC2)cc1,0,Yamashita
+tolterodine,Cc1ccc(O)c(C(CCN(C(C)C)C(C)C)c2ccccc2)c1,0,Yamashita
+tolvaptan,Cc1ccccc1C(=O)Nc1ccc(C(=O)N2CCCC(O)c3cc(Cl)ccc32)c(C)c1,0,Yamashita
+torsemide,Cc1cccc(Nc2ccncc2S(=O)(=O)NC(=O)NC(C)C)c1,0,Yamashita
+tramadol,COc1cccc(C2(O)CCCCC2CN(C)C)c1,0,Yamashita
+traxoprodil,CC(C(O)c1ccc(O)cc1)N1CCC(O)(c2ccccc2)CC1,0,Yamashita
+trazodone,O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12,0,Yamashita
+triamterene,Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1,0,Yamashita
+triazolam,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,0,Yamashita
+trimethoprim,COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC,0,Yamashita
+trimipramine,CC(CN(C)C)CN1c2ccccc2CCc2ccccc21,0,DrugBank
+triptolide,CC(C)C12OC1C1OC13C1(C)CCC4=C(COC4=O)C1CC1OC13C2O,0,Yamashita
+trofosfamide,O=P1(N(CCCl)CCCl)OCCCN1CCCl,0,Yamashita
+troglitazone,Cc1c(C)c2c(c(C)c1O)CCC(C)(COc1ccc(CC3SC(=O)NC3=O)cc1)O2,0,Yamashita
+troleandomycin,COC1CC(OC2C(C)C(=O)OC(C)C(C)C(OC(C)=O)C(C)C(=O)C3(CO3)CC(C)C(OC3OC(C)CC(N(C)C)C3OC(C)=O)C2C)OC(C)C1OC(C)=O,0,Yamashita
+tropisetron,CN1C2CCC1CC(OC(=O)c1c[nH]c3ccccc13)C2,0,Yamashita
+Trp-P-2,Cc1nc(N)cc2[nH]c3ccccc3c12,0,Yamashita
+tryptamine,NCCc1c[nH]c2ccccc12,0,Yamashita
+udenafil,CCCOc1ccc(S(=O)(=O)NCCC2CCCN2C)cc1-c1nc2c(CCC)nn(C)c2c(=O)[nH]1,0,DrugBank
+urea,NC(N)=O,0,Yamashita
+uric acid,O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1,0,Yamashita
+uridine,O=c1ccn(C2OC(CO)C(O)C2O)c(=O)[nH]1,0,Yamashita
+uridine diphosphate,O=c1ccn(C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1,0,Yamashita
+uroporphyrin III,O=C(O)CCC1=C(CC(=O)O)c2cc3nc(cc4[nH]c(cc5[nH]c(cc1n2)c(CC(=O)O)c5CCC(=O)O)c(CCC(=O)O)c4CC(=O)O)C(CC(=O)O)=C3CCC(=O)O,0,Yamashita
+valdecoxib,Cc1onc(-c2ccccc2)c1-c1ccc(S(N)(=O)=O)cc1,0,Yamashita
+valsartan,CCCCC(=O)N(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)C(C(=O)O)C(C)C,0,Yamashita
+vardenafil,CCCc1nc(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)nn12,0,Yamashita
+venlafaxine,COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1,0,Yamashita
+vincristine,CCC1(O)CC2CN(CCc3c([nH]c4ccccc34)C(C(=O)OC)(c3cc4c(cc3OC)N(C=O)C3C(O)(C(=O)OC)C(OC(C)=O)C5(CC)C=CCN6CCC43C65)C2)C1,0,Yamashita
+vinorelbine,CCC1=CC2CN(C1)Cc1c([nH]c3ccccc13)C(C(=O)OC)(c1cc3c(cc1OC)N(C)C1C(O)(C(=O)OC)C(OC(C)=O)C4(CC)C=CCN5CCC31C54)C2,0,Yamashita
+voriconazole,CC(c1ncncc1F)C(O)(Cn1cncn1)c1ccc(F)cc1F,0,Yamashita
+warfarin,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,0,Yamashita
+zafirlukast,COc1cc(C(=O)NS(=O)(=O)c2ccccc2C)ccc1Cc1cn(C)c2ccc(NC(=O)OC3CCCC3)cc12,0,Yamashita
+zaltoprofen,CC(C(=O)O)c1ccc2c(c1)CC(=O)c1ccccc1S2,0,Yamashita
+ziprasidone,O=C1Cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2N1,0,Yamashita
+zolmitriptan,CN(C)CCc1c[nH]c2ccc(CC3COC(=O)N3)cc12,0,Yamashita
+zolpidem,Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1,0,Yamashita
+zomepirac,Cc1cc(CC(=O)O)n(C)c1C(=O)c1ccc(Cl)cc1,0,SuperCYP
+zonisamide,NS(=O)(=O)Cc1noc2ccccc12,0,Yamashita
+zotepine,CN(C)CCOC1=Cc2ccccc2Sc2ccc(Cl)cc21,0,Yamashita
+zoxazolamine,Nc1nc2cc(Cl)ccc2o1,0,Yamashita
+zuclopenthixol,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,0,Yamashita
+Phenylephrine,CNCC(O)c1cccc(O)c1,0,SuperCYP
+Desloratadine,Clc1ccc2c(c1)CCc1cccnc1C2=C1CCNCC1,0,Yap
+Beclomethasone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(O)C(=O)CO,0,Michielan
+Atenolol,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,0,SuperCYP
+Chlorthalidone,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl,0,CYP Knowledgebase 
+Digoxin,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,0,Yap
+Enalapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CCCC1C(=O)O,0,Yap
+Ezetimibe,O=C1C(CCC(O)c2ccc(F)cc2)C(c2ccc(O)cc2)N1c1ccc(F)cc1,0,SuperCYP
+Fenofibric acid,CC(C)(Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1)C(=O)O,0,CYP Knowledgebase 
+Hydralazine,NNc1nncc2ccccc12,0,Yamashita
+Hydrochlorothiazide,NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,0,CYP Knowledgebase 
+Lisinopril,NCCCCC(NC(CCc1ccccc1)C(=O)O)C(=O)N1CCCC1C(=O)O,0,CYP Knowledgebase 
+Telmisartan,CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1,0,Yap
+Fosinopril,CCC(=O)OC(OP(=O)(CCCCc1ccccc1)CC(=O)N1CC(C2CCCCC2)CC1C(=O)O)C(C)C,0,CYP Knowledgebase 
+Sotalol,CC(C)NCC(O)c1ccc(NS(C)(=O)=O)cc1,0,CYP Knowledgebase 
+Ibandronate,CCCCCN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O,0,CYP Knowledgebase 
+Levothyroxine,NC(Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)O,0,Yap
+Propylthiouracil,CCCc1cc(=O)[nH]c(=S)[nH]1,0,CYP Knowledgebase 
+Exenatide,CCC(C)C(NC(=O)C(Cc1ccccc1)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CCC(N)=O)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(NC(=O)C(Cc1ccccc1)NC(=O)C(NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C(N)Cc1c[nH]cn1)C(C)O)C(C)O)C(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(CC(N)=O)C(=O)NCC(=O)NCC(=O)N1CCCC1C(=O)NC(CO)C(=O)NC(CO)C(=O)NCC(=O)NC(C)C(=O)N1CCCC1C(=O)N1CCCC1C(=O)N1CCCC1C(=O)NC(CO)C(N)=O,0,CYP Knowledgebase 
+Azacitidine,Nc1ncn(C2OC(CO)C(O)C2O)c(=O)n1,0,CYP Knowledgebase 
+Decitabine,Nc1ncn(C2CC(O)C(CO)O2)c(=O)n1,0,CYP Knowledgebase 
+Mycophenolate,COc1c(C)c2c(c(O)c1CC=C(C)CCC(=O)O)C(=O)OC2,0,CYP Knowledgebase 
+Abacavir,Nc1nc(NC2CC2)c2ncn(C3C=CC(CO)C3)c2n1,0,Yap
+Ceftriaxone,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(=O)[nH]n3C)CSC12)c1csc(N)n1,0,CYP Knowledgebase 
+Flucytosine,Nc1[nH]c(=O)ncc1F,0,CYP Knowledgebase 
+Meropenem,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)N(C)C)C3)C(C)C12,0,CYP Knowledgebase 
+Moxifloxacin,COc1c(N2CC3CCCNC3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,0,CYP Knowledgebase 
+Piperacillin,CCN1CCN(C(=O)NC(C(=O)NC2C(=O)N3C2SC(C)(C)C3C(=O)O)c2ccccc2)C(=O)C1=O,0,CYP Knowledgebase 
+Vancomycin,CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(O)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(N)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O,0,CYP Knowledgebase 
+Zanamivir,CC(=O)NC1C(N=C(N)N)C=C(C(=O)O)OC1C(O)C(O)CO,0,Holmer
+Vorinostat,O=C(CCCCCCC(=O)Nc1ccccc1)NO,0,CYP Knowledgebase 
+Bleomycin,Cc1c(N)nc(C(CC(N)=O)NCC(N)C(N)=O)nc1C(=O)NC(C(=O)NC(C)C(O)C(C)C(=O)NC(C(=O)NCCc1nc(-c2nc(C(=O)NCCC[S+](C)C)cs2)cs1)C(C)O)C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(OC(N)=O)C1O)c1cnc[nH]1,0,CYP Knowledgebase 
+Chlorambucil,O=C(O)CCCc1ccc(N(CCCl)CCCl)cc1,0,CYP Knowledgebase 
+Fulvestrant,CC12CCC3c4ccc(O)cc4CC(CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)C3C1CCC2O,0,SuperCYP
+Gabapentin,NCC1(CC(=O)O)CCCCC1,0,CYP Knowledgebase 
+Levetiracetam,CCC(C(N)=O)N1CCCC1=O,0,CYP Knowledgebase 
+Oxcarbazepine,NC(=O)N1c2ccccc2CC(=O)c2ccccc21,0,Yap
+Pramipexole,CCCNC1CCc2nc(N)sc2C1,0,Yap
+Rivastigmine,CCN(C)C(=O)Oc1cccc(C(C)N(C)C)c1,0,SuperCYP
+Vigabatrin,C=CC(N)CCC(=O)O,0,CYP Knowledgebase 
+Afatinib,CN(C)CC=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC1CCOC1,0,CYP Knowledgebase 
+"1,1-Cyclobutanedicarboxylic acid",O=C(O)C1(C(=O)O)CCC1,0,CYP Knowledgebase 
+Lenalidomide,Nc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O,0,CYP Knowledgebase 
+Pemetrexed,Nc1nc2[nH]cc(CCc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)c2c(=O)[nH]1,0,CYP Knowledgebase 
+Temozolomide,Cn1nnc2c(C(N)=O)ncn2c1=O,0,DrugBank
+Carglumic acid,NC(=O)NC(CCC(=O)O)C(=O)O,0,CYP Knowledgebase 
+Risedronate,O=P(O)(O)C(O)(Cc1cccnc1)P(=O)(O)O,0,CYP Knowledgebase 
+Lorazepam,O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O,0,CYP Knowledgebase 
+Varenicline,c1cnc2cc3c(cc2n1)C1CNCC3C1,0,CYP Knowledgebase 
+Allopurinol,O=c1[nH]cnc2[nH]ncc12,0,SuperCYP
+Lamotragine,Nc1nnc(-c2cccc(Cl)c2Cl)c(N)n1,0,CYP Knowledgebase 
+echinacea,O=C(C=Cc1ccc(O)c(O)c1)OC1CCC(OC(=O)C=Cc2ccc(O)c(O)c2)(C(=O)O)C(O)C1O,0,Yamashita
+3-hydroxy-3-methylglutaryl-coenzyme,CC(O)(CCO)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)([O-])[O-],0,Yamashita
+"1,25-dihydroxyvitamin d(3)",C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCCC(C)(C)O)CC(O)CC1O,0,Yamashita
+Dalteparin,CC(=O)NC1C(O)OC(COS(=O)(=O)O)C(OC2OC(C(=O)O)C(OC3OC(CO)C(OC4OC(C(=O)O)C(O)C(O)C4OS(=O)(=O)O)C(OS(=O)(=O)O)C3NS(=O)(=O)O)C(O)C2OS(=O)(=O)O)C1O,0,CYP Knowledgebase 
+N-hydroxymexiletine,Cc1cccc(C)c1OCC(C)NOC1OC(C(=O)O)C(O)C(O)C1O,0,Yamashita
+6 beta-hydroxycortisol,CC12CCC(=O)C=C1C(O)CC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,0,DrugBank
+2-hydroxychlorpropamide,CC(O)CNC(=O)NS(=O)(=O)c1ccc(Cl)cc1,0,Yamashita
+(+)-(R)-Dihydrodaidzein,O=C1c2ccc(O)cc2OCC1c1ccc(O)cc1,0,Holmer
+(+)_1(10)_4_cadinadiene,CC1=CC2C(=C(C)CCC2C(C)C)CC1,0,Holmer
+(+)_cis_carveol,C=C(C)C1CC=C(C)C(O)C1,0,Holmer
+(+)_galeon,COc1cc2ccc1Oc1cc(ccc1O)CCC(=O)CCCC2,0,Holmer
+(+)_trans_carveol_glucoside,C=C(C)C1CC=C(C)C(OC2OC(CO)C(O)C(O)C2O)C1,0,Holmer
+(-)-trans-Pinocarveol,C=C1C(O)CC2CC1C2(C)C,0,Holmer
+(10z_14e_16e)_10_14_16_octadecatrien_12_ynoic_acid,CC=CC=CC#CC=CCCCCCCCCC(=O)O,0,Holmer
+(16s)_16_hydroxy_13_16_secotrachyloba_13_ene_3_one,CC1(O)CC23C=CC1CC2C1(C)CCC(=O)C(C)(C)C1CC3,0,Holmer
+"(1S,4R)-Fenchone",CC12CCC(C1)C(C)(C)C2=O,0,Holmer
+(1beta_4alpha)_7_(beta_d_glucopyranosyloxy)_p_menthane_8_ol,CC(C)(O)C1CCC(COC2OC(CO)C(O)C(O)C2O)CC1,0,Holmer
+(1r)_1_2_dihydro_4_7_dimethyl_1_(1_methylethyl)naphthalene,CC1=CCC(C(C)C)c2cc(C)ccc21,0,Holmer
+(1r_2r_20r_53r_54s)_7_8_9_12_13_14_25_26_27_30_31_32_35_40_46_47_hexadecahydroxy_3_18_21_38_49_55_58_62_octaoxatetradecacyclo_27.25.3.334_54.241_44.02_20.05_10.011_16.023_28.033_57.037_53.039_52.042_51.043_48.037_60_dohexaconta_5_7_9_11_13_15_23_25_27_29(57)_30_32_34_39(52)_40_42(51)_43(48)_44_46_nonadecaene_4_17_22_36_50_56_59_61_octone,O=C1OCC2OC(=O)c3cc(O)c(O)c(O)c3-c3c(O)c(O)c(O)c4c3C(=O)OC(C2OC(=O)c2cc(O)c(O)c(O)c2-c2c1cc(O)c(O)c2O)C1OC(=O)C2C4C(=O)C(=O)C23Oc2c(O)c4oc(=O)c5cc(O)c(O)c6oc(=O)c(c2C13)c4c65,0,Holmer
+(1r_2r_4s_5r_8r_9s_10s_11r)_4_hydroxy_11_methyl_6_methylidene_12_oxo_13_oxapentacyclo_9.3.3.15_8.01_10.02_8_octadecane_9_carboxylic_acid,C=C1CC23CC1C(O)CC2C12CCCC(C)(C(=O)OC1)C2C3C(=O)O,0,Holmer
+(1r_4r)_1_methyl_4_(propan_2_yl)cyclohexane,CC1CCC(C(C)C)CC1,0,Holmer
+(1r_6alpha)_1alpha_methyl_3alpha_acetoxy_4beta__1_methylene_2_(angeloyloxy)_5_methyl_4_hexenyl__5alpha_hydroxy_7_oxabicyclo_4.1.0_heptane_2_one,C=C(C(CC=C(C)C)OC(=O)C(C)=CC)C1C(OC(C)=O)C(=O)C2(C)OC2C1O,0,Holmer
+(1s)_3__(z)_2__(1r_3as_7ar)_7a_methyl_1__(2r)_6_methylheptan_2_yl__2_3_3a_6_7_7a_hexahydro_1h_inden_4_yl_ethenyl__4_methylcyclohex_3_en_1_ol,CC1=C(C=CC2=CCCC3(C)C2CCC3C(C)CCCC(C)C)CC(O)CC1,0,Holmer
+(1s_2r_1primes_2primer)_doxacurium,COc1cc(CC2c3c(cc(OC)c(OC)c3OC)CC[N+]2(C)CCCOC(=O)CCC(=O)OCCC[N+]2(C)CCc3cc(OC)c(OC)c(OC)c3C2Cc2cc(OC)c(OC)c(OC)c2)cc(OC)c1OC,0,Holmer
+(1s_2r_4as_7s_8as)_7_(2_hydroxypropan_2_yl)_1_4a_dimethyl_decahydronaphthalen_2_ol,CC1C(O)CCC2(C)CCC(C(C)(C)O)CC12,0,Holmer
+(1s_2r_4r_5s_7s_11s_12s_15r_16s)_15__(2s_3r_4r)_3_4_dihydroxy_6_methyl_5_methylideneheptan_2_yl__4_5_dihydroxy_2_16_dimethyl_9_oxatetracyclo_9.7.0.02_7.012_16_octadecan_8_one,C=C(C(C)C)C(O)C(O)C(C)C1CCC2C3COC(=O)C4CC(O)C(O)CC4(C)C3CCC12C,0,Holmer
+(1s_2s_4s_8r)_9_(beta_d_glucopyranosyloxy)_p_menthane_1_2_8_triol,CC1(O)CCC(C(C)(O)COC2OC(CO)C(O)C(O)C2O)CC1O,0,Holmer
+(1s_3ar_5r_7s_7as)_1__(1s)_1_hydroxyethyl__4_methylidene_2_oxo_7_(propan_2_yl)_octahydro_1h_inden_5_yl_3_methylbutanoate,C=C1C(OC(=O)CC(C)C)CC(C(C)C)C2C1CC(=O)C2C(C)O,0,Holmer
+(1s_3s_4s_6s_7s_8r_11s_12s_14s_15r_16r)_4_6_14_trihydroxy_15__(2r_5s)_5_hydroxy_5_(hydroxymethyl)_6_methylheptan_2_yl__7_12_16_trimethylpentacyclo_9.7.0.01_3.03_8.012_16_octadecane_7_carboxylic_acid,CC(CCC(O)(CO)C(C)C)C1C(O)CC2(C)C3CCC4C(C)(C(=O)O)C(O)CC(O)C45CC35CCC12C,0,Holmer
+(20s)_protopanaxadiol,CC(C)=CCCC(C)(O)C1CCC2(C)C1C(O)CC1C3(C)CCC(O)C(C)(C)C3CCC12C,0,Holmer
+"(2S)-2-[(2R)-2,6-Diaminohexanamido]-3-(4-hydroxyphenyl)propanoic acid",NCCCCC(N)C(=O)NC(Cc1ccc(O)cc1)C(=O)O,0,Holmer
+"(2S,3R,4S,5R,6S)-6-[5,7-Dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid",O=C(O)C1OC(Oc2c(-c3ccc(O)cc3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O,0,Holmer
+"(2S,4S,5R,6R)-2-{[(2S,3R,4S,5S,6R)-2-{[(2R,3S,4R,5R,6R)-4,5-Dihydroxy-6-{[(2S,3R)-3-hydroxy-2-tetradecanamidooctadecyl]oxy}-2-(hydroxymethyl)oxan-3-yl]oxy}-3,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy}-5-acetamido-4-hydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid",CCCCCCCCCCCCCCCC(O)C(COC1OC(CO)C(OC2OC(CO)C(O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCC,0,Holmer
+(2e_4z)_2_4_dodecadienal,CCCCCCC=CC=CCC=O,0,Holmer
+(2r)_2_{_(2r)_2_amino_1_hydroxy_3_(4_hydroxyphenyl)propylidene_amino}_3_(c_hydroxycarbonimidoyl)propanoic_acid,NC(=O)CC(NC(=O)C(N)Cc1ccc(O)cc1)C(=O)O,0,Holmer
+(2r)_2_{_(2r)_2_amino_1_hydroxy_3_methylbutylidene_amino}_3_(c_hydroxycarbonimidoyl)propanoic_acid,CC(C)C(N)C(=O)NC(CC(N)=O)C(=O)O,0,Holmer
+(2r)_2_{_(2r)_2_amino_1_hydroxy_4_(methylsulfanyl)butylidene_amino}_4_methylpentanoic_acid,CSCCC(N)C(=O)NC(CC(C)C)C(=O)O,0,Holmer
+(2r)_2_{_(2r)_2_amino_1_hydroxy_4_(methylsulfanyl)butylidene_amino}butanedioic_acid,CSCCC(N)C(=O)NC(CC(=O)O)C(=O)O,0,Holmer
+(2r)_2_{_(2r)_2_amino_1_hydroxy_4_(methylsulfanyl)butylidene_amino}propanoic_acid,CSCCC(N)C(=O)NC(C)C(=O)O,0,Holmer
+(2r_3r_4r_5r_6s)_2___(1r_3r_8s_9s_10r_13s_14s_16s_17r)_3_hydroxy_17__(2s_3s)_3_hydroxy_6_methylheptan_2_yl__10_13_dimethyl_16__(2r_3r_4s_5s_6r)_3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_oxy_2_3_4_7_8_9_11_12_14_15_16_17_dodecahydro_1h_cyclopenta_a_phenanthren_1_yl_oxy__6_methyloxane_3_4_5_triol,CC(C)CCC(O)C(C)C1C(OC2OC(CO)C(O)C(O)C2O)CC2C3CC=C4CC(O)CC(OC5OC(C)C(O)C(O)C5O)C4(C)C3CCC21C,0,Holmer
+(2r_3r_4r_5s_6r)_2__(2s)_4__(7s_9s_13s_16s_18r)_16__(2r_3r_4r_5r_6r)_4_5_dihydroxy_6_(hydroxymethyl)_3__(2s_3r_4r_5s_6r)_3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_oxyoxan_2_yl_oxy_6_methoxy_7_9_13_trimethyl_5_oxapentacyclo_10.8.0.02_9.04_8.013_18_icosan_6_yl__2_methylbutoxy__6_(hydroxymethyl)oxane_3_4_5_triol,COC1(CCC(C)COC2OC(CO)C(O)C(O)C2O)OC2CC3C4CCC5CC(OC6OC(CO)C(O)C(O)C6OC6OC(CO)C(O)C(O)C6O)CCC5(C)C4CCC3(C)C2C1C,0,Holmer
+(2r_3s_4r_5r_6r)_2_(hydroxymethyl)_6___(1r_4s_5s_8r_9r_12s_16s_19r)_19_methoxy_8__(e_2r)_6_methoxy_6_methylhept_4_en_2_yl__5_9_17_17_tetramethyl_18_oxapentacyclo_10.5.2.01_13.04_12.05_9_nonadec_2_en_16_yl_oxy_oxane_3_4_5_triol,COC1OC23C=CC4C1(CCC1(C)C(C(C)CC=CC(C)(C)OC)CCC41C)C2CCC(OC1OC(CO)C(O)C(O)C1O)C3(C)C,0,Holmer
+(2r_3s_4s_5r_6r)_2_(hydroxymethyl)_6__(2r)_4__(1r_2s_4s_8s_9s_12s_13s_15r_16r_18s)_15_hydroxy_7_9_13_trimethyl_16__(2r_3r_4r_5s_6r)_3_4_5_trihydroxy_6___(2s_3r_4r_5r)_3_4_5_trihydroxyoxan_2_yl_oxymethyl_oxan_2_yl_oxy_5_oxapentacyclo_10.8.0.02_9.04_8.013_18_icos_6_en_6_yl__2_methylbutoxy_oxane_3_4_5_triol,CC1=C(CCC(C)COC2OC(CO)C(O)C(O)C2O)OC2CC3C4CCC5CC(OC6OC(COC7OCC(O)C(O)C7O)C(O)C(O)C6O)C(O)CC5(C)C4CCC3(C)C12,0,Holmer
+(2r_3s_4s_5r_6r)_2_(hydroxymethyl)_6___(1r_4s_5s_8r_9r_12s_16s_19r)_8__(e_2r)_6_hydroxy_6_methylhept_4_en_2_yl__19_methoxy_5_9_17_17_tetramethyl_18_oxapentacyclo_10.5.2.01_13.04_12.05_9_nonadec_2_en_16_yl_oxy_oxane_3_4_5_triol,COC1OC23C=CC4C1(CCC1(C)C(C(C)CC=CC(C)(C)O)CCC41C)C2CCC(OC1OC(CO)C(O)C(O)C1O)C3(C)C,0,Holmer
+(2s)_2__(2_{_6_({2__(6_{_3_5_dihydroxy_2_(hydroxymethyl)_6__(1_2_4_5_tetrahydroxy_6_oxohexan_3_yl)oxy_oxan_4_yl_oxy}_5_acetamido_4_hydroxy_2_(hydroxymethyl)oxan_3_yl)oxy__3_5_dihydroxy_6_(hydroxymethyl)oxan_4_yl}oxy)_5_acetamido_4_hydroxy_2_(hydroxymethyl)oxan_3_yl_oxy}_3_5_dihydroxy_6_(hydroxymethyl)oxan_4_yl)oxy__5_acetamido_4_hydroxy_6_(1_2_3_trihydroxypropyl)oxane_2_carboxylic_acid,CC(=O)NC1C(OC2C(O)C(CO)OC(OC(C(=O)C(O)CO)C(O)CO)C2O)OC(CO)C(OC2OC(CO)C(O)C(OC3OC(CO)C(OC4OC(CO)C(O)C(OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)C4O)C(O)C3NC(C)=O)C2O)C1O,0,Holmer
+(2s)_2_amino_3__(3_methylbut_2_en_1_yl)sulfanyl_propanoic_acid,CC(C)=CCSCC(N)C(=O)O,0,Holmer
+(2s)_2_azaniumyloctanoate,CCCCCCC(N)C(=O)O,0,Holmer
+(2s)_2_{_(2r)_2_amino_1_hydroxy_4_(methylsulfanyl)butylidene_amino}_4_(c_hydroxycarbonimidoyl)butanoic_acid,CSCCC(N)C(=O)NC(CCC(N)=O)C(=O)O,0,Holmer
+(2s)_2alpha_(3_methoxy_4_hydroxyphenyl)_4alpha_(1_3_benzodioxole_5_ylmethyl)tetrahydrofuran_3beta_methanol,COc1cc(C2OCC(Cc3ccc4c(c3)OCO4)C2CO)ccc1O,0,Holmer
+(2s_3r)_2_(3_hydroxy_4_methoxyphenyl)_3_4_dihydro_2h_1_benzopyran_3_5_7_triol,COc1ccc(C2Oc3cc(O)cc(O)c3CC2O)cc1O,0,Holmer
+(2s_3r_4as_5s_7r_8r_8ar)_7_{_(3s_4r_6ar_6bs_8as_12as_14ar_14br)_4_(hydroxymethyl)_4_6a_6b_11_11_14b_hexamethyl_8a_({_(2s_3r_4s_5s_6r)_3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_oxy}carbonyl)_1_2_3_4_4a_5_6_6a_6b_7_8_8a_9_10_11_12_12a_14_14a_14b_icosahydropicen_3_yl_oxy}_2_(carboxymethoxy)_3_8_dihydroxy_hexahydro_2h_pyrano_3_4_b__1_4_dioxine_3_5_dicarboxylic_acid,CC1(C)CCC2(C(=O)OC3OC(CO)C(O)C(O)C3O)CCC3(C)C(=CCC4C5(C)CCC(OC6OC(C(=O)O)C7OC(O)(C(=O)O)C(OCC(=O)O)OC7C6O)C(C)(CO)C5CCC43C)C2C1,0,Holmer
+(2s_3r_4s_5s_6r)_2__(2r_3r_4s_5s_6r)_4_5_dihydroxy_6_(hydroxymethyl)_2_(15_hydroxy_5prime_7_9_13_tetramethylspiro_5_oxapentacyclo_10.8.0.02_9.04_8.013_18_icosane_6_2prime_oxane__16_yl)oxyoxan_3_yl_oxy_6_(hydroxymethyl)oxane_3_4_5_triol,CC1CCC2(OC1)OC1CC3C4CCC5CC(OC6OC(CO)C(O)C(O)C6OC6OC(CO)C(O)C(O)C6O)C(O)CC5(C)C4CCC3(C)C1C2C,0,Holmer
+(2s_3r_4s_5s_6r)_2__(e_2s)_6_hydroperoxy_6_methyl_2__(3s_6s_8r_9r_10r_12r_14r_17s)_3_6_12_trihydroxy_4_4_8_10_14_pentamethyl_2_3_5_6_7_9_11_12_13_15_16_17_dodecahydro_1h_cyclopenta_a_phenanthren_17_yl_hept_4_en_2_yl_oxy_6_(hydroxymethyl)oxane_3_4_5_triol,CC(C)(C=CCC(C)(OC1OC(CO)C(O)C(O)C1O)C1CCC2(C)C1C(O)CC1C3(C)CCC(O)C(C)(C)C3C(O)CC12C)OO,0,Holmer
+(2s_3r_4s_5s_6r)_3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_(4ar_5r_6as_6br_10s_12ar_12br)_10_{_(2s_3r_4s_5s)_4_{_(2s_3r_4s_5r_6r)_3_5_dihydroxy_6_(hydroxymethyl)_4_{_(2s_3r_4s_5s_6r)_3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_oxy}oxan_2_yl_oxy}_3_5_dihydroxyoxan_2_yl_oxy}_5_hydroxy_2_2_6a_6b_9_9_12a_heptamethyl_1_2_3_4_4a_5_6_6a_6b_7_8_8a_9_10_11_12_12a_12b_13_14b_icosahydropicene_4a_carboxylate,CC1(C)CCC2(C(=O)OC3OC(CO)C(O)C(O)C3O)C(O)CC3(C)C(=CCC4C5(C)CCC(OC6OCC(O)C(OC7OC(CO)C(O)C(OC8OC(CO)C(O)C(O)C8O)C7O)C6O)C(C)(C)C5CCC43C)C2C1,0,Holmer
+(2s_3s)_1__(2s)_1_(2_aminoacetyl)pyrrolidine_2_carbonyl__3_hydroxypyrrolidine_2_carboxylic_acid,NCC(=O)N1CCCC1C(=O)N1CCC(O)C1C(=O)O,0,Holmer
+(2s_3s_4s_5r_6r)_6_{_(3s_4s_6ar_6bs_8ar_9r_12as_14ar_14br)_9_hydroxy_4_(hydroxymethyl)_4_6a_6b_8a_11_11_14b_heptamethyl_1_2_3_4_4a_5_6_6a_6b_7_8_8a_9_10_11_12_12a_14_14a_14b_icosahydropicen_3_yl_oxy}_3_4_dihydroxy_5_{_(2s_3r_4s_5s_6r)_5_hydroxy_6_(hydroxymethyl)_3_{_(2s_3r_4r_5r_6s)_3_4_5_trihydroxy_6_methyloxan_2_yl_oxy}_4_{_(2s_3r_4s_5s)_3_4_5_trihydroxyoxan_2_yl_oxy}oxan_2_yl_oxy}oxane_2_carboxylic_acid,CC1OC(OC2C(OC3C(OC4CCC5(C)C(CCC6(C)C5CC=C5C7CC(C)(C)CC(O)C7(C)CCC56C)C4(C)CO)OC(C(=O)O)C(O)C3O)OC(CO)C(O)C2OC2OCC(O)C(O)C2O)C(O)C(O)C1O,0,Holmer
+(2s_4s_5r)_2_{_(1s_2r)_1__(3r_4s_6s)_6_carboxy_6_{_(1s_2r)_1__(3r_4s_6s)_6_carboxy_6_{_(2r_3s_4r_5r_6s)_3_{_(2s_3r_4r_5r_6r)_4_5_dihydroxy_6_(hydroxymethyl)_3_(2_oxopropyl)oxan_2_yl_oxy}_6_{_(2r_3s_4r_5r_6r)_4_5_dihydroxy_6_{_(2s_3r)_3_hydroxy_2__(1_hydroxytricosylidene)amino_octadec_4_en_1_yl_oxy}_2_(hydroxymethyl)oxan_3_yl_oxy}_5_hydroxy_2_(hydroxymethyl)oxan_4_yl_oxy}_4_hydroxy_3__(1_hydroxyethylidene)amino_oxan_2_yl__1_3_dihydroxypropan_2_yl_oxy}_4_hydroxy_3__(1_hydroxyethylidene)amino_oxan_2_yl__1_3_dihydroxypropan_2_yl_oxy}_4_hydroxy_5__(1_hydroxyethylidene)amino__6__(1r_2r)_1_2_3_trihydroxypropyl_oxane_2_carboxylic_acid,CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCCCCCCCCC,0,Holmer
+(2s_4s_5r)_2_{_(1s_2r)_1__(3r_4s_6s)_6_carboxy_6_{_(2s_3r_4r_5s_6r)_2_{_(2r_3s_4r_5r_6r)_4_5_dihydroxy_6_{_(2s_3r)_3_hydroxy_2__(1_hydroxyhexacos_17_en_1_ylidene)amino_octadecyl_oxy}_2_(hydroxymethyl)oxan_3_yl_oxy}_3_hydroxy_5_{_(2s_3r_4r_5r_6r)_5_hydroxy_6_(hydroxymethyl)_3_(2_oxopropyl)_4_{_(2r_3r_4s_5r_6r)_3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_oxy}oxan_2_yl_oxy}_6_(hydroxymethyl)oxan_4_yl_oxy}_4_hydroxy_3__(1_hydroxyethylidene)amino_oxan_2_yl__1_3_dihydroxypropan_2_yl_oxy}_4_hydroxy_5__(1_hydroxyethylidene)amino__6__(1r_2r)_1_2_3_trihydroxypropyl_oxane_2_carboxylic_acid,CCCCCCCCC=CCCCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(O)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O4)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+(2s_4s_5r_6r)_2_{_(1s_2r)_1__(2r_3r_4s_6s)_6_carboxy_6_{_(2r_3s_4r_5r_6s)_3_{_(2s_3r_4r_5r_6r)_4_5_dihydroxy_3__(1_hydroxyethylidene)amino__6_(hydroxymethyl)oxan_2_yl_oxy}_6_{_(2r_3s_4r_5r_6r)_4_5_dihydroxy_6_{_(2s_3r)_3_hydroxy_2__(1_hydroxytetracosylidene)amino_octadec_4_en_1_yl_oxy}_2_(hydroxymethyl)oxan_3_yl_oxy}_5_hydroxy_2_(hydroxymethyl)oxan_4_yl_oxy}_4_hydroxy_3__(1_hydroxyethylidene)amino_oxan_2_yl__1_3_dihydroxypropan_2_yl_oxy}_4_hydroxy_5__(1_hydroxyethylidene)amino__6__(1r_2r)_1_2_3_trihydroxypropyl_oxane_2_carboxylic_acid,CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3NC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O4)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCCCCCCCCCC,0,Holmer
+(2s_5r_8s)_2_8_dimethyl_5_prop_1_en_2_yl_11_oxatricyclo_5.3.1.01_7_undecane,C=C(C)C1CCC(C)C23CCC(C)C2(C1)O3,0,Holmer
+(3as_6s_9ar)_decahydro_1__(4z)_6_methoxy_1_5_dimethyl_6_oxo_4_hexenyl__3a_9a_dimethyl_6_(1_methylethenyl)_1h_cyclopenta_a_cyclopropa_e_naphthalene_6a(7h)_propanoic_acid,C=C(C)C1CCC2C3(C)CCC(C(C)CC=CC(C)C(=O)OC)C3(C)CCC23CC13CCC(=O)O,0,Holmer
+"(3beta,4alpha,5alpha,24(28)Z)-4,14-Dimethylstigmasta-9(11),24(28)-dien-3-ol",CC=C(CCC(C)C1CCC2(C)C3CCC4C(C)C(O)CCC4(C)C3=CCC12C)C(C)C,0,Holmer
+(3beta_17alpha_23r)_17_23_epoxy_3_29_dihydroxy_27_norlanost_8_ene_15_24_dione,CCC(=O)C1CC(C)C2(CC(=O)C3(C)C4=C(CCC32C)C2(C)CCC(O)C(C)(CO)C2CC4)O1,0,Holmer
+(3primes_5primer)_5prime_hydroxythalidomide,O=C1CC(N2C(=O)c3ccccc3C2=O)C(=O)NC1O,0,Holmer
+(3r)_2_3_6_7_8_9_10_10a_octahydro_4_7_10abeta_trimethyl_1h_3abeta_8beta_methano_4alpha_7alpha_epoxy_4h_5_oxacyclopentacyclononene_3beta_ol,CC12COC(C)(O1)C13CC2CCC1(C)CCC3O,0,Holmer
+(3r)_3_amino_3_{_(1s)_1_carboxy_2_(1h_indol_3_yl)ethyl__c_hydroxycarbonimidoyl}propanoic_acid,NC(CC(=O)O)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O,0,Holmer
+(3r)_3_hydroxy_12prime_apo_beta_carotenol,CC(C=CC=C(C)C=CC1=C(C)CC(O)CC1(C)C)=CC=CC=C(C)CO,0,Holmer
+(3r)_3_hydroxydodecanoic_acid,CCCCCCCCCC(O)CC(=O)O,0,Holmer
+(3r_5r)_3_(2_oxopropyl)_5__(6r_7s_11r)_6_7_11_trihydroxy_11__(2r_5r)_5__(1r)_1_hydroxytridecyl_oxolan_2_yl_undecyl_oxolan_2_one,CCCCCCCCCCCCC(O)C1CCC(C(O)CCCC(O)C(O)CCCCCC2CC(CC(C)=O)C(=O)O2)O1,0,Holmer
+(3s_6e)_6_caryophyllen_15_al,CC1=CCCC(C=O)C2CC(C)(C)C2CC1,0,Holmer
+(4r)_4__(5r_8r_9s_10s_13r_14s_17r)_7_hydroxy_10_13_dimethyl_3_oxo_1_2_4_5_6_7_8_9_11_12_14_15_16_17_tetradecahydrocyclopenta_a_phenanthren_17_yl_pentanoic_acid,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(=O)CCC4(C)C3CCC12C,0,Holmer
+(4r_5s_6s)_2_4_5_trihydroxy_2_methyl_6__(3s_8r_9r_13r_14s_17r)_4_4_9_13_14_pentamethyl_3__(2r_3r_4s_5s_6r)_3_4_5_trihydroxy_6___(2r_3r_4s_5s_6r)_3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_oxymethyl_oxan_2_yl_oxy_2_3_7_8_10_11_12_15_16_17_decahydro_1h_cyclopenta_a_phenanthren_17_yl_heptan_3_one,CC(C(=O)C(O)C(O)C(C)(C)O)C1CCC2(C)C3CC=C4C(CCC(OC5OC(COC6OC(CO)C(O)C(O)C6O)C(O)C(O)C5O)C4(C)C)C3(C)CCC12C,0,Holmer
+(4r_6s)_1_(3_furyl)_4_8_dimethyl_6_hydroxy_1_nonanone,CC(C)CC(O)CC(C)CCC(=O)c1ccoc1,0,Holmer
+(4s_4ar_7ar_8r)_4_hydroxy_6_6_8_trimethyl_1h_3h_3ah_4h_4ah_5h_6h_7h_7ah_8h_azuleno_5_6_c_furan_1_one,CC1=CC2C(=O)OCC2C(O)C2CC(C)(C)CC12,0,Holmer
+(4s_4as_5r_6s_8ar_9ar)_6_hydroxy_9a_methoxy_3_4a_5_trimethyl_2_oxo_2h_4h_4ah_5h_6h_7h_8h_8ah_9h_9ah_naphtho_2_3_b_furan_4_yl_(2z)_2_methylbut_2_enoate,CC=C(C)C(=O)OC1=C2C(C)C(=O)OC2(OC)CC2CCC(O)C(C)C12C,0,Holmer
+(5r)_5_isopropyl_2_methyl_2_cyclohexen_1_one,CC1=CCC(C(C)C)CC1=O,0,Holmer
+(5s)_3__(2r)_2_hydroxy_14__(2s_5s)_5__(1s)_1_7_8_trihydroxydodec_4_en_1_yl_oxolan_2_yl_tetradecyl__5_methyl_2_5_dihydrofuran_2_one,CCCCC(O)C(O)CC=CCCC(O)C1CCC(CCCCCCCCCCCCC(O)Cc2cc(C)oc2O)O1,0,Holmer
+(5z_8s_9s_11z_14z)_8_9_dihydroxyicosatrienoic_acid,CCCCCC=CCC=CCC(O)C(O)CC=CCCCC(=O)O,0,Holmer
+"(6R,10R)-6,10,14-Trimethyl-2-methylidenepentadecanal",C=C(C=O)CCCC(C)CCCC(C)CCCC(C)C,0,Holmer
+(6alpha_22e)_6_hydroxy_4_7_22_ergostatrien_3_one,CC(C)C(C)C=CC(C)C1CCC2=C3CC(=O)C4CC(=O)CCC4(C)C3CCC21C,0,Holmer
+(6r)_2_methyl_6__(s)_4_methylene_2_cyclohexene_1beta_yl__2_heptene_4_ol,C=C1C=CC(C(C)CC(O)C=C(C)C)CC1,0,Holmer
+"(7aS)-1,4,4,7a-Tetramethyl-5H-indene",CC1=CC=C2C(C)(C)CC=CC12C,0,Holmer
+(7z_10z_13z_16z_19z)_docosapentaenoyl_coa,CCC=CCC=CCC=CCC=CCC=CCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)CO[PH](=O)(=O)O[PH](=O)(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O[PH](=O)(=O)O,0,Holmer
+(8z_10r)_10_hydroxy_10__(2r_3s)_3__(2z)_oct_2_en_1_yl_oxiran_2_yl_deca_5_8_dienoic_acid,CCCCCC=CCC1OC1C(O)C=CCC=CCCCC(=O)O,0,Holmer
+(9_cis_9prime_cis)_7_7prime_8_8prime_tetrahydro_gamma_gamma_carotene,CC(C)=CCCC(C)=CCCC(C)=CC=CC(C)=CC=CC=C(C)C=CC=C(C)CCC=C(C)CCC=C(C)C,0,Holmer
+(9z_12z_15s_16s)_15_16_epoxy_9_12_octadecadienoic_acid,CCC1OC1CC=CCC=CCCCCCCCC(=O)O,0,Holmer
+(S)-(3-Methyl-2-butenyl) ethanethioate,CC(=O)SCC=C(C)C,0,Holmer
+(Z)-5-Isopropenyl-2-methyl-2-vinyltetrahydrofuran,C=CC1(C)CCC(C(=C)C)O1,0,Holmer
+(_)_4(10)_thujene,C=C1CCC2(C(C)C)CC12,0,Holmer
+(_)_borneol,CC1(C)C2CCC1(C)C(O)C2,0,Holmer
+(_)_carvone,C=C(C)C1C=CC(C)C(=O)C1,0,Holmer
+(_)_isopinocamphone,CC1C(=O)CC2CC1C2(C)C,0,Holmer
+(_)_normorphine,Oc1ccc2c3c1OC1C(O)C=CC4C(C2)NCCC341,0,Holmer
+(_)_pinocampheol,CC1C(O)CC2CC1C2(C)C,0,Holmer
+(all_e)_1_8_10_heptadecatriene_4_6_diyne_3_12_diol,C=CC(O)C#CC#CC=CC=CC(O)CCCCC,0,Holmer
+(alphas)_alpha_3_4_trihydroxybenzenepropanoic_acid,O=C(Cc1ccc(O)c(O)c1)C(O)O,0,Holmer
+(e)_2_octenoic_acid,CCCCC=CCC(=O)O,0,Holmer
+(e)_6_hexadecenoic_acid,CCCCCCCCCC=CCCCCC(=O)O,0,Holmer
+(e_e)_lansamide_i,CN(C=Cc1ccccc1)C(=O)C=Cc1ccccc1,0,Holmer
+(r)_(+)_1_phenyl_1_propanol,CCC(O)c1ccccc1,0,DrugBank
+(r)_2_(5_oxotetrahydrofuran_2_yl)acetic_acid,O=C(O)CC1CCC(=O)O1,0,Holmer
+(r)_2_methylhexanoic_acid,CCCCC(C)C(=O)O,0,Holmer
+(r)_3_hydroxybutyric_acid,CC(O)CC(=O)O,0,Holmer
+(r)_3_methylpentanoic_acid,CCC(C)CC(=O)O,0,Holmer
+(r)_4prime_hydroxywarfarin,CC(=O)CC(c1ccc(O)cc1)c1c(O)c2ccccc2oc1=O,0,Holmer
+(r)_5_methylfuran_2(5h)_one,Cc1ccc(O)o1,0,Holmer
+(r)_6_hydroxywarfarin,CC(=O)CC(c1ccccc1)c1c(O)c2cc(O)ccc2oc1=O,0,Holmer
+(r)_7_hydroxywarfarin,CC(=O)CC(c1ccccc1)c1c(O)c2ccc(O)cc2oc1=O,0,Holmer
+(r)_hydratropic_acid,CC(C(=O)O)c1ccccc1,0,Holmer
+(s)_2_amino_5_6_7_8_tetrahydro_6_methyl_4(1h)_pteridinone,CC1CNc2[nH]c(N)nc(=O)c2N1,0,Holmer
+(s)_2_pyrrolidineacetic_acid,O=C(O)CC1CCCN1,0,Holmer
+(s)_7_hydroxytetrahydroharman,CC1NCCc2c1[nH]c1cc(O)ccc21,0,Holmer
+(s)_9_hydroxy_10_undecenoic_acid,C=CC(O)CCCCCCCC(=O)O,0,Holmer
+(s)_all_trans_4_hydroxyretinoic_acid,CC(C=CC1=C(C)C(O)CCC1(C)C)=CC=CC(C)=CC(=O)O,0,Holmer
+(s)_alpha_phellandrene,CC1=CCC(C(C)C)C=C1,0,Holmer
+(s)_beta_aminoisobutyric_acid,CC(CN)C(=O)O,0,Holmer
+(s)_beta_bisabolene,C=C(CCC=C(C)C)C1CC=C(C)CC1,0,Holmer
+(s)_hexane_1_5_diol,CC(O)CCCCO,0,Holmer
+(s)_propane_1_2_diol,CC(O)CO,0,DrugBank
+(z)_11_eicosen_1_ol,CCCCCCCCC=CCCCCCCCCCCO,0,Holmer
+(z)_5_hexadecenoic_acid,CCCCCCCCCCC=CCCCC(=O)O,0,Holmer
+(z)_6_(3_hydroxy_4_4_10_13_14_pentamethyl_2_3_5_6_7_11_12_15_16_17_decahydro_1h_cyclopenta_a_phenanthren_17_yl)_2_methyl_7_oxohept_2_enoic_acid,CC(=CCCC(C=O)C1CCC2(C)C3=C(CCC12C)C1(C)CCC(O)C(C)(C)C1CC3)C(=O)O,0,Holmer
+"1,6-Hexanedithiol",SCCCCCCS,0,Holmer
+"1-Hydroxy-3,7-dimethoxyxanthone",COc1cc(O)c2c(=O)c3cc(OC)ccc3oc2c1,0,Holmer
+10-Undecenal,C=CCCCCCCCCC=O,0,Holmer
+11(12)_epetre_ea,CCCCCC=CCC1OC1CC=CCC=CCCCC(=O)NCCO,0,Holmer
+11(R)-HETE,CCCCCC=CC=CC(O)CC=CCC=CCCCC(=O)O,0,Holmer
+11-Dihydro-12-norneoquassin,COC1=CC(C)C2CC3OC(O)CC4C(C)C(=O)C(O)C(C2(C)C1=O)C34C,0,Holmer
+11_12_15_trihydroxy_(5z_8z_13e)_icosatrienoate,CCCCCC(O)C=CC(O)C(O)CC=CCC=CCCCC(=O)O,0,Holmer
+11_12_dimethoxydihydrokawain,COC1=CC(=O)OC(CCc2ccc(OC)c(OC)c2)C1,0,Holmer
+11_13_dihydrotaraxinic_acid_glucosyl_ester,CC1=CC2OC(=O)C(C)C2CCC(C(=O)OC2C(O)C(O)OC(CO)C2O)=CCC1,0,Holmer
+11beta_17beta_dihydroxy_4_androsten_3_one,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C(O)CCC12,0,Holmer
+11z_octadecenylcarnitine,CCCCCCC=CCCCCCCCCCC(=O)OC(CCC(=O)[O-])[N+](C)(C)C,0,Holmer
+12_oxo_10_11_dihydro_20_carboxy_leukotriene_b4,O=C(O)CCCCC=CCC(=O)CCC=CC=CC(O)CCCC(=O)O,0,Holmer
+12alpha_hydroxy_3_oxochola_4_6_dien_24_oic_acid,CC(CCC(=O)O)C1CCC2C3=CC=C4CC(=O)CCC4(C)C3CC(O)C21C,0,Holmer
+13-Heptadecyn-1-ol,CCCC#CCCCCCCCCCCCCO,0,Holmer
+13_14_dihydro_15_keto_pge2,CCCCCC(=O)CCC1C(O)CC(=O)C1CC=CCCCC(=O)O,0,Holmer
+13s_hotre,CCC=CCC(O)C=CC=CCCCCCCCC(=O)O,0,Holmer
+15_keto_prostaglandin_e2,CCCCCC(=O)CCC1C(=O)CC(=O)C1CC=CCCCC(=O)O,0,Holmer
+15_oxo_lipoxin_a4,CCCCCC(=O)C=CC=CC=CC=CC(O)C(O)CCCC(=O)O,0,Holmer
+15alpha_acetoxy_3alpha_hydroxy_23_oxo_5alpha_lanosta_7_9(11)_24_trien_26_oic_acid,CC(=O)OC1CC(=C(C)CC(=O)CC(C)C(=O)O)C2(C)CC=C3C(=CCC4C3(C)CCC(O)C4(C)C)C12C,0,Holmer
+15h_11_12_eeta,CCCCCC(O)C=CC1OC1CC=CCC=CCCCC(=O)O,0,Holmer
+16__5__5__4_5_dihydroxy_6_(hydroxymethyl)_3_(3_4_5_trihydroxyoxan_2_yl)oxyoxan_2_yl_oxy_3_hydroxy_6_(hydroxymethyl)_4_(3_4_5_trihydroxy_6_methyloxan_2_yl)oxyoxan_2_yl_oxy_3_4_dihydroxy_6_(hydroxymethyl)oxan_2_yl_oxy_6_hydroxy_7_9_13_trimethyl_6__3_methyl_4__3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_oxybutyl__5_oxapentacyclo_10.8.0.02_9.04_8.013_18_icosan_10_one,CC(CCC1(O)OC2CC3C4CCC5CC(OC6OC(CO)C(OC7OC(CO)C(OC8OC(CO)C(O)C(O)C8OC8OCC(O)C(O)C8O)C(OC8OC(C)C(O)C(O)C8O)C7O)C(O)C6O)CCC5(C)C4CC(=O)C3(C)C2C1C)COC1OC(CO)C(O)C(O)C1O,0,Holmer
+16_ketoestradiol,CC12CCC3c4ccc(O)cc4CCC3C1CC(=O)C2O,0,DrugBank
+16_methylheptadecanoic_acid,CC(C)CCCCCCCCCCCCCCC(=O)O,0,Holmer
+16beta_hydroxyestradiol,CC12CCC3c4ccc(O)cc4CCC3C1CC(O)C2O,0,Holmer
+17-Hydroxyandrostane-3-glucuronide,CC12CCC3C(CCC4CC(OC5OC(C(=O)O)C(O)C(O)C5O)CCC43C)C1CCC2O,0,Holmer
+17_23_epoxy_29_hydroxy_27_norlanost_8_ene_3_15_24_trione,CCC(=O)C1CC(C)C2(CC(=O)C3(C)C4=C(CCC32C)C2(C)CCC(=O)C(C)(CO)C2CC4)O1,0,Holmer
+17_epiestriol_17_o_(beta_d_glucuronide)(1_),CC12CCC3c4ccc(O)cc4CCC3C1CC(O)C2OC1OC(C(=O)O)C(O)C(O)C1O,0,Holmer
+18:3_campesteryl_ester,CCC=CCC=CCC=CCCCCCCCC(=O)OC1CCC2(C)C(=CCC3C2CCC2(C)C(C(C)CCC(C)C(C)C)CCC32)C1,0,Holmer
+18_methoxycoronaridine,COCCC1CC2CN3CCc4c([nH]c5ccccc45)C(C(=O)OC)(C2)C13,0,Holmer
+1_(2_furanylmethyl)_1h_pyrrole,c1coc(Cn2cccc2)c1,0,Holmer
+1_(3_o_sulfo_beta_d_galactosyl)_n_docosanoylsphingosine(1_),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(O)C(OS(=O)(=O)O)C1O)NC(=O)CCCCCCCCCCCCCCCCCCCCC,0,Holmer
+1_1_dimethoxyheptane,CCCCCCC(OC)OC,0,Holmer
+1_1_dimethylbiguanide,CN(C)C(N)=NC(=N)N,0,Holmer
+1_2_3_4_5_6_hexahydro_5_(1_hydroxyethylidene)_7h_cyclopenta_b_pyridin_7_one,CC(O)C1CC(O)c2ncccc21,0,Holmer
+1_2_cyclohexanedione,O=C1CCCCC1=O,0,Holmer
+1_2_dehydrosalsolinol,CC1=NCCc2cc(O)c(O)cc21,0,Holmer
+1_4_alpha_d_glucan,COC1OC(CO)C(OC2OC(CO)C(OC)C(O)C2O)C(O)C1O,0,Holmer
+1_4_dithiothreitol,OC(CS)C(O)CS,0,Holmer
+1_acetoxy_4_6_tetradecadiene_8_10_12_triyne,CC#CC#CC#CC=CC=CCCCOC(C)=O,0,Holmer
+1_butylamine,CCCCN,0,Holmer
+1_hydroxy_3_nonanone,CCCCCCC(=O)CCO,0,Holmer
+1_isothiocyanatobutane,CCCCN=C=S,0,Holmer
+1_methoxy_3_methylene_2_pentanone,C=C(CC)C(=O)COC,0,Holmer
+1_methyl_1___(2s)_5_vinyl_5beta_(hydroxymethyl)tetrahydrofuran__2alpha_yl_ethyl_beta_d_glucopyranoside,C=CC1(CO)CCC(C(C)(C)OC2OC(CO)C(O)C(O)C2O)O1,0,Holmer
+1_methylhistidine,Cn1cnc(CC(N)C(=O)O)c1,0,Holmer
+1_nitroheptane,CCCCCCC=[N+](O)O,0,Holmer
+1_nitropyrene,O=[N+]([O-])c1ccc2ccc3cccc4ccc1c2c34,0,Holmer
+1_pp,c1cnc(N2CCNCC2)nc1,0,Holmer
+1d_myo_inositol_1_4_5_trisphosphate,O=[PH](=O)(O)OC1C(O)C(O)C(O[PH](=O)(=O)O)C(O[PH](=O)(=O)O)C1O,0,Holmer
+"2,2,7,7-Tetramethyl-1,6-dioxaspiro[4.4]nona-3,8-diene",CC1(C)C=CC2(C=CC(C)(C)O2)O1,0,Holmer
+"2-(6-Hydroxy-2-methoxy-3,4-methylenedioxyphenyl)benzofuran",COc1c2c(cc(O)c1-c1cc3ccccc3o1)OCO2,0,Holmer
+2-(Methylthio)ethanol,CSCCO,0,Holmer
+2-Amino-5-phenylpyridine,Nc1ccc(-c2ccccc2)cn1,0,Holmer
+2-Aminomuconic acid,N=C(C=CCC(=O)O)C(=O)O,0,Holmer
+"2-Decaprenyl-3-methyl-6-methoxy-1,4-benzoquinone",COc1c(O)c(O)c(C)c(C=CC(C)=CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)c1O,0,Holmer
+2-Furoic acid,O=C(O)c1ccco1,0,Holmer
+"2-Hexaprenyl-3-methyl-6-methoxy-1,4 benzoquinone",COc1cc(O)c(C)c(C=CC(C)=CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)c1O,0,Holmer
+2-Hexenoylcholine,CCC=CCC(=O)OCC[N+](C)(C)C,0,Holmer
+"2-[(1S,3S,5R)-1,2,2-Trimethyl-6-oxabicyclo[3.1.0]hexan-3-yl]acetaldehyde",CC1(C)C(CC=O)CC2OC21C,0,Holmer
+2-[(Methylthio)methyl]-2-butenal,CC=C(C=O)CSC,0,Holmer
+2-{[(2S)-1-({2-[Bis(carboxylatomethyl)amino]ethyl}(carboxylatomethyl)amino)-3-(4-ethoxyphenyl)propan-2-yl](carboxylatomethyl)amino}acetate,CCOc1ccc(CC(CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O)cc1,0,Holmer
+20_dihydroxyleukotriene_b4,O=C(O)CCCC(O)C=CC=CC=CC(O)CC=CCCCCC(O)O,0,Holmer
+20alpha_hydroxycholesterol,CC(C)CCCC(C)(O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC21C,0,Holmer
+21_hydroxypregnenolone,CC12CCC(O)CC1=CCC1C2CCC2(C)C(C(=O)CO)CCC12,0,Holmer
+24-Methylene-25-methylcholesta-5-en-3beta-ol,C=C(CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)C(C)(C)C,0,Holmer
+24_hydroxycholesterol,CC(C)C(O)CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,0,Holmer
+24_methylcycloarta_25_ene_3beta_ylhexadecanoate,C=C(C)C(C)CCC(C)C1CCC2(C)C3CCC4C(C)(C)C(OC(=O)CCCCCCCCCCCCCCC)CCC45CC35CCC12C,0,Holmer
+27_deoxy_5alpha_cyprinol,CC(CO)CCCC(C)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C,0,Holmer
+2_(4_hydroxyphenyl)ethanol,OCCc1ccc(O)cc1,0,Holmer
+2_(4_methyl_5_thiazolyl)ethyl_decanoate,CCCCCCCCCC(=O)OCCc1scnc1C,0,Holmer
+2_20_dihydroxyursonic_acid,CC1C2C3=CCC4C5(C)CC(=O)C(O)C(C)(C)C5CCC4(C)C3(C)CCC2(C(=O)O)CCC1(C)O,0,Holmer
+2_2_4_4_5_5_hexachlorobiphenyl,Clc1cc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl,0,Holmer
+2_2_4_trimethyldecane,CCCCCCC(C)CC(C)(C)C,0,Holmer
+2_2_9_trimethyldecane,CC(C)CCCCCCC(C)(C)C,0,Holmer
+2_2prime_4_5_5prime_pentachlorobiphenyl,Clc1ccc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)c1,0,Holmer
+2_3_dimethylphenol,Cc1cccc(O)c1C,0,Holmer
+2_3_trans_octenoyl_coa,CCCCC=CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)CO[PH](=O)(=O)O[PH](=O)(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O[PH](=O)(=O)O,0,Holmer
+2_4_12_octadecatrienoic_acid_piperidide,CCCCCC=CCCCCCC=CC=CCC(=O)N1CCCCC1,0,Holmer
+2_4_6_8_tridecatetrayne,CC#CC#CC#CC#CCCCC,0,Holmer
+2_4_6_tribromophenol,Oc1c(Br)cc(Br)cc1Br,0,Holmer
+2_4_pentadienal,C=CC=CC=O,0,Holmer
+2_5_furandicarboxylic_acid,O=C(O)c1ccc(C(=O)O)o1,0,Holmer
+2_6_6_trimethyl_1_4_cyclohexadiene_1_carboxaldehyde,CC1=C(C=O)C(C)(C)C=CC1,0,Holmer
+2_9_10_trihydroxy_3_methoxy_7_methyl_5h_6h_12h_12ah_indolo_2_1_a_isoquinolin_7_ium,COc1cc2c(cc1O)C1Cc3cc(O)c(O)cc3[N+]1(C)CC2,0,Holmer
+2__(1_2_3_4_4a_7_hexahydro_4a_alpha_8_dimethyl_7_oxonaphthalen)_2alpha_yl_acrylic_acid,C=C(C(=O)O)C1C=C2C(C)C(=O)C=CC2(C)CC1,0,Holmer
+2__(8s_9r)_9__(2_methylbut_2_enoyl)oxy__2_oxo_2h_8h_9h_furo_2_3_h_chromen_8_yl_propan_2_yl_2_methylbut_2_enoate,CC=C(C)C(=O)OC1c2c(ccc3ccc(=O)oc23)OC1C(C)(C)OC(=O)C(C)=CC,0,Holmer
+2__({_(1s_2r_5s)_2_isopropyl_5_methylcyclohexyl_oxy}carbonyl)oxy_ethanol,CC1CCC(C(C)C)C(OC(=O)OCCO)C1,0,Holmer
+2_acetylaminofluorene,CC(=O)Nc1ccc2c(c1)Cc1ccccc1-2,0,Holmer
+2_amino_4_oxo_4_alpha_hydroxy_6_(erythro_1prime_2prime_3prime_trihydroxypropyl)_5_6_7_8_tetrahydroxypterin,Nc1nc(=O)c2c([nH]1)N(O)C(O)C(O)(C(O)C(O)CO)N2O,0,Holmer
+2_aminoacetophenone,NCC(=O)c1ccccc1,0,Holmer
+2_chloro_1_3_dimethoxy_5_methylbenzene,COc1cc(C)cc(OC)c1Cl,0,Holmer
+2_hepten_4_one,CC=CC(=O)CCC,0,Holmer
+2_hydroxyestrone,CC12CCC3c4cc(O)c(O)cc4CCC3C1CCC2=O,0,DrugBank
+2_isopropyl_3_oxosuccinate,CC(C)C(C(=O)O)C(=O)C(=O)O,0,Holmer
+2_methoxyacetophenone,COc1ccccc1C(C)=O,0,Holmer
+2_methoxyamphetamine,COc1ccccc1CC(C)N,0,Holmer
+2_naphthylamine,Nc1ccc2ccccc2c1,0,Holmer
+2_nitropyrene,O=[N+]([O-])c1cc2ccc3cccc4ccc(c1)c2c34,0,Holmer
+2_oxoalantolactone,C=C1C(=O)OC2CC3(C)CC(=O)CC(C)C3=CC12,0,Holmer
+2_oxobutanoic_acid,CCC(=O)C(=O)O,0,Holmer
+2_phospho_d_glyceric_acid,O=C(O)C(CO)O[PH](=O)(=O)O,0,Holmer
+2_propylpyridine,CCCc1ccccn1,0,Holmer
+2_{2__(2z)_pent_2_en_1_yl__3_{_(2r_3r_4s_5s_6r)_3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_oxy}cyclopentyl}acetic_acid,CCC=CCC1C(CC(=O)O)CCC1OC1OC(CO)C(O)C(O)C1O,0,Holmer
+2prime_3prime_cyclic_cmp,Nc1ccn(C2OC(CO)C3O[PH](=O)(=O)OC32)c(=O)n1,0,Holmer
+2prime_5prime_dihydroxychalcone,O=C(C=Cc1ccccc1)c1cc(O)ccc1O,0,Holmer
+2prime_cytidylic_acid,Nc1ccn(C2OC(CO)C(O)C2O[PH](=O)(=O)O)c(=O)n1,0,Holmer
+2prime_deoxyuridine,O=c1ccn(C2CC(O)C(CO)O2)c(=O)[nH]1,0,Holmer
+2prime_deoxyuridylic_acid,O=c1ccn(C2CC(O)C(CO[PH](=O)(=O)O)O2)c(=O)[nH]1,0,Holmer
+2prime_hydroxyacetophenone,CC(=O)c1ccccc1O,0,Holmer
+2primedeoxy_thymidine_5prime_diphospho_alpha_d_glucose,Cc1cn(C2CC(O)C(CO[PH](=O)(=O)O[PH](=O)(=O)OC3OC(CO)C(O)C(O)C3O)O2)c(=O)[nH]c1=O,0,Holmer
+3'-Hydroxystanozolol,CC12Cc3c([nH][nH]c3=O)CC1CCC1C2CCC2(C)C1CCC2(C)O,0,Holmer
+3_(3_5_dihydroxyphenyl)_2_propenoic_acid,O=C(O)C=Cc1cc(O)cc(O)c1,0,Holmer
+3_(benzoyloxy)_6_oxours_12_ene_28_oic_acid,CC1CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(OC(=O)c6ccccc6)C(C)(C)C5C(=O)CC43C)C2C1C,0,Holmer
+3_(nitroamino)alanine,NC(CN[N+](=O)[O-])C(=O)O,0,Holmer
+3_(tetrahydro_5_5_dimethylfuran_2_yl)_2_butene_1_ol,CC(=CCO)C1CCC(C)(C)O1,0,Holmer
+3_3_dimethylhexane,CCCC(C)(C)CC,0,Holmer
+3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_(2e)_3_phenylprop_2_enoate,O=C(C=Cc1ccccc1)OC1OC(CO)C(O)C(O)C1O,0,Holmer
+3_4_dhpea_ea,CC=C1C(O)OC=C(C(=O)OC)C1CC(=O)OCCc1ccc(O)c(O)c1,0,Holmer
+3_4_dicaffeoyl_1_5_quinolactone,O=C(C=Cc1ccc(O)c(O)c1)OC1CC2(O)CC(OC2=O)C1OC(=O)C=Cc1ccc(O)c(O)c1,0,Holmer
+3_5_7_octatriyn_1_ol,C#CC#CC#CCCO,0,Holmer
+3_7(11)_eudesmadien_2_one,CC(C)=C1CCC2(C)CC(=O)CC(C)=C2C1,0,Holmer
+3_7_dimethyl_5_octene_1_7_diol_1_glucoside,CC(CC=CC(C)(C)O)CCOC1OC(CO)C(O)C(O)C1O,0,Holmer
+3__(13s)_13_hydroxy_13__(2s_5r)_5__(1r)_1_hydroxypentadecyl_oxolan_2_yl_tridecyl__5_methyl_2_5_dihydrofuran_2_one,CCCCCCCCCCCCCCC(O)C1CCC(C(O)CCCCCCCCCCCCc2cc(C)oc2O)O1,0,Holmer
+3_chloro_l_tyrosine,NC(Cc1ccc(O)c(Cl)c1)C(=O)O,0,Holmer
+3_hexanone,CCCC(=O)CC,0,Holmer
+3_hpph,O=C1NC(=O)C(c2ccccc2)(c2cccc(O)c2)N1,0,Holmer
+3_hydroxycoumarin,O=c1oc2ccccc2cc1O,0,Holmer
+3_mercaptopyruvic_acid,Oc1c[nH]c(C(O)O)c1,0,Holmer
+3_methoxyamphetamine,COc1cccc(CC(C)N)c1,0,Holmer
+3_methyl_2_butene_1_thiol,CC(C)=CCS,0,Holmer
+3_methyl_2_cyclopenten_1_one,CC1=CC(=O)CC1,0,Holmer
+3_methylbutyl_hexanoate,CCCCCC(=O)OCCC(C)C,0,Holmer
+3_methylbutyl_octanoate,CCCCCCCC(=O)OCCC(C)C,0,Holmer
+3_methylbutyl_pentanoate,CCCCC(=O)OCCC(C)C,0,Holmer
+3_methylether_estradiol,COc1ccc2c(c1)CCC1C2CCC2(C)C(O)CCC12,0,Holmer
+3_methylphenylacetic_acid,Cc1cccc(CC(=O)O)c1,0,Holmer
+3_methyluric_acid,Cn1c(=O)[nH]c(=O)c2[nH]c(=O)[nH]c21,0,Holmer
+3_o_alpha_l_fucopyranosyl_d_glucose,CC1OC(OC(C(=O)CO)C(O)C(O)CO)C(O)C(O)C1O,0,Holmer
+3_o_methylfluorescein,COc1ccc2c(c1)Oc1cc(O)ccc1C21OC(=O)c2ccccc21,0,Holmer
+3_o_sulfogalactosylceramide_(d18:1/14:0),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(O)C(OS(=O)(=O)O)C1O)NC(=O)CCCCCCCCCCCCC,0,Holmer
+3_oxohexadecanoic_acid,CCCCCCCCCCCCCC(=O)CC(=O)O,0,Holmer
+3_oxooctanoyl_coa,CCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)CO[PH](=O)(=O)O[PH](=O)(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O[PH](=O)(=O)O,0,Holmer
+3_sulfo_6_sulfonato_1__(e)_2_(2_4_5_trimethylphenyl)diazen_1_yl_naphthalen_2_olate,Cc1cc(C)c(N=Nc2c(O)c(S(=O)(=O)O)cc3cc(S(=O)(=O)O)ccc23)cc1C,0,Holmer
+3_{13__5_(1_6_dihydroxypentadecyl)oxolan_2_yl__2_13_dihydroxy_8_oxotridecyl}_5_methyl_2_5_dihydrofuran_2_one,CCCCCCCCCC(O)CCCCC(O)C1CCC(C(O)CCCCC(=O)CCCCCC(O)Cc2cc(C)oc2O)O1,0,Holmer
+3alpha_18_21_trihydroxy_5beta_pregnane_11_20_dione,CC12CCC(O)CC1CCC1C2C(=O)CC2(CO)C(C(=O)CO)CCC12,0,Holmer
+3alpha_4beta_12alpha_trihydroxy_5beta_holan_24_oic_acid,CC(CCC(=O)O)C1CCC2C3CCC4C(O)C(O)CCC4(C)C3CC(O)C12C,0,Holmer
+3alpha_hydroxy_2alpha_(3_methoxy_4_hydroxy_trans_cinnamoyloxy)urs_12_ene_28_oic_acid,COc1cc(C=CC(=O)OC2CC3(C)C(CCC4(C)C3CC=C3C5C(C)C(C)CCC5(C(=O)O)CCC34C)C(C)(C)C2O)ccc1O,0,Holmer
+"3beta-Hydroxy-6beta-(2,3-epoxy-2-methylbutanoyloxy)-7(11)-eremophilen-12,8beta-olide",Cc1c(O)oc2c1C(OC(=O)C1(C)OC1C)C1(C)C(CCC(O)C1C)C2,0,Holmer
+3beta-Pregnadienolone 3-[rhamnosyl-(1->4)-rhamnosyl-(1->4)-rhamnosyl-(1->4)-glucoside],CC(=O)C1=CCC2C3CC=C4CC(OC5OC(CO)C(OC6OC(C)C(OC7OC(C)C(OC8OC(C)C(O)C(O)C8O)C(O)C7O)C(O)C6O)C(O)C5O)CCC4(C)C3CCC12C,0,Holmer
+3beta__(6_o_beta_d_glucopyranosyl_beta_d_glucopyranosyloxy__23_24_25_26_27_pentanorcucurbita_5_ene_22_al,CC(C=O)C1CCC2(C)C3CC=C4C(CCC(OC5OC(COC6OC(CO)C(O)C(O)C6O)C(O)C(O)C5O)C4(C)C)C3(C)CCC12C,0,Holmer
+3beta__2_o_(beta_d_galactopyranosyl)_beta_d_glucopyranuronosyloxy__16alpha_hydroxy_23_oxooleana_12_ene_28_oic_acid_28__2_o__4_o_(beta_d_xylopyranosyl)_alpha_l_rhamnopyranosyl__3_o_(alpha_l_rhamnopyranosyl)_4_o_acetyl_beta_d_fucopyranosyl__ester,CC(=O)OC1C(C)OC(OC(=O)C23CCC(C)(C)CC2C2=CCC4C5(C)CCC(OC6OC(C(=O)O)C(O)C(O)C6OC6OC(CO)C(O)C(O)C6O)C(C)(C=O)C5CCC4(C)C2(C)CC3O)C(OC2OC(C)C(OC3OCC(O)C(O)C3O)C(O)C2O)C1OC1OC(C)C(O)C(O)C1O,0,Holmer
+3beta__4_o_(6_o_beta_d_glucopyranosyl_beta_d_glucopyranosyl)_2_6_dideoxy_beta_d_ribo_hexopyranosyloxy__14_hydroxy_5beta_cardanolide_20(22)_ene,CC1OC(OC2CCC3(C)C(CCC4C3CCC3(C)C(c5coc(O)c5)CCC43O)C2)CC(O)C1OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O,0,Holmer
+3beta_acetoxy_19alpha_hydroxy_12_ursene,CC(=O)OC1CCC2(C)C(CCC3(C)C2CC=C2C4C(C)(CCC(C)C4(C)O)CCC23C)C1(C)C,0,Holmer
+3prime_4prime_dihydroxychalcone,O=C(C=Cc1ccccc1)c1ccc(O)c(O)c1,0,Holmer
+3prime_methoxyfukiic_acid,COc1cc(CC(O)(C(=O)O)C(=O)C(O)O)ccc1O,0,Holmer
+3prime_sialyllactose,CC(=O)NC1C(O)CC(OC2C(O)C(CO)OC(OC(C(=O)C(O)CO)C(O)CO)C2O)(C(=O)O)OC1C(O)C(O)CO,0,Holmer
+4-Dihydroboldenone,CC12C=CC(=O)CC1CCC1C2CCC2(C)C(O)CCC12,0,Holmer
+4_(hydroxymethyl)benzenediazonium(1+),N#[N+]c1ccc(CO)cc1,0,Holmer
+4_5_di_o_caffeoylquinic_acid,O=C(C=Cc1ccc(O)c(O)c1)OC1CC(O)(C(=O)O)CC(O)C1OC(=O)C=Cc1ccc(O)c(O)c1,0,Holmer
+4_demethyl_olanzapine,Cc1cc2c(s1)Nc1ccccc1N=C2N1CCNCC1,0,Holmer
+4_epiisocommunic_acid,C=CC(=C)CCC1C(=C)CCC2C(C)(C(=O)O)CCCC12C,0,Holmer
+4_hydroxy_6_heptacosanone,CCCCCCCCCCCCCCCCCCCCCC(=O)CC(O)CCC,0,Holmer
+4_hydroxytamoxifen,CCC(=C(c1ccc(O)cc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,0,Holmer
+4_methylpentanal,CC(C)CCC=O,0,Holmer
+4_octen_3_one,CCC=CCC(=O)CC,0,Holmer
+4_oxo_retinoic_acid,CC(C=CC1=C(C)C(=O)CCC1(C)C)=CC=CC(C)=CC(=O)O,0,DrugBank
+4_succinyl_3_5_dicaffeoylquinic_acid,O=C(O)CCC(=O)OC1C(OC(=O)C=Cc2ccc(O)c(O)c2)CC(O)(C(=O)O)CC1OC(=O)C=Cc1ccc(O)c(O)c1,0,Holmer
+4prime_5_7_trimethylapigenin,COc1ccc(-c2cc(=O)c3c(OC)cc(OC)cc3o2)cc1,0,Holmer
+5-Amino-1-(5-phospho-D-ribosyl)imidazole,Nc1cncn1C1OC(CO[PH](=O)(=O)O)C(O)C1O,0,Holmer
+5-Isopropyl-2-methylphenol acetate,CC(=O)Oc1cc(C(C)C)ccc1C,0,Holmer
+5_6_7_8_tetrahydro_4_methylquinoline,Cc1ccnc2c1CCCC2,0,Holmer
+5_6_dimethylbenzimidazole,Cc1cc2nc[nH]c2cc1C,0,Holmer
+5_6_dimethylbicyclo_2.2.1_hepta_5_ene_2_ol,CC1=C(C)C2CC1CC2O,0,Holmer
+5_acetylamino_6_amino_3_methyluracil,CC(=O)Nc1c(N)[nH]c(=O)n(C)c1=O,0,Holmer
+5_androstene_3beta_16alpha_17alpha_triol,CC12CCC(O)CC1=CCC1C2CCC2(C)C(O)C(O)CC12,0,Holmer
+5_formiminotetrahydrofolic_acid,N=CN1c2c([nH]c(N)nc2=O)NCC1CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,0,Holmer
+5_hexyltetrahydro_2_furanoctanoic_acid,CCCCCCC1CCC(CCCCCCCC(=O)O)O1,0,Holmer
+5_hydroxytryptophol_glucuronide,OCCc1c[nH]c2ccc(OC3OC(CO)C(O)C(O)C3O)cc12,0,Holmer
+5_mdmt,COc1ccc2[nH]cc(CCN(C)C)c2c1,0,Holmer
+5_methoxyindoleacetate,COc1ccc2[nH]cc(CC(=O)O)c2c1,0,Holmer
+5_mop,COc1c2ccoc2cc2oc(=O)ccc12,0,Holmer
+5_nonadecyl_1_3_benzenediol,CCCCCCCCCCCCCCCCCCCc1cc(O)cc(O)c1,0,DrugBank
+5_octadecynoic_acid,CCCCCCCCCCCCC#CCCCC(=O)O,0,Holmer
+5_oh_diclofenac,O=C(O)Cc1cc(O)ccc1Nc1c(Cl)cccc1Cl,0,Holmer
+5alpha_androst_3_en_17_one,CC12CCC3C(CCC4C=CCCC43C)C1CCC2=O,0,Holmer
+5alpha_androstan_3beta_ol,CC12CCCC1C1CCC3CC(O)CCC3(C)C1CC2,0,Holmer
+5alpha_cholestanone,CC(C)CCCC(C)C1CCC2C3CCC4CC(=O)CCC4(C)C3CCC12C,0,Holmer
+5alpha_pregnane_3_20_dione,CC(=O)C1CCC2C3CCC4CC(=O)CCC4(C)C3CCC12C,0,Holmer
+5betacholestane_3_7_12_trihydroxy,CC(C)CCCC(C)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C,0,Holmer
+5prime_hydroxypiroxicam,CN1C(C(=O)Nc2ccc(O)cn2)C(=O)c2ccccc2S1(=O)=O,0,Holmer
+6_10_dimethylspiro_4.5_dec_6_ene_2_8_dione,CC1=CC(=O)CC(C)C12CCC(=O)C2,0,Holmer
+6_aminochrysene,Nc1cc2c3ccccc3ccc2c2ccccc12,0,Holmer
+6_hydroxy_8_docosanone,CCCCCCCCCCCCCCC(=O)CC(O)CCCCC,0,Holmer
+6_hydroxy_8_hexacosanone,CCCCCCCCCCCCCCCCCCC(=O)CC(O)CCCCC,0,Holmer
+6_monoacetylmorphine,CC(=O)OC1C=CC2C3Cc4ccc(O)c5c4C2(CCN3C)C1O5,0,Holmer
+6_phosphogluconic_acid,O=C(C(O)C(O)O)C(O)C(O)CO[PH](=O)(=O)O,0,Holmer
+6_sulfatoxymelatonin,COc1cc2c(CCNC(C)=O)c[nH]c2cc1OS(=O)(=O)O,0,Holmer
+6_trans_12_epi_leukotriene_b4,CCCCCC=CCC(O)C=CC=CC=CC(O)CCCC(=O)O,0,Holmer
+7-Hydroxycostol,C=C1CCCC2(C)CCC(O)(C(=C)CO)CC12,0,Holmer
+7-Hydroxyterpineol 8-glucoside,CC(C)(OC1OC(CO)C(O)C(O)C1O)C1CC=C(CO)CC1,0,Holmer
+7_9_dotriacontanediol,CCCCCCCCCCCCCCCCCCCCCCCC(O)CC(O)CCCCCC,0,Holmer
+7_acetoxy_2_methylisoflavone,CC(=O)Oc1ccc2c(=O)c(-c3ccccc3)c(C)oc2c1,0,Holmer
+7_benzyloxy_4_trifluoromethylcoumarin,CCCCOc1ccc2c(C(F)(F)F)cc(=O)oc2c1,0,Holmer
+7_butoxycoumarin,CCCCOc1ccc2ccc(=O)oc2c1,0,Holmer
+7_hexoxycoumarin,CCCCCCOc1ccc2ccc(=O)oc2c1,0,Holmer
+7_hydroxy_delta_8_tetrahydrocannabinol,CCCCCc1cc(O)c2c(c1)OC(C)(C)C1C(O)C=C(C)CC21,0,Holmer
+7_methylinosine,Cn1c[n+](C2OC(CO)C(O)C2O)c2[nH]cnc(=O)c21,0,Holmer
+7_pentoxycoumarin,CCCCCOc1ccc2ccc(=O)oc2c1,0,Holmer
+7_sulfocholic_acid,CC(CCC(=O)O)C1CCC2C3C(OS(=O)(=O)O)CC4CC(O)CCC4(C)C3CC(O)C12C,0,Holmer
+7alpha_hydroxydehydroepiandrosterone,CC12CCC3C(C(O)C=C4CC(O)CCC43C)C1CCC2=O,0,Holmer
+7beta_12alpha_dihydroxycholanoic_acid,CC(CCC(=O)O)C1CCC2C3C(O)CC4CCCCC4(C)C3CC(O)C12C,0,Holmer
+8-Desoxygartanin,CC(C)=CCc1c(O)c(CC=C(C)C)c2oc3c(O)cccc3c(=O)c2c1O,0,Holmer
+8_10_nonacosanediol,CCCCCCCCCCCCCCCCCCCC(O)CC(O)CCCCCCC,0,Holmer
+8_hete,CCCCCC=CCC=CC=CC(O)CC=CCCCC(=O)O,0,Holmer
+8_hydroxy_2_methoxy_6_methyl_1_4_naphthoquinone,COC1=CC(=O)c2cc(C)cc(O)c2C1=O,0,Holmer
+8_iso_13_14_dihydro_15_keto_pgf2a,CCCCCC(=O)CCC1C(O)CC(O)C1CC=CCCCC(=O)O,0,Holmer
+8_iso_pga1,CCCCCC(=O)C=CC1CCC(=O)C1CCCCCCC(=O)O,0,Holmer
+8_mop,COc1c2occc2cc2ccc(=O)oc12,0,Holmer
+8_oh_efavirenz,O=C1Nc2c(O)cc(Cl)cc2C(C#CC2CC2)(C(F)(F)F)O1,0,Holmer
+8_oxohexadecanoic_acid,CCCCCCCCC(=O)CCCCCCC(=O)O,0,Holmer
+9_hydroxyicosa_5_7_11_14_tetraenoic_acid,CCCCCC=CCC=CCC(O)C=CC=CCCCC(=O)O,0,Holmer
+9s_hode,CCCCCC=CC=CC(O)CCCCCCCC(=O)O,0,Holmer
+AC1OEPOV,C=CC(C)(O)CCC1C(C)(O)CCC2C(C)(C)CCCC21C,0,Holmer
+Cabreuvin,COc1ccc2c(=O)c(-c3ccc(OC)c(OC)c3)coc2c1,0,Holmer
+Caryophyllene oxide,C=C1CCC2OC2(C)CCC2C1CC2(C)C,0,Holmer
+Chikusetsusaponin Ia,CC(C)=CCCC(C)(O)C1CCC2(C)C1C(O)CC1C3(C)CCC(OC4OC(COC5OCC(O)C(O)C5O)C(O)C(O)C4O)C(C)(C)C3CCC12C,0,Holmer
+Dehydrogenated ticlopidine,Clc1ccccc1CN1C=Cc2sccc2C1,0,DrugBank
+Dihydrokawain,COC1=CC(=O)OC(CCc2ccccc2)C1,0,Holmer
+Epoxysiderol,CC(=O)OC1CC2C(C)(CO)CCCC2(C)C2CCC3CC12C1OC31C,0,Holmer
+Erythrodiol,CC1(C)CCC2(CO)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1,0,Holmer
+Ganglioside GD2 (d18:1/22:0),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3NC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O4)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCCCCCCCC,0,Holmer
+Ganglioside GQ1c (d18:1/12:0),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCC,0,Holmer
+Ganglioside GT1b (d18:0/18:0),CCCCCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O4)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+Gentisic acid,O=C(O)c1cc(O)ccc1O,0,Holmer
+Gibberellin A66,C=C1C2CCC3C4(C(=O)O)CCCC(C)(C(=O)O)C4C(C(=O)O)C3(C2)C1O,0,Holmer
+Glycolaldehyde,O=CCO,0,Holmer
+Heliantriol B1,C=C1CCC2(CO)C(O)CC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1C,0,Holmer
+Heliantriol B2,C=C(C)C1CCC2(CO)C(O)CC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C12,0,Holmer
+Hericenone C,CCCCCCCCCCCCCCCC(=O)OCc1cc(OC)c(CC=C(C)CC(=O)C=C(C)C)c(O)c1C=O,0,Holmer
+Hoduloside III,CC(C)=CC1CC(C)(O)C2C3CCC4C5(C)CCC(OC6OCC(O)C(OC7OC(CO)C(O)C(O)C7O)C6OC6OC(C)C(O)C(O)C6O)C(C)(C)C5CCC4(C)C34COC2(C4)O1,0,Holmer
+Isoceanothic acid,C=C(C)C1CCC2(C(=O)O)CCC3(C)C(CCC4C5(C)C(C(=O)O)C(O)C(C)(C)C5CCC43C)C12,0,Holmer
+Jasminoside A,CC1=C(COC2OC(CO)C(O)C(O)C2O)C(C)(C)CC(=O)C1,0,Holmer
+Longamide,CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)NCC(C)C,0,Holmer
+Murocholic acid,CC(CCC(=O)O)C1CCC2C3CC(O)C4CC(O)CCC4(C)C3CCC12C,0,Holmer
+Nepetalactone,CC1=COC(=O)C2C(C)CCC12,0,Holmer
+Nicotinamide ribotide,NC(=O)c1ccc[n+](C2OC(CO[PH](=O)(=O)[O-])C(O)C2O)c1,0,Holmer
+Phloretin xylosyl-galactoside,O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C1O,0,Holmer
+Phytenal,CC(=CC=O)CCCC(C)CCCC(C)CCCC(C)C,0,Holmer
+Phytosulfokine alpha,CCC(C)C(NC(=O)C(N)Cc1ccc(OS(=O)(=O)O)cc1)C(=O)NC(Cc1ccc(OS(=O)(=O)O)cc1)C(=O)NC(C(=O)NC(CCC(N)=O)C(=O)O)C(C)O,0,Holmer
+Pregnane,CCC1CCC2C3CCC4CCCCC4(C)C3CCC12C,0,Holmer
+SM(d18:0/16:0),CCCCCCCCCCCCCCCC(=O)NC(CO[PH](=O)(=O)OCC[N+](C)(C)C)C(O)CCCCCCCCCCCCCCC,0,Holmer
+Squamoxinone C,CCCCCCCCCCC(O)C1CCC(C(O)CCCCCC(O)CCCCCCC2CC(CC(C)=O)C(=O)O2)O1,0,Holmer
+Sumiki's acid,O=C(O)c1ccc(CO)o1,0,Holmer
+UNII-8W199O5S7f,CC1CNC(=O)NC1=O,0,Holmer
+UNII-9BZN2JVQ2E,C=C(C)CCCC(C)CCOC=O,0,Holmer
+ZINC8219880,CC(=CCO[PH](=O)(=O)O[PH](=O)(=O)O)CCCC(C)CCCC(C)CCCC(C)C,0,Holmer
+_(25s)_2alpha_hydroxyspirosta_5_ene_3beta_yl_2_o_4_o_bis(alpha_l_rhamnopyranosyl)_beta_d_glucopyranoside,CC1CCC2(OC1)OC1CC3C4CC=C5CC(OC6OC(CO)C(OC7OC(C)C(O)C(O)C7O)C(O)C6OC6OC(C)C(O)C(O)C6O)C(O)CC5(C)C4CCC3(C)C1C2C,0,Holmer
+_(2r_3r_4s_5r)_6__(2r_4r_5r_6r)_4_5_dihydroxy_2_(hydroxymethyl)_6_(5prime_7_9_13_tetramethylspiro_5_oxapentacyclo_10.8.0.02_9.04_8.013_18_icosane_6_2prime_oxane__16_yl)oxyoxan_3_yl_oxy_3_hydroxy_4_5_bis__(2s_3r_4s_5s_6r)_3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl_oxy_oxan_2_yl_methyl_acetate,CC(=O)OCC1OC(OC2C(CO)OC(OC3CCC4(C)C(CCC5C4CCC4(C)C5CC5OC6(CCC(C)CO6)C(C)C54)C3)C(O)C2O)C(OC2OC(CO)C(O)C(O)C2O)C(OC2OC(CO)C(O)C(O)C2O)C1O,0,Holmer
+_(2s_3r_4s_5r_6s)_4_5_dihydroxy_2_methyl_6__(2s_3s_4r_5r_6s)_2_methyl_5__(2s)_2_methylbutanoyl_oxy_6___(1r_3s_5s_6r_7r_8r_20s_22r_24r_25r_26s)_7_25_26_trihydroxy_24_(hydroxymethyl)_5_methyl_10_oxo_20_pentyl_2_4_9_21_23_pentaoxatricyclo_20.4.0.03_8_hexacosan_6_yl_oxy__4__(2s_3r_4r_5r_6s)_3_4_5_trihydroxy_6_methyloxan_2_yl_oxyoxan_3_yl_oxyoxan_3_yl__dodecanoate,CCCCCCCCCCCC(=O)OC1C(C)OC(OC2C(C)OC(OC3C(C)OC4OC5C(OC(CCCCC)CCCCCCCCCC(=O)OC4C3O)OC(CO)C(O)C5O)C(OC(=O)C(C)CC)C2OC2OC(C)C(O)C(O)C2O)C(O)C1O,0,Holmer
+_(2s_3r_4s_5s_6r)_3_4_5_trihydroxy_6_(hydroxymethyl)oxan_2_yl__(1s_3s_4s_6s_7s_11s_12s_14s_15r_16r)_4_6_14_trihydroxy_15__(2r_5s)_5_hydroxy_5_(hydroxymethyl)_6_methylheptan_2_yl__7_12_16_trimethylpentacyclo_9.7.0.01_3.03_8.012_16_octadecane_7_carboxylate,CC(CCC(O)(CO)C(C)C)C1C(O)CC2(C)C3CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)C(O)CC(O)C45CC35CCC12C,0,Holmer
+_(4s_5r_9s_10r_13r_14s)_5_formyl_14_hydroxy_5_9_dimethyl_14_tetracyclo_11.2.1.01_10.04_9_hexadecanyl_methyl_acetate,CC(=O)OCC1(O)CC23CCC4C(C)(C=O)CCCC4(C)C2CCC1C3,0,Holmer
+_(e)_2_6_dimethyl_6_hydroxy_1_oxoocta_2_7_dienyl_beta_d_glucopyranoside,C=CC(C)(O)CC=CC(C)C(=O)OC1OC(CO)C(O)C(O)C1O,0,Holmer
+_(tetrahydro_6alpha_ethenyl_2_2_6_trimethyl_2h_pyran)_3alpha_yl_6_o_d_apio_beta_d_furanosyl_beta_d_glucopyranoside,C=CC1(C)CCC(OC2OC(COC3OCC(O)(CO)C3O)C(O)C(O)C2O)C(C)(C)O1,0,Holmer
+abbott_66193,CC(NC(N)=O)c1cc2ccccc2s1,0,Holmer
+ac1l18ou,Nc1ncnc2c1ncn2C1OC(CO[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)OCC2OC(n3cnc4c(N)ncnc43)C(O)C2O)C(O)C1O,0,Holmer
+ac1l19re,C=C1C(C)=Nc2c([nH]c(=O)[nH]c2=O)N1CC(O)C(O)C(O)CO,0,Holmer
+ac1l1row,CC(=O)OC(C)(C)C=CC(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(CC(=O)C(O)C4(C)C)C3(C)C(=O)CC12C,0,Holmer
+ac1l2pbb,CC12CC(OC3OC(C(=O)O)C(O)C(O)C3O)CCC1CCC1C2C(=O)CC2(C)C1CCC2(O)C(O)CO,0,Holmer
+ac1l3flx,CC1CCC2CC3(OC2(C)C)C(C)CCC13,0,Holmer
+ac1l4hof,CC(=O)OC1CC2C3(C)CCC(OC(=O)CC(=O)O)C(C)(C)C3CCC2(C)C2(C)CCC(C3(C)CCC(C(C)(C)O)O3)C12,0,Holmer
+ac1l4jln,CC1(C)CC(O)C2(C)CCC3(C)C(=CCC4C5(C)CCC(OC6OC(C(=O)O)C(O)C(O)C6OC6OC(CO)C(O)C(O)C6O)C(C)(C)C5CCC43C)C2C1,0,Holmer
+ac1l97qh,CCCCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)CO[PH](=O)(=O)O[PH](=O)(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O[PH](=O)(=O)O,0,Holmer
+ac1l9bfs,CC(C=CC=C(C)C=CC1=C(C)CCCC1(C)C)=CC=CC=C(C)C=CC=C(C)C1C=C2C(C)(C)CCCC2(C)O1,0,Holmer
+ac1l9d7q,Oc1ccc2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)c2c(c(C3c4ccc(O)cc4OC(c4ccc(O)c(O)c4)C3O)c1O)OC(c1ccc(O)c(O)c1)C(O)C2,0,Holmer
+ac1lb0do,COCC1OC(OC2C(COC)OC(OC)C(OC)C2OC)C(OC)C(OC)C1OC,0,Holmer
+ac1ld56n,CC(C)=C(C)CCC(C)C1CCC2(C)C3CCC4C(C)(C)C(O)CCC45CC35CCC12C,0,Holmer
+ac1leica,CC(=O)OC1(C)CCC23CC1C(C)(C)C2CCC3C,0,Holmer
+ac1lexgz,O=C(NC(=O)C(O)O)c1ccccc1,0,Holmer
+ac1lgy0l,O=c1[nH]c(CC(O)O)c(O)nc1Cc1ccccc1,0,Holmer
+ac1licld,O=C1CC(c2ccc(O)cc2)Oc2cc(O)ccc21,0,Holmer
+ac1naxih,O=C(C=Cc1ccc(O)c(O)c1)OC1CC(C(=O)O)CC(=O)C1O,0,Holmer
+ac1nb6sn,CCCCCC(O)C=CC1C(SCC(NC(=O)CCC(N)C(=O)O)C(=O)NCC(=O)O)CC(=O)C1CCCCCCC(=O)O,0,Holmer
+ac1nsuln,CCC(C=CC(C)C1CCC2=C3CC(=O)C4CC(=O)CCC4(C)C3CCC21C)C(C)C,0,Holmer
+ac1nsv1z,COc1cc2ccc(=O)oc2c(OC)c1OC1OC(CO)C(O)C(O)C1O,0,Holmer
+ac1nsvjs,C=C1COC(=O)C12CC1(C)C(C)CCC(OC(=O)C=CSC)C1C2OC(C)=O,0,Holmer
+ac1nsvp1,CC(=CCCC(C)C1CCC2(C)C3=C(CCC12C)C1(C)CCC(O)C(C)(C)C1CC3O)C(=O)O,0,Holmer
+ac1nsxcf,CC=C(C)C(=O)OC1C(O)C(C)(C)CC2C3=CCC4C5(C)CCC(O)C(C)(CO)C5CCC4(C)C3(C)CC(O)C21CO,0,Holmer
+ac1nszcj,CC1C2C3CCC4C5(C)CCC(=O)C(C)(C)C5CCC4(C)C3(C)CCC2(C)CCC1(C)O,0,Holmer
+ac1nt00k,CCCCCCCCCCCCC(O)C1CCC(C(O)CCCC(=O)CCCCCCC(O)Cc2cc(C)oc2O)O1,0,Holmer
+ac1odtjm,CC1CC(C)(C)CC1=O,0,Holmer
+ac1odw6g,CCC(C)C(N)C(=O)NC(CCCN=C(N)N)C(=O)O,0,Holmer
+ac1odw8h,CSCCC(NC(=O)C(C)N)C(=O)O,0,Holmer
+acaciabiuronic_acid,O=C(O)C1OC(OCC2OC(O)C(O)C(O)C2O)C(O)C(O)C1O,0,Holmer
+aceclofenac,O=C(O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,0,DrugBank
+acetamidopropanal,CC(=O)NCCC=O,0,Holmer
+acetoacetyl_coa,CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)CO[PH](=O)(=O)O[PH](=O)(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O[PH](=O)(=O)O,0,Holmer
+acetochlor,CCOCN(C(=O)CCl)c1c(C)cccc1CC,0,Holmer
+acetylamino_acetic_acid,CC(=O)NCC(=O)O,0,Holmer
+acetylcarnosine,CC(=O)NCCC(=O)NC(Cc1c[nH]cn1)C(=O)O,0,Holmer
+acetylcysteine,CC(=O)NC(CS)C(=O)O,0,Holmer
+acorusnol,CC1=C2C(=O)C(C(C)C)CCC2(C)C(O)CC1,0,Holmer
+adenosine_tetraphosphate,Nc1ncnc2c1ncn2C1OC(CO[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)O)C(O)C1O,0,Holmer
+adinazolam,CN(C)Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,0,Holmer
+adrenochrome_o_semiquinone,CN1CC(O)c2cc(O)c(O)cc21,0,Holmer
+aflatoxin_b1,COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)C1C=COC1O2,0,Holmer
+aflatoxin_m1,COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)C1(O)C=COC1O2,0,Holmer
+agavoside_b,CC1CCC2(OC1)OC1CC3C4CCC5CC(OC6OC(CO)C(OC7OC(CO)C(O)C(O)C7O)C(O)C6O)CCC5(C)C4CC(=O)C3(C)C1C2C,0,Holmer
+akba,CC(=O)OC1CCC2(C)C(CCC3(C)C2C(=O)C=C2C4C(C)C(C)CCC4(C)CCC23C)C1(C)C(=O)O,0,Holmer
+akos032962061,CCC(C=CC(C)C1CCC2C3=CCC4CC(O)CCC4(C)C3CCC21C)C(C)C,0,Holmer
+albendazole,CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1,0,Yamashita
+aldosterone_18_glucuronide,CC12CCC(=O)C=C1CCC1C2C2CC3(C(OC4OC(C(=O)O)C(O)C(O)C4O)O2)C(C(=O)CO)CCC13,0,Holmer
+alfentanil,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCn2nnn(CC)c2=O)CC1,0,Yamashita
+allyl_crotonate,C=CCOC(=O)C=CC,0,Holmer
+alpha_amyrin,CC1CCC2(C)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1C,0,Holmer
+alpha_asp_ile,CCC(C)C(NC(=O)C(N)CC(=O)O)C(=O)O,0,Holmer
+alpha_elemolic_acid,CC(C)=CCCC(C(=O)O)C1CCC2(C)C3=C(CCC12C)C1(C)CCC(O)C(C)(C)C1CC3,0,Holmer
+alpha_hydroxy_beta_phenyl_propionic_acid,O=C(Cc1ccccc1)C(O)O,0,Holmer
+alpha_l_fucose_1_phosphate,CC1OC(O[PH](=O)(=O)O)C(O)C(O)C1O,0,Holmer
+alpha_l_rhamnose,CC1OC(O)C(O)C(O)C1O,0,Holmer
+alpha_maltotriose,OCC1OC(OC2C(CO)OC(OC3C(CO)OC(O)C(O)C3O)C(O)C2O)C(O)C(O)C1O,0,Holmer
+alpha_neu5ac_(2_>3)_beta_d_gal_(1_>4)_beta_d_glc_(11prime)_cer(d18:1/18:0),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCCCC,0,Holmer
+alpha_ribazole_5prime_phosphate,Cc1cc2ncn(C3OC(CO[PH](=O)(=O)O)C(O)C3O)c2cc1C,0,Holmer
+alpha_santalol_acetate,CC(=O)OCC(C)=CCCC1(C)C2CC3C(C2)C31C,0,Holmer
+alpha_trisaccharide,CC(=O)NC1C(OC(C)(COC2OC(C)C(O)C(O)C2O)C(O)C(O)CO)OC(CO)C(O)C1O,0,Holmer
+alpha_triticene,C=C(C=CC=O)CCCCCCCCCC,0,Holmer
+alpha_viniferin,Oc1ccc(C2Oc3cc(O)cc4c3C2c2cc(O)cc3c2C(c2cc(O)cc5c2C4C(c2ccc(O)cc2)O5)C(c2ccc(O)cc2)O3)cc1,0,Holmer
+ametryne,CCNc1nc(NC(C)C)nc(SC)n1,0,Holmer
+amitriptyline,CN(C)CCC=C1c2ccccc2CCc2ccccc21,0,Yamashita
+amodiaquine,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,0,Holmer
+androstenedione,CC12CCC3C(CC=C4CC(=O)CCC43C)C1CCC2=O,0,Yamashita
+annopentocin_a,CCCCCCCCCCCCC(O)C(O)CCC(O)C1CCC(CC(O)CCCCCC(O)Cc2cc(C)oc2O)O1,0,Holmer
+anticopalic_acid,C=C1CCC2C(C)(C)CCCC2(C)C1CC=C(C)CC(=O)O,0,Holmer
+aprepitant_m1,CC(OC1OCCNC1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,0,Holmer
+arabinonic_acid,O=C(C(O)CO)C(O)C(O)O,0,Holmer
+archangin,COC(C)(C)c1cc2c(ccc3ccc(=O)oc32)o1,0,Holmer
+arginylhistidine,N=C(N)NCCCC(N)C(=O)NC(Cc1c[nH]cn1)C(=O)O,0,Holmer
+artonin_c,CC1=CC(c2c(O)ccc(C(=O)C=Cc3ccc(O)cc3O)c2O)C(C(=O)c2ccc(O)c(C=CC(C)C)c2O)C(c2ccc(O)cc2O)C1,0,Holmer
+arvensoside_d,CC1(C)CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(OC6OC(CO)C(O)C(OC7OC(CO)C(O)C(O)C7O)C6OC6OC(CO)C(O)C(O)C6O)C(C)(C)C5CCC43C)C2C1,0,Holmer
+asn_arg,N=C(N)NCCCC(NC(=O)C(N)CC(N)=O)C(=O)O,0,Holmer
+aspidospermatine,CC=C1C2CCN3CCC4(c5cccc(OC)c5N(C(C)=O)C4C2)C13,0,Holmer
+aurochrome,CC(C=CC=C(C)C1C=C2C(C)(C)CCCC2(C)O1)=CC=CC=C(C)C=CC=C(C)C1C=C2C(C)(C)CCCC2(C)O1,0,Holmer
+avenacin_a1,CNc1ccc(C(=O)OC2CC3(C)CCC4(C)C5(C)CCC6C(C)(CO)C(OC7OCC(OC8OC(CO)C(O)C(O)C8O)C(O)C7OC7OC(CO)C(O)C(O)C7O)CCC6(C)C5CC5OC54C3(O)CC2(C)C=O)cc1,0,Holmer
+avenanthramide_1f,COc1cc(C=CC(=O)Nc2ccccc2C(=O)O)ccc1O,0,Holmer
+avocadienofuran,C=CCCCCCCCCCC=Cc1ccco1,0,Holmer
+avocadynofuran,C#CCCCCCCCCCCCc1ccco1,0,Holmer
+azii,CC1OC(OC2CC(C)(C)CC3C4=CCC5C6(C)CCC(OC7OC(C(=O)O)C(O)C(O)C7OC7OC(C(=O)O)C(O)C(O)C7OC7OC(CO)C(O)C(O)C7O)C(C)(CO)C6CCC5(C)C4(C)CCC23C)CC(=O)C1=O,0,Holmer
+barnidipine,COC(=O)C1=C(C)N=C(C)C(C(=O)OC2CCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,0,Holmer
+batatasin_iii,COc1cc(O)cc(CCc2cccc(O)c2)c1,0,Holmer
+bdb,CCC(N)Cc1ccc2c(c1)OCO2,0,Holmer
+behenoyl_coa(4_),CCCCCCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)CO[PH](=O)(=O)O[PH](=O)(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O[PH](=O)(=O)O,0,Holmer
+benzoyl_glucuronide_(benzoic_acid),O=C(OC1OC(C(=O)O)C(O)C(O)C1O)c1ccccc1,0,Holmer
+benzphetamine,CC(Cc1ccccc1)N(C)Cc1ccccc1,0,Yamashita
+benzyl_propionate,CCC(=O)OCc1ccccc1,0,Holmer
+beta_alanyl_coa,CC(C)(CO[PH](=O)(=O)O[PH](=O)(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O[PH](=O)(=O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)CCN,0,Holmer
+beta_arteether,CCOC1OC2OC3(C)CCCC4C(C)CCC(C1C)C24OO3,0,Holmer
+beta_d_galactopyranuronic_acid,O=C(O)C1OC(O)C(O)C(O)C1O,0,Holmer
+beta_d_galactosyl_(1_>4)_beta_d_glucosyl_n_(hexacosanoyl)sphingosine,CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(O)C(O)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCCCCCCCCCCCC,0,Holmer
+beta_d_galp_(1_>3)_beta_d_glcpnac_(1_>3)_beta_d_galp_(1_>4)_beta_d_glcp,CC(=O)NC1C(OC2C(O)C(CO)OC(OC3C(CO)OC(O)C(O)C3O)C2O)OC(CO)C(O)C1OC1OC(CO)C(O)C(O)C1O,0,Holmer
+beta_d_glucose,OCC1OC(O)C(O)C(O)C1O,0,Holmer
+beta_d_glucosyl_n_(tetracosanoyl)sphingosine,CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCCCCCCCCCC,0,Holmer
+beta_sitosterol_behenate,CCCCCCCCCCCCCCCCCCCCCC(=O)OC1CCC2(C)C(=CCC3C2CCC2(C)C(C(C)CCC(CC)C(C)C)CCC32)C1,0,Holmer
+beta_tocopherol_skeleton,Cc1cc(O)c(C)c2c1OC(C)(CCCC(C)CCCC(C)CCCC(C)C)CC2,0,Holmer
+bfbfc,O=c1cc(C(F)(F)F)c2ccc(OCc3cc(C(F)(F)F)ccc3C(F)(F)F)cc2o1,0,Holmer
+bfc,O=c1cc(C(F)(F)F)c2ccc(OCc3ccccc3)cc2o1,0,Holmer
+bilastine,CCOCCn1c(C2CCN(CCc3ccc(C(C)(C)C(=O)O)cc3)CC2)nc2ccccc21,0,Holmer
+biotin_amide,NC(=O)CCCCC1SCC2NC(=O)NC21,0,Holmer
+bisnor,O=C(O)C=CCCC1C2CCC(C2)C1NS(=O)(=O)c1ccccc1,0,Holmer
+blepharin,O=C1Nc2ccccc2OC1OC1OC(CO)C(O)C(O)C1O,0,Holmer
+bmamc,CCCCNCc1cc(=O)oc2cc(OC)ccc12,0,Holmer
+bms_275183,COC(=O)OC12COC1CC(O)C1(C)C(=O)C(OC(C)=O)=C3C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)C(C)(C)C)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C,0,Holmer
+bortezomib,CC(C)CC(NC(=O)C(Cc1ccccc1)NC(=O)c1cnccn1)B(O)O,0,Holmer
+bpu,Cc1cc(NC(=O)NC(=O)c2ccccc2N(C)C)ccc1Oc1ncc(Br)cn1,0,Holmer
+bromocriptine,CC(C)CC1C(=O)N2CCCC2C2(O)OC(NC(=O)C3=CC4c5cccc6[nH]c(Br)c(c56)CC4N(C)C3)(C(C)C)C(=O)N12,0,Yamashita
+bropirimine,Nc1nc(-c2ccccc2)c(Br)c(=O)[nH]1,0,Holmer
+brotizolam,Cc1nnc2n1-c1sc(Br)cc1C(c1ccccc1Cl)=NC2,0,Yamashita
+budesonide,CCCC1OC2CC3C4CC=C5CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,0,Yamashita
+bufuralol,CCc1cccc2cc(C(O)CNC(C)(C)C)oc12,0,Yamashita
+butachlor,CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC,0,Holmer
+butanoic_acid_(alphas)_alpha_methylphenethyl_ester,CCCC(=O)OC(C)Cc1ccccc1,0,Holmer
+butrol,O=C(O)CN1CCN(CC(=O)O)CCN(C(CO)C(O)CO)CCN(CC(=O)O)CC1,0,Holmer
+byzantionoside_b,CC1=C(CCC(C)OC2OC(CO)C(O)C(O)C2O)C(C)(C)CC(=O)C1,0,Holmer
+cadabicilone,CC1C(=O)OC2C1CCC1(C)CCC(=O)C(C)C21,0,Holmer
+camelliagenin_a,CC1(C)CC(O)C2(CO)C(O)CC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1,0,Holmer
+camelliol_c,CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC1C(C)=CCC(O)C1(C)C,0,Holmer
+carp_toxin,CC(CCCC(CO)COS(=O)(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C,0,Holmer
+cascarillin,CC(=O)OC1CC2(C)C(CCC(O)C2(C)O)C(C=O)(CC(O)c2ccoc2)C1C,0,Holmer
+ce(16:0),CCCCCCCCCCCCCCCC(=O)OC1CCC2(C)C(=CCC3C2CCC2(C)C(C(C)CCCC(C)C)CCC32)C1,0,Holmer
+cefazolin,Cc1nnc(SC=C2CSC3C(NC(=O)Cn4cnnn4)C(=O)N3C2C(=O)O)s1,0,Holmer
+cefonicid,O=C(NC1C(=O)N2C(C(=O)O)C(=CSc3nnnn3CS(=O)(=O)O)CSC12)C(O)c1ccccc1,0,Holmer
+ceftizoxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=CCSC12)c1csc(N)n1,0,Holmer
+cer(d18:0/22:1(13z)),CCCCCCCCC=CCCCCCCCCCCCC(=O)NC(CO)C(O)CCCCCCCCCCCCCCC,0,Holmer
+ceramide_(d18:1/16:0),CCCCCCCCCCCCCC=CC(O)C(CO)NC(=O)CCCCCCCCCCCCCCC,0,Holmer
+cerivastatin,COCc1c(-c2ccc(F)cc2)c(=CCC(O)CC(O)CC(=O)O)c(C(C)C)nc1=C(C)C,0,Yamashita
+cgp71422,Cc1ccc(NC(=O)c2ccc(CN3CC[N+](C)([O-])CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,0,Holmer
+chaconine,CC1CCC2C(C)C3C(CC4C5CC=C6CC(OC7OC(CO)C(OC8OC(C)C(O)C(O)C8O)C(O)C7OC7OC(C)C(O)C(O)C7O)CCC6(C)C5CCC43C)N2C1,0,Holmer
+chaetoglobosin_n,CC1=CC(C)C(=O)C(=O)CCC(=O)C23C(=O)NC(C(C)c4c[nH]c5ccccc45)C2C(C)C2(C)OC2C3C=CC1,0,Holmer
+chembl2074937,NC(=O)CCC(NC(=O)C(N)Cc1ccccc1)C(=O)O,0,Holmer
+chembl3770775,CC1OC(OC2C(O)C(C(=O)O)OC(OC3CCC4(C)C(CCC5(C)C4CC=C4C6CC(C)(C)CCC6(C(=O)OC6OC(C)C(O)C(O)C6OC6OC(C)C(OC7OCC(O)C(O)C7O)C(OC7OC(CO)C(O)C(OC8OCC(O)C(O)C8O)C7O)C6O)CCC45C)C3(C)C=O)C2OC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O,0,Holmer
+chenodeoxycholic_acid,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C,0,Holmer
+chinenoside_ii,CC1=C(CCC(C)COC2OC(CO)C(O)C(O)C2O)OC2CC3C4CC(=O)C5CC(OC6OC(COC7OCC(O)C(O)C7O)C(OC7OCC(O)C(O)C7O)C(O)C6O)CCC5(C)C4CCC3(C)C12,0,Holmer
+chlorate,[O-][Cl+2]([O-])O,0,Holmer
+chlorogenin,CC1CCC2(OC1)OC1CC3C4CC(O)C5CC(O)CCC5(C)C4CCC3(C)C1C2C,0,Holmer
+chloromethyl_methyl_ether,COCCl,0,Holmer
+chlorproguanil,CC(C)N=C(N)N=C(N)Nc1ccc(Cl)c(Cl)c1,0,Holmer
+chlorpyrifos,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,0,Holmer
+cholest_5_ene,CC(C)CCCC(C)C1CCC2C3CC=C4CCCCC4(C)C3CCC12C,0,Holmer
+cholesta_4_6_dien_3_one,CC(C)CCCC(C)C1CCC2C3=CC=C4CC(=O)CCC4(C)C3CCC21C,0,Holmer
+cholestenone,CC(C)CCCC(C)C1CCC2C3CC=C4CC(=O)CCC4(C)C3CCC12C,0,Holmer
+cholic_acid,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C,0,Holmer
+chondrillasterol_3__glucosyl_(1_>2)_glucosyl_(1_>2)_glucoside_,CCC(C=CC(C)C1CCC2C3=CCC4CC(OC5OC(CO)C(O)C(O)C5OC5OC(CO)C(O)C(O)C5OC5OC(CO)C(O)C(O)C5O)CCC4(C)C3CCC21C)C(C)C,0,Holmer
+cinnarizine,C(=Cc1ccccc1)CN1CCN(C(c2ccccc2)c2ccccc2)CC1,0,Yamashita
+cinncassiol_a,CC1=C(C(C)CO)CC2(O)C3(C)CC(=O)OC4(C(O)C(C)CCC34O)C12O,0,Holmer
+cinncassiol_d4_2_glucoside,CC(C)C1CC2C3(C)CC4(O)OC(C5C(C)C(OC6OC(CO)C(O)C(O)C6O)CC53O)C2(O)C14C,0,Holmer
+cis-3 and trans-2-Hexenyl propionate,Oc1ccc(C2Oc3cc(O)cc(O)c3C(O)C2O)cc1,0,Holmer
+cis_beta_terpineol,C=C(C)C1CCC(C)(O)CC1,0,Holmer
+cis_cis_muconic_acid,O=C(O)C=CC=CC(=O)O,0,Holmer
+cis_ocimene,C=CC(C)=CCC=C(C)C,0,Holmer
+cis_vitispirane,C=C1C=CCC(C)(C)C12CCC(C)O2,0,Holmer
+citalopram,CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,0,Yamashita
+citpressine_ii,COc1cc(O)c2c(=O)c3ccc(OC)c(OC)c3n(C)c2c1,0,Holmer
+citronellyl_acetate,CC(=O)OCCC(C)CCC=C(C)C,0,Holmer
+citronellyl_beta_sophoroside,CC(C)=CCCC(C)CCOC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O,0,Holmer
+citrusinine_i,COc1cc(O)c2c(=O)c3cccc(O)c3n(C)c2c1OC,0,Holmer
+cj_12_458,C=C(C)c1ccc(OC)c(CNC2C3CCN(CC3)C2C(c2ccccc2)c2ccccc2)c1,0,Holmer
+cj_25879,CC(=O)C(NC(=O)CN)C(O)O,0,Holmer
+cj_25886,CC(C)CC(NC(=O)C(N)C(C)C)C(=O)O,0,Holmer
+cj_31335,COP(=S)(Oc1cc(Cl)c(Br)cc1Cl)c1ccccc1,0,Holmer
+clindamycin,CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)N(C)C1,0,Holmer
+clomethiazole,Cc1ncsc1CCCl,0,Holmer
+cmv423,NC(=O)c1c(Cl)c(-c2cccnc2)n2c1CCCC2,0,Holmer
+coa_20_cooh_18_oxo_ltb(_4),CC(C)(CO[PH](=O)(=O)O[PH](=O)(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O[PH](=O)(=O)O)C(O)C(=O)NCCC(=O)NCCSC(=O)CC(=O)CCC=CCC(O)C=CC=CC=CC(O)CCCC(=O)O,0,Holmer
+cocaine,COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C,0,Yamashita
+compound_1,O=S(=O)(Nc1ccc(CCNCC(O)c2cccnc2)cc1)c1ccc(-c2ccc(-c3ccc(C(F)(F)F)cc3)[nH]2)cc1,0,Holmer
+compound_4,Cc1ccc(S(=O)(=O)Nc2ccnn2-c2ccccc2)cc1,0,Holmer
+compound_a,COc1ccc(C(CC(=O)O)N2CCN(CCCc3ccc4c(n3)NCCC4)C2=O)cn1,0,Holmer
+corilagin,O=C(OC1OC2COC(=O)c3cc(O)c(O)c(O)c3-c3c(cc(O)c(O)c3O)C(=O)OC(C2O)C1O)c1cc(O)c(O)c(O)c1,0,Holmer
+cotinine,CN1C(=O)CCC1c1cccnc1,0,Holmer
+cp_122_721,COc1ccc(OC(F)(F)F)cc1CNC1CCCNC1c1ccccc1,0,Holmer
+cp_195543,O=C(O)c1ccc(C(F)(F)F)cc1-c1ccc2c(c1)OCC(Cc1ccccc1)C2O,0,Holmer
+cp_199331,COc1ccc(NS(=O)(=O)C(F)(F)F)cc1CC1COc2ccc(OCc3nc4cc(F)c(F)cc4s3)cc2C1O,0,Holmer
+cpa(18:2(9z_12z)/0:0),CCCCCC=CCC=CCCCCCCCC(=O)OCC1CO[PH](=O)(=O)O1,0,Holmer
+cqa_206_291,CCN(CC)S(=O)(=O)NC1CC2c3cccc4c3c(cn4CC)CC2N(C)C1,0,Holmer
+cryptoxanthin_5_6:5prime_8prime_diepoxide,CC(C=CC=C(C)C=CC12OC1(C)CC(O)CC2(C)C)=CC=CC=C(C)C=CC=C(C)C1C=C2C(C)(C)CCCC2(C)O1,0,Holmer
+ctk1g9675,CC(=O)OC(C)(C)C=CC(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(CCC(O)C4(C)C)C3(CO)C(=O)CC12C,0,Holmer
+curcumin,COc1cc(C=CC(=O)CC(=O)C=Cc2ccc(O)c(OC)c2)ccc1O,0,Holmer
+cyamemazine,CC(CN(C)C)CN1c2ccccc2Sc2ccc(C#N)cc21,0,Yamashita
+cyclamic_acid,O=S(=O)(O)NC1CCCCC1,0,Holmer
+cyclic_guanosine_monophosphate,Nc1nc(=O)c2ncn(C3OC4CO[PH](=O)(=O)OC4C3O)c2[nH]1,0,Holmer
+cyclocalopin_b,CC(=O)OC1C(C)=CCC2(C1OC(C)=O)C1C(C)COC(=O)C1OC2(C)O,0,Holmer
+cyclohexyl_pentanoate,CCCCC(=O)OC1CCCCC1,0,Holmer
+cymorcin_diglucoside,Cc1c(OC2OC(CO)C(O)C(O)C2O)cc(C(C)C)cc1OC1OC(CO)C(O)C(O)C1O,0,Holmer
+cynarasaponin_c,CC1CCC2(C(=O)OC3OC(CO)C(O)C(O)C3O)CCC3(C)C(=CCC4C5(C)CCC(OC6OC(C(=O)O)C(O)C(O)C6O)C(C)(CO)C5CCC43C)C2C1C,0,Holmer
+cynaratriol,C=C1CCC2C(OC(=O)C2(O)CO)C2C1CC(O)C2C,0,Holmer
+cys_ser,NC(CS)C(=O)NC(C=O)C(O)O,0,Holmer
+cystathionine_sulfoxide,NC(CC[S+]([O-])CC(N)C(=O)O)C(=O)O,0,Holmer
+d8_isopimaric_acid,C=CC1(C)CCC2=C(CCC3C(C)(C(=O)O)CCCC23C)C1,0,Holmer
+d_arabino_hexos_2_ulose,O=C(C(=O)C(O)CO)C(O)CO,0,Holmer
+d_citronellol,CC(C)=CCCC(C)CCO,0,Holmer
+d_leu_gly,CC(C)CC(N)C(=O)NCC(=O)O,0,Holmer
+d_methionine,CSCCC(N)C(=O)O,0,Holmer
+d_myo_inositol_4_phosphate,O=[PH](=O)(O)OC1C(O)C(O)C(O)C(O)C1O,0,Holmer
+d_pantethine,CC(C)(CO)C(=O)C(O)NCCC(=O)NCCSSCCNC(=O)CCNC(=O)C(O)C(C)(C)CO,0,Holmer
+d_proline,O=C(O)C1CCCN1,0,Holmer
+d_xylitol,OCC(O)C(O)C(O)CO,0,Holmer
+da_8159,CCCOc1ccc(S(=O)(=O)NCCC2CCCN2C)cc1-c1nc(=O)c2c([nH]1)c(CCC)nn2C,0,DrugBank
+dadp,Nc1ncnc2c1ncn2C1CC(O)C(CO[PH](=O)(=O)O[PH](=O)(=O)O)O1,0,Holmer
+dbajac,c1ccc2c(c1)ccc1nc3ccc4ccccc4c3cc12,0,Holmer
+deacetyldiltiazem,COc1ccc(C2Sc3ccccc3N(CCN(C)C)C(=O)C2O)cc1,0,Holmer
+decursinol_angelate,CC=C(C)C(=O)OC1Cc2cc3ccc(=O)oc3cc2OC1(C)C,0,Holmer
+dehydroascorbic_acid,O=C(CO)c1oc(O)c(O)c1O,0,Holmer
+dehydropranidipine,COC(=O)c1c(C)nc(C)c(C(=O)OCC=Cc2ccccc2)c1-c1cccc([N+](=O)[O-])c1,0,Holmer
+delphinidin_3_(6primeprime_malonylglucoside),O=C(O)CC(=O)OCC1OC(Oc2cc3c(O)cc(O)cc3[o+]c2-c2cc(O)c(O)c(O)c2)C(O)C(O)C1O,0,Holmer
+delta3_carene,CC1=CCC2C(C1)C2(C)C,0,Holmer
+delta9_tetrahydrocannabinol,CCCCCc1cc(O)c2c(c1)OC(C)(C)c1ccc(C)cc1-2,0,Holmer
+demethyl_citalopram,CNCCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,0,Holmer
+deoxy_epi_narasin,CCC(C(=O)O)C1OC(C(C)C(O)C(C)C(=O)C(CC)C2OC3(C=CCC4(CCC(C)(C5CCC(O)(CC)C(C)O5)O4)O3)C(C)CC2C)C(C)CC1C,0,Holmer
+deoxycholic_acid,CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C,0,Holmer
+deoxycholic_acid_3_glucuronide,CC(CCC(=O)O)C1CCC2C3CCC4CC(OC5OC(C(=O)O)C(O)C(O)C5O)CCC4(C)C3CC(O)C12C,0,Holmer
+deoxycytidine,Nc1ccn(C2CC(O)C(CO)O2)c(=O)n1,0,Holmer
+desglucodesrhamnoparillin,CC1CCC2(OC1)OC1CC3C4CCC5CC(OC6OC(COC7OC(CO)C(O)C(O)C7O)C(O)C(O)C6O)CCC5(C)C4CCC3(C)C1C2C,0,Holmer
+dexamethasone,CC1CC2C3CC=C4CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,0,DrugBank
+dexloxiglumide,CCCCCN(CCCOC)C(=O)C(CCC(=O)O)NC(=O)c1ccc(Cl)c(Cl)c1,0,Yamashita
+dhea,CC12CCC3C(CC=C4CC(O)CCC43C)C1CCC2=O,0,Holmer
+dibenzylfluorescein,O=C(OCc1ccccc1)c1ccccc1-c1c2ccc(=O)cc-2oc2cc(OCc3ccccc3)ccc12,0,Holmer
+difucosyllacto_n_hexaose_b,CC(=O)NC1C(OCC2OC(OC(C(=O)C(O)CO)C(O)CO)C(O)C(OC3OC(CO)C(OC4OC(C)C(O)C(O)C4O)C(OC4OC(CO)C(O)C(O)C4O)C3NC(C)=O)C2O)OC(CO)C(OC2OC(CO)C(O)C(O)C2O)C1OC1OC(C)C(O)C(O)C1O,0,Holmer
+digitoxin,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(c7coc(O)c7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,0,Holmer
+diguanosine_hexaphosphate,Nc1nc2c(ncn2C2OC(CO[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)OCC3OC(n4cnc5c(=O)[nH]c(N)nc54)C(O)C3O)C(O)C2O)c(=O)[nH]1,0,Holmer
+dihydroaspidospermatine,CCC1C2CCN3CCC4(c5cccc(OC)c5N(C(C)=O)C4C2)C13,0,Holmer
+dihydroneopterin_phosphate,Nc1nc(=O)c2c([nH]1)NCC(C(=O)C(O)CO[PH](=O)(=O)O)N2,0,Holmer
+dihydroorotic_acid,O=c1cc(C(O)O)[nH]c(=O)[nH]1,0,Holmer
+dihydroxyfumaric_acid,O=C(O)C(=O)C(=O)C(O)O,0,Holmer
+dihydrozeatin,CC(CO)CCNc1ncnc2[nH]cnc12,0,Holmer
+dimethyl_(1r*_2s*_3s*)_2_carboxy_3_(3_4_dihydroxyphenyl)_2_3_dihydro_5_6_dihydroxy_1h_indene_1_acetate,COC(=O)CC1c2cc(O)c(O)cc2C(c2ccc(O)c(O)c2)C1C(=O)OC,0,Holmer
+dinoseb_acetate,CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1OC(C)=O,0,Holmer
+dioscoretin,CC(CC(=O)O)CC1(O)CC2CCC1CN2C,0,Holmer
+dl_hexanoylcarnitine,CCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,0,Holmer
+dmxaa,Cc1ccc2c(=O)c3cccc(CC(=O)O)c3oc2c1C,0,Holmer
+docetaxel,CC(=O)OC12COC1CC(O)C1(C)C(=O)C(=O)C3C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c4ccccc4)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C,0,Yamashita
+dodecyl_propionate,CCCCCCCCCCCCOC(=O)CC,0,Holmer
+drf_4367,COc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)c(CO)c2)cc1,0,Holmer
+dy_9760e,COc1cc2c(CCN3CCN(c4cccc(Cl)c4C)CC3)nn(Cc3c[nH]cn3)c2cc1OC,0,Holmer
+e3179,CCCCc1nc(Cl)c(C=O)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,0,Holmer
+e_2101,CNC(=O)Cc1ccc2ccn(C3CCN(CCc4ccccc4F)CC3)c2c1,0,Holmer
+ebastine,CC(C)(C)c1ccc(C(=O)CCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1,0,Yamashita
+ecabapide,CNC(=O)c1cccc(NCC(=O)NCCc2ccc(OC)c(OC)c2)c1,0,Holmer
+emamc,CCNCc1cc(=O)oc2cc(OC)ccc12,0,Holmer
+enol_3_ethyl_1_2_cyclopentanedione,CCC1CCC(=O)C1=O,0,Holmer
+eplerenone,COC(=O)C1=CC2CC(=O)CCC2(C)C23OC2CC2(C)C(CCC24CCC(=O)O4)C13,0,Holmer
+epoxyganoderiol_a,CC(CCC1OC1(C)CO)C1CCC2(C)C3=C(CCC12C)C1(C)CCC(=O)C(C)(C)C1CC3O,0,Holmer
+equol,Oc1ccc(C2COc3cc(O)ccc3C2)cc1,0,Holmer
+ercalcitriol,C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)C=CC(C)C(C)(C)O)CC(O)CC1O,0,Holmer
+estra_1_5(10)_diene_3_4_17_trione,CC12CCc3c(ccc4c3CCC(=O)C4O)C1CCC2=O,0,Holmer
+estriol_16_glucuronide,CC12CCC3c4ccc(O)cc4CCC3C1CC(OC1OC(C(=O)O)C(O)C(O)C1O)C2O,0,Holmer
+ethane_1_1_dithiol,CC(S)S,0,Holmer
+ethenyl_acetate,C=COC(C)=O,0,Holmer
+ethiprole,CC[S+]([O-])c1c(C#N)nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c1N,0,Holmer
+ethyl_(e)_3_hexenoate,CCC=CCC(=O)OCC,0,Holmer
+ethyl_3_octenoate,CCCCC=CCC(=O)OCC,0,Holmer
+ethyl_4_methylpentanoate,CCOC(=O)CCC(C)C,0,Holmer
+ethyl_glucuronide,CCOC1OC(C(=O)O)C(O)C(O)C1O,0,Holmer
+eupolauridine,c1ccc2c(c1)-c1nccc3ccnc-2c13,0,Holmer
+everolimus,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(OCCO)C(OC)C2)CC(=O)C(C)=CC(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,0,Yamashita
+felodipine,CCOC(=O)C1=C(C)N=C(C)C(C(=O)OC)C1c1cccc(Cl)c1Cl,0,DrugBank
+fipronil,N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1[S+]([O-])C(F)(F)F,0,Yamashita
+fk_506,C=CCC1=CC(C)CC(C)CC(OC)C2OC(O)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C)=CC3CCC(O)C(OC)C3)C(C)C(O)CC1=O)C(C)CC2OC,0,Holmer
+fk_506_m1,C=CCC1=CC(C)CC(C)CC(OC)C(O)C2CC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)=CC2CCC(O)C(OC)C2)C(C)C(O)CC1=O,0,Holmer
+flosequinan,Cn1cc([S+](C)[O-])c(=O)c2ccc(F)cc21,0,Holmer
+flunarizine,Fc1ccc(C(c2ccc(F)cc2)N2CCN(CC=Cc3ccccc3)CC2)cc1,0,Holmer
+fluoxetine,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,0,Yamashita
+fluphenazine,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,0,DrugBank
+fluticasone,CC1CC2C3CC(F)=C4CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)SCF,0,Holmer
+fondaparinux(10_),COC1OC(COS(=O)(=O)O)C(OC2OC(C(=O)O)C(OC3OC(COS(=O)(=O)O)C(OC4OC(C(=O)O)C(OC5OC(COS(=O)(=O)O)C(O)C(O)C5NS(=O)(=O)O)C(O)C4O)C(OS(=O)(=O)O)C3NS(=O)(=O)O)C(O)C2OS(=O)(=O)O)C(O)C1NS(=O)(=O)O,0,Holmer
+formononetin,COc1ccc(-c2coc3cc(O)ccc3c2=O)cc1,0,Holmer
+fructose_6_phosphate,O=C(C(O)CO)C(O)C(O)CO[PH](=O)(=O)O,0,Holmer
+ft_0675832,CC1CCC2C1C1C(CCC2(C)O)C1(C)C,0,Holmer
+fukinone,CC(C)=C1CC2(C)C(C)CCCC2CC1=O,0,Holmer
+furafylline,Cc1nc2c(=O)n(C)c(=O)n(Cc3ccco3)c2[nH]1,0,Yamashita
+furohyperforin_hydroperoxide,CC(C)=CCCC1(C)C(CC=C(C)C)CC23CC(C(C)(C)OO)OC2=C(CC=C(C)C)C(=O)C1(C(=O)C(C)C)C3=O,0,Holmer
+gamma-Glutamylcysteine,NC(CCC(=O)NC(CS)C(=O)O)C(=O)O,0,Holmer
+gamma-Guaiene,CC(C)C1=CC2=C(CCC2C)C(C)CC1,0,Holmer
+gamma_camphorene,C=C(CCC=C(C)C)C1CCC=C(CCC=C(C)C)C1,0,Holmer
+ganglioside_gd1a_(d18:1/16:0),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gd1b_(d18:0/23:0),CCCCCCCCCCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(O)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O4)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gd1b_(d18:1/22:1(13z)),CCCCCCCCC=CCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(O)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O4)O3)C2O)C(O)C1O)C(O)C=CCCCCCCCCCCCCC,0,Holmer
+ganglioside_gm1_(d18:1/23:0),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(O)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gm2_(d18:0/24:1(15z)),CCCCCCCCC=CCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gm2_(d18:1/12:0),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3NC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCC,0,Holmer
+ganglioside_gm3_(d18:0/24:1(15z)),CCCCCCCCC=CCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gq1c_(d18:1/18:1(9z)),CCCCCCCCC=CCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)C(O)C=CCCCCCCCCCCCCC,0,Holmer
+ganglioside_gt1b_(d18:1/12:0),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O4)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCC,0,Holmer
+ganglioside_gt1b_(d18:1/22:0),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O4)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gt1c_(d18:1/18:1(11z)),CCCCCCC=CCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(O)C4O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)C(O)C=CCCCCCCCCCCCCC,0,Holmer
+ganglioside_gt2_(d18:0/16:0),CCCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gt2_(d18:0/20:0),CCCCCCCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gt2_(d18:0/22:0),CCCCCCCCCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gt2_(d18:0/26:1(17z)),CCCCCCCCC=CCCCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3CC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gt3_(d18:0/14:0),CCCCCCCCCCCCCCCC(O)C(COC1OC(CO)C(OC2OC(CO)C(O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCC,0,Holmer
+ganglioside_gt3_(d18:0/22:1(13z)),CCCCCCCCC=CCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gt3_(d18:0/24:1(15z)),CCCCCCCCC=CCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)C(O)CCCCCCCCCCCCCCC,0,Holmer
+ganglioside_gt3_(d18:1/18:1(11z)),CCCCCCC=CCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC4(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(CO)OC5(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O5)O4)O3)C2O)C(O)C1O)C(O)C=CCCCCCCCCCCCCC,0,Holmer
+ganoderic_acid_a,CC(C=O)=CCCC(C)C1CCC2(C)C3=C(C(=O)CC12C)C1(C)CCC(O)C(C)(C)C1CC3,0,Holmer
+ganoderic_acid_t,CC(=O)OC(C=CC(C)C(=O)O)C(C)C1CC(OC(C)=O)C2(C)C3=CCC4C(C)(CCC(OC(C)=O)C4(C)C)C3=CCC12C,0,Holmer
+gbr_12909,Fc1ccc(C(OCCN2CCN(CCCc3ccccc3)CC2)c2ccc(F)cc2)cc1,0,Holmer
+gibberellin_a102,C=C1C(O)C23CC1(O)CCC2C1(C=O)CCCC(C)(C(=O)O)C1C3C(=O)O,0,Holmer
+gibberellin_a20_13_glucoside,C=C1CC23CC1(OC1OC(CO)C(O)C(O)C1O)CCC2C12CCCC(C)(C(=O)O1)C2C3C(=O)O,0,Holmer
+gibberellin_a54,C=C1CC23CC1CCC2C12OC(=O)C(C)(C(O)CC1O)C2C3C(=O)O,0,Holmer
+gibberellin_a74,C=C1CC23CC1C(O)CC2C1(C)CCC(O)C(C)(C(=O)O)C1C3C(=O)O,0,Holmer
+gibberellin_a75,C=C1C(O)C23CC1(O)CCC2C12CC(O)C(O)C(C)(C(=O)O1)C2C3C(=O)O,0,Holmer
+gibberellin_a92,C=C1CC23CC1(O)CCC2C12OC(=O)C(C)(C=CC1O)C2C3C(=O)O,0,Holmer
+gibberellin_a97,C=C1CC23CC1(O)CCC2C1(C)CC(O)CC(C)(C(=O)O)C1C3C(=O)O,0,Holmer
+gigantetronenin,CCCCCCCCCCCCC=CCCC(O)C(O)CCC(O)C1CCC(CCCCCC(O)Cc2cc(C)oc2O)O1,0,Holmer
+gln_gln,NC(=O)CCC(N)C(=O)NC(CCC(N)=O)C(=O)O,0,Holmer
+glu_tyr,NC(CCC(=O)O)C(=O)NC(Cc1ccc(O)cc1)C(=O)O,0,Holmer
+gluconolactone,O=C1C(CO)OC(O)C(O)C1O,0,Holmer
+glucosylceramide_(d18:1/26:1(17z)),CCCCCCCCC=CCCCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(O)C(O)C1O)C(O)C=CCCCCCCCCCCCCC,0,Holmer
+glutaminylhistidine,NC(=O)CCC(N)C(=O)NC(Cc1c[nH]cn1)C(=O)O,0,Holmer
+glutaminylleucine,CC(C)CC(NC(=O)C(N)CCC(N)=O)C(=O)O,0,Holmer
+glutaminylvaline,CC(C)C(NC(=O)C(N)CCC(N)=O)C(=O)O,0,Holmer
+glutamyllysine,NCCCCC(NC(=O)C(N)CCC(=O)O)C(=O)O,0,Holmer
+glycinoprenol_9,CC(=CCO)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCCC(C)CCCC(C)CCCC(C)C,0,Holmer
+glycyl_l_phenylalanine,NCC(=O)NC(Cc1ccccc1)C(=O)O,0,Holmer
+gravacridonediol_methyl_ether,COCC(C)(O)C1Cc2c(cc(O)c3c(=O)c4ccccc4n(C)c23)O1,0,Holmer
+guaiacol,COc1ccccc1O,0,Holmer
+guanabenz,N=C(N)NN=Cc1c(Cl)cccc1Cl,0,Yamashita
+guanidine,N=C(N)N,0,Holmer
+h259_31,[O-][S+](Cc1cc(OCC2CC2)ccn1)c1nc2cc(F)ccc2[nH]1,0,Holmer
+h_glu_asp_oh,NC(CCC(=O)O)C(=O)NC(CC(=O)O)C(=O)O,0,Holmer
+h_his_phe_oh,NC(Cc1c[nH]cn1)C(=O)NC(Cc1ccccc1)C(=O)O,0,Holmer
+h_trp_tyr_oh,NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1ccc(O)cc1)C(=O)O,0,Holmer
+harmine,COc1ccc2c(c1)[nH]c1c(C)nccc12,0,Holmer
+heliantriol_c,CC1=CC(O)C2(C)C(O)CC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1C,0,Holmer
+heptadecanoyl_carnitine,CCCCCCCCCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,0,Holmer
+heptane_1_thiol,CCCCCCCS,0,Holmer
+hexacarboxylporphyrin_iii,Cc1c(CCC(=O)O)c2[nH]c1=Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C=c1[nH]c(c(C)c1=CCC(=O)O)C=c1[nH]c(c(CC(=O)O)c1=CCC(=O)O)C=2,0,Holmer
+his_gly,NC(Cc1c[nH]cn1)C(=O)NCC(=O)O,0,Holmer
+hoduloside_viii,CC(C)(O)C=CCC(C)(O)C1C(=O)CC2(COC3OC(COC4OCC(O)C(O)C4O)C(O)C(O)C3O)C1CCC1C3(C)CCC(OC4OCC(O)C(O)C4O)C(C)(C)C3CCC12C,0,Holmer
+homocarnosine,NCCCC(=O)NC(Cc1c[nH]cn1)C(=O)O,0,Holmer
+hphp_dipeptide,O=C(O)C1CC(O)CN1C(=O)C1CC(O)CN1,0,Holmer
+humulenol,C=C1CCC=C(C)CC=CC(C)(C)CC1O,0,Holmer
+hydroxide,O,0,Holmer
+hydroxycelecoxib,NS(=O)(=O)c1ccc(-n2nc(C(F)(F)F)cc2-c2ccc(CO)cc2)cc1,0,Holmer
+hypoglycine_b,CC1=C(CC(NC(=O)CCC(N)C(=O)O)C(=O)O)C1,0,Holmer
+ile_ser,CCC(C)C(N)C(=O)NC(C=O)C(O)O,0,Holmer
+imidazole_acetol_phosphate,O=C(CO[PH](=O)(=O)O)Cc1c[nH]cn1,0,Holmer
+incadronic_acid,O=[PH](=O)(O)C(NC1CCCCCC1)[PH](=O)(=O)O,0,Holmer
+indiplon,CC(=O)N(C)c1cccc(-c2ccnc3c(C(=O)c4cccs4)cnn23)c1,0,Holmer
+indomethacin_phenethylamide,COc1ccc2c(c1)c(CC(=O)NCCc1ccccc1)c(C)n2C(=O)c1ccc(Cl)cc1,0,Holmer
+indoxyl_glucuronide,O=C(O)C1OC(Oc2c[nH]c3ccccc23)C(O)C(O)C1O,0,Holmer
+iriflophenone_3_c_(2primeprime_6primeprime_di_o_galloyl)glucoside,O=C(OCC1OC(c2c(O)cc(O)c(C(=O)c3ccc(O)cc3)c2O)C(OC(=O)c2cc(O)c(O)c(O)c2)C(O)C1O)c1cc(O)c(O)c(O)c1,0,Holmer
+isobutyl_enanthate,CCCCCCC(=O)OCC(C)C,0,Holmer
+isocycloheterophyllin,CC(C)=CCc1c2c(c3oc4c(c(=O)c3c1O)CC(=C(C)C)Oc1cc(O)c(O)cc1-4)C=CC(C)(C)O2,0,Holmer
+isoeruboside_b,CC1CCC2(OC1)OC1CC3C4CC(O)C5CC(OC6OC(CO)C(OC7OC(CO)C(O)C(OC8OC(CO)C(O)C(O)C8O)C7OC7OC(CO)C(O)C(O)C7O)C(O)C6O)CCC5(C)C4CCC3(C)C1C2C,0,Holmer
+isointermedeol,C=C(C)C1CCC2(C)CCCC(C)(O)C2C1,0,Holmer
+isomalt,OCC(O)C(O)C(O)C(O)COC1OC(CO)C(O)C(O)C1O,0,Holmer
+isoorientin_2primeprime_glucoside,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)c(C3OC(CO)C(O)C(O)C3OC3OC(CO)C(O)C(O)C3O)c(O)c12,0,DrugBank
+isoprothiolane,CC(C)OC(=O)C(C(=O)OC(C)C)=C1SCCS1,0,Holmer
+isopyridoxal,Cc1ncc(C=O)c(CO)c1O,0,Holmer
+isoquinoline,c1ccc2cnccc2c1,0,Holmer
+isovaleryl_l_carnitine,CC(C)CC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,0,Holmer
+ivermectin,CCC(C)C1OC2(CCC1C)CC1CC(CC=C(C)C(OC3CC(OC)C(OC4CC(OC)C(O)C(C)O4)C(C)O3)C(C)C=CC=C3COC4C(O)C(C)=CC(C(=O)O1)C34O)O2,0,DrugBank
+ixocarpanolide,CC1CC(C(C)(O)C2CCC3C4C5OC5C5(O)C=CCC(=O)C5(C)C4CCC32C)OC(=O)C1C,0,Holmer
+janthitrem_c,C=C(C)C1OC2CCC3(C)C(O)(CCC4Cc5c([nH]c6cc7c(cc56)CC5C7=CC(C)(C)OC5(C)C)C43C)C2=CC1O,0,Holmer
+janthitrem_g,CC(=O)OC1C=C2C(CCC3(C)C2(O)CCC2Cc4c([nH]c5cc6c(cc45)CC4C6=CC(C)(C)OC4(C)C)C23C)OC1C(C)(C)O,0,Holmer
+jpc_2056,CC(C)N=C(N)N=C(N)NOCCCOc1ccc(OC(F)(F)F)cc1Cl,0,Holmer
+juglone,O=C1C=CC(=O)c2c(O)cccc21,0,Holmer
+kaempferide,COc1ccc(-c2oc3cc(O)cc(O)c3c(=O)c2O)cc1,0,Holmer
+kaempferol_3_o_feruloyl_sophoroside_7_o_glucoside,COc1cc(C=CC(=O)OCC2OC(Oc3c(-c4ccc(O)cc4)oc4cc(OC5OC(CO)C(O)C(O)C5O)cc(O)c4c3=O)C(OC3OC(CO)C(O)C(O)C3O)C(O)C2O)ccc1O,0,Holmer
+kanzonol_y,CC(C)=CCc1cc(CC(=O)C(O)c2cc(CC=C(C)C)c(O)cc2O)ccc1O,0,Holmer
+koraiol,CC1(C)CC2C1CCC(C)(O)C1CCC21C,0,Holmer
+kr_33028,N#Cc1cccc2sc(C(=O)N=C(N)N)cc12,0,Holmer
+kr_60436,COc1ccc(N2CCc3c(NCCO)nc4c(OC(F)(F)F)cccc4c32)c(C)c1,0,Holmer
+l_eflornithine,NCCCC(N)(C(=O)O)C(F)F,0,Holmer
+l_erythro_tetrahydrobiopterin,CC(O)C(O)C1CNc2[nH]c(N)nc(=O)c2N1,0,Holmer
+l_homocysteine_thiolactone,NC1CCSC1=O,0,Holmer
+l_leucyl_l_lysine,CC(C)CC(N)C(=O)NC(CCCCN)C(=O)O,0,Holmer
+l_threo_ritalinic_acid,O=C(O)C(c1ccccc1)C1CCCCN1,0,Holmer
+l_tyrosine,NC(Cc1ccc(O)cc1)C(=O)O,0,Holmer
+laam,CCC(OC(C)=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1,0,Holmer
+lactapiperanol_d,COC1OCC2(O)C(OC(C)=O)C3CC(C)(C)CC3C3(C)CC132,0,Holmer
+lacto_n_fucopentaose_v,CC(=O)NC1C(OC2C(O)C(CO)OC(OC(C(O)CO)C(OC3OC(C)C(O)C(O)C3O)C(=O)CO)C2O)OC(CO)C(O)C1OC1OC(CO)C(O)C(O)C1O,0,Holmer
+lathosterol,CC(C)CCCC(C)C1CCC2C3=CCC4CC(O)CCC4(C)C3CCC21C,0,Holmer
+lenthionine,C1SSCSSS1,0,Holmer
+leontogenin,CC1CCC2(OC1)OC1CC3C4C(CCC3(C)C1C2C)C1(C)CCC(O)CC1(O)C4C=O,0,Holmer
+lepidiumterpenyl_ester,C=CCCCCCOC(=O)C(C)CCCC(C)CCCC(C)CCC(=O)O,0,Holmer
+leu_pro,CC(C)CC(N)C(=O)N1CCCC1C(=O)O,0,Holmer
+licofelone,CC1(C)Cc2c(-c3ccccc3)c(-c3ccc(Cl)cc3)c(CC(=O)O)n2C1,0,Holmer
+licofelone_m1,CC1(C)Cc2c(-c3ccccc3)c(-c3ccc(Cl)cc3)c(CC(=O)OCC3OC(O)C(O)C(O)C3O)n2C1,0,Holmer
+licorice_glycoside_c1,COc1cc(C=CC(=O)OCC2(O)COC(OC3C(Oc4ccc(C5CC(=O)c6ccc(O)cc6O5)cc4)OC(CO)C(O)C3O)C2O)ccc1O,0,Holmer
+limonin,CC1(C)OC2CC(=O)OCC23C1CC(=O)C1(C)C3CCC2(C)C(c3ccoc3)OC(=O)C3OC321,0,Holmer
+liquiritic_acid,CC1(C(=O)O)CCC2(C)CCC3(C)C(=C2C1)CC(=O)C1C2(C)CCC(O)C(C)(C)C2CCC13C,0,Holmer
+lmst02030190,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C(C(=O)CC(=O)O)CCC12,0,Holmer
+lornoxicam,CN1C(C(=O)Nc2ccccn2)C(=O)c2sc(Cl)cc2S1(=O)=O,0,Yamashita
+ls_tetrasaccharide_a,CC(=O)NC1C(O)CC(OC2C(O)C(CO)OC(OC3C(O)C(CO)OC(OC4C(O)C(CO)OC(OC(C(=O)C(O)CO)C(O)CO)C4O)C3NC(C)=O)C2O)(C(=O)O)OC1C(O)C(O)CO,0,Holmer
+lu25_109,CCn1nnc(C2=CCCN(C)C2)n1,0,Holmer
+lucidal,CC(C=O)=CCCC(C)C1CCC2(C)C3=C(CCC12C)C1(C)CCC(O)C(C)(C)C1CC3=O,0,Holmer
+lyciumoside_i,C=CC(C)(CCC=C(C)CCC=C(C)CCC=C(C)COC1OC(CO)C(O)C(O)C1O)OC1OC(CO)C(O)C(O)C1O,0,Holmer
+lyciumoside_viii,C=CC(C)(CCC=C(C)CCC=C(C)C(O)CC=C(C)COC1OC(CO)C(O)C(O)C1O)OC1OC(CO)C(O)C(O)C1O,0,Holmer
+lycoperoside_a,CC(=O)OC1CC(C)CNC12OC1CC3C4CCC5CC(OC6OC(CO)C(OC7OC(CO)C(O)C(OC8OCC(O)C(O)C8O)C7OC7OC(CO)C(O)C(O)C7O)C(O)C6O)CCC5(C)C4CCC3(C)C1C2C,0,Holmer
+lysylcysteine,NCCCCC(N)C(=O)NC(CS)C(=O)O,0,Holmer
+m17055,Cc1ccccc1C(=O)N1CCC(=NOS(=O)(=O)O)c2ccc(Cl)cc21,0,Holmer
+m_chlorohippuric_acid,O=C(O)CNC(=O)c1cccc(Cl)c1,0,Holmer
+m_trigallic_acid,O=C(O)c1cc(O)c(O)c(OC(=O)c2cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c2)c1,0,Holmer
+madecassic_acid,CC1CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CC(O)C(O)C(C)(CO)C5C(O)CC43C)C2C1C,0,Holmer
+madecassoside,CC1CCC2(C(=O)OC3OC(COC4OC(CO)C(OC5OC(C)C(O)C(O)C5O)C(O)C4O)C(O)C(O)C3O)CCC3(C)C(=CCC4C5(C)CC(O)C(O)C(C)(CO)C5C(O)CC43C)C2C1C,0,Holmer
+malathion,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,0,Holmer
+maleic_acid,O=C(O)C=CC(=O)O,0,Holmer
+maleic_acid_homopolymer,CC(C(=O)O)=C(C)C(=O)O,0,Holmer
+malonic_acid,O=C(O)CC(=O)O,0,Holmer
+mamc,COc1ccc2c(CN)cc(=O)oc2c1,0,Holmer
+mammea_b/ba,CCCc1cc(=O)oc2c(C(=O)CC(C)C)c(O)c(CC=C(C)C)c(O)c12,0,Holmer
+manglupenone,C=C(CO)C1CCC2(C)CCC3(C)C(=CCC4C5(C)C=CC(=O)C(C)(C)C5CCC43C)C12,0,Holmer
+mannosyl_diinositol_phosphorylceramide,CCCCCCCCCCCCCCCCCCCCCCCCC(=O)C(O)NC(CO[PH](=O)(=O)OC1C(O)C(O)C(OC2OC(CO)C(O[PH](=O)(=O)OC3C(O)C(O)C(O)C(O)C3O)C(O)C2O)C(O)C1O)C(O)C(O)CCCCCCCCCCCCCC,0,Holmer
+mda,CC(N)Cc1ccc2c(c1)OCO2,0,Holmer
+melibiitol,OCC(O)C(O)C(O)C(O)COCC1OC(O)C(O)C(O)C1O,0,Holmer
+meloxicam,Cc1cnc(NC(=O)C2C(=O)c3ccccc3S(=O)(=O)N2C)s1,0,Yamashita
+meopp,COc1ccc(N2CCNCC2)cc1,0,Holmer
+mephenytoin,CCC1(c2ccccc2)NC(=O)N(C)C1=O,0,DrugBank
+mequitazine,c1ccc2c(c1)Sc1ccccc1N2CC12CCN(CC1)CC2,0,Yamashita
+meso_erythritol,OCC(O)C(O)CO,0,Holmer
+mesoridazine,CN1CCCCC1CCN1c2ccccc2Sc2ccc([S+](C)[O-])cc21,0,DrugBank
+meta_chlorophenylpiperazine,Clc1cccc(N2CCNCC2)c1,0,Holmer
+methaqualone,Cc1ccccc1-n1c(C)nc2ccccc2c1=O,0,Holmer
+methoxychlor_bis_oh,Oc1ccc(C(c2ccc(O)cc2)C(Cl)(Cl)Cl)cc1,0,Holmer
+methoxychlor_catechol,COc1ccc(C(c2ccc(O)c(O)c2)C(Cl)(Cl)Cl)cc1,0,Holmer
+methyl_(1r_2r_4as_6as_6br_10s_12ar_14bs)_1_hydroxy_1_2_6a_6b_9_9_12a_heptamethyl_10_{_(2s_3r_4s_5s)_3_4_5_trihydroxyoxan_2_yl_oxy}_1_2_3_4_4a_5_6_6a_6b_7_8_8a_9_10_11_12_12a_12b_13_14b_icosahydropicene_4a_carboxylate,COC(=O)C12CCC(C)C(C)(O)C1C1=CCC3C4(C)CCC(OC5OCC(O)C(O)C5O)C(C)(C)C4CCC3(C)C1(C)CC2,0,Holmer
+methyl_(2s)_2_methylpentanoate,CCCC(C)C(=O)OC,0,Holmer
+methyl_(9z)_8prime_oxo_6_8prime_diapo_6_carotenoate,COC(=O)C=CC(C)=CC=CC(C)=CC=CC=C(C)C=CC=C(C)C=O,0,Holmer
+methyl_(e)_2_octenoate,CCCCC=CCC(=O)OC,0,Holmer
+methyl_(methylthio)methyl_disulfide,CSCSSC,0,Holmer
+methyl_(z)_5_(1_propynyl)_2_thienylacrylate,CC#Cc1ccc(C=CC(=O)OC)s1,0,Holmer
+methyl_5_(1_propynyl)_2_thiophenepropanoate,CC#Cc1ccc(CCC(=O)OC)s1,0,Holmer
+methyl_beta_naphthyl_ketone,CC(=O)c1ccc2ccccc2c1,0,Holmer
+methyl_butyrate,CCCC(=O)OC,0,Holmer
+methyl_propyl_trisulfide,CCCSSSC,0,Holmer
+methyl_thiophene_2_carboxylate,COC(=O)c1cccs1,0,Holmer
+methylguanidine,CN=C(N)N,0,Holmer
+metolachlor,CCc1cccc(C)c1N(C(=O)CCl)C(C)COC,0,Holmer
+mexazolam,CC1COC2(c3ccccc3Cl)c3cc(Cl)ccc3NC(=O)CN12,0,Holmer
+mifepristone,CC#CC1(O)CCC2C3=C(C4=C(CC3)CC(=O)CC4)C(c3ccc(N(C)C)cc3)CC21C,0,Yamashita
+miglitol,OCCN1CC(O)C(O)C(O)C1CO,0,Holmer
+miliacin,COC1CCC2(C)C(CCC3(C)C2CCC2C4=CC(C)(C)CCC4(C)CCC23C)C1(C)C,0,Holmer
+minaprine,Cc1cc(-c2ccccc2)nnc1NCCN1CCOCC1,0,Holmer
+mk_0457,Cc1cc(Nc2cc(N3CCN(C)CC3)nc(Sc3ccc(NC(=O)C4CC4)cc3)n2)[nH]n1,0,Holmer
+mk_0767,COc1ccc(Cc2sc(=O)[nH]c2O)cc1C(=O)NCc1ccc(C(F)(F)F)cc1,0,Holmer
+ml_3403,CSc1nc(-c2ccc(F)cc2)c(-c2ccnc(NC(C)c3ccccc3)c2)[nH]1,0,Holmer
+mmdl,COC12CC(CO)CN(C)C1Cc1cn(C)c3cccc2c13,0,Holmer
+momilactone_c,C=CC1(C)CCC2C(=CC3OC(=O)C4(C)CC(O)CC2(C)C34)C1,0,Holmer
+moppp,COc1ccc(C(=O)C(C)N2CCCC2)cc1,0,Holmer
+morphine,CN1CC2Cc3ccc(O)c4c3C3(C1)C2C=CC(O)C3O4,0,Yamashita
+morphinone,CN1CCC23C4=CCC(=O)C2Oc2c(O)ccc(c23)CC41,0,Holmer
+mpbp,CCC(C(=O)c1ccc(C)cc1)N1CCCC1,0,Holmer
+mppp,Cc1ccc(C(=O)C(C)N2CCCC2)cc1,0,Holmer
+muconin,CCCCCCCCCCCCC(O)C1CCC(C2CCCC(C(O)CCCCCCCC(O)Cc3cc(C)oc3O)O2)O1,0,Holmer
+muricatalicin,CCCCCCCCCCCCC(O)C1CCC(C(O)CC(O)CCCCCC(O)CCC(O)Cc2cc(C)oc2O)O1,0,Holmer
+muricin_e,CCCCCCCC(O)C(O)CCCCCC(O)C1CCC(CCCCCCCC(O)Cc2cc(C)oc2O)O1,0,Holmer
+mycophenolic_acid,COc1c(CC=C(C)CCC(=O)O)c(O)c2c(O)occ2c1C,0,Holmer
+myricetin_3_(3primeprime_4primeprime_diacetylrhamnoside),CC(=O)OC1C(C)OC(Oc2c(-c3cc(O)c(O)c(O)c3)oc3cc(O)cc(O)c3c2=O)C(O)C1OC(C)=O,0,Holmer
+n2_tryptophyllysine,NCCCCC(NC(=O)C(N)Cc1c[nH]c2ccccc12)C(=O)O,0,Holmer
+n4_acetylaminobutanal,CC(=O)NCCCC=O,0,Holmer
+n6_n6_n6_trimethyl_l_lysine,C[N+](C)(C)CCCCC(N)C(=O)[O-],0,Holmer
+n7_methylcyclohexylline,Cc1nc2c(c(=O)n(C)c(=O)n2CC2CCCCC2)n1C,0,Holmer
+n7_methylfurafylline,Cc1nc2c(c(=O)n(C)c(=O)n2Cc2ccco2)n1C,0,Holmer
+n_(4_carbamimidamidobutyl)_5__(1z)_2__(4_carbamimidamidobutyl)_c_hydroxycarbonimidoyl_eth_1_en_1_yl__7_hydroxy_2_(4_hydroxyphenyl)_2_3_dihydro_1_benzofuran_3_carboximidic_acid,N=C(N)NCCCCNC(=O)C1c2cc(C=CC(=O)NCCCCN=C(N)N)cc(O)c2OC1c1ccc(O)cc1,0,Holmer
+n__(3a_5b_7a)_3_hydroxy_24_oxo_7_(sulfooxy)cholan_24_yl__glycine,CC(CCC(=O)NCC(=O)O)C1CCC2C3C(OS(=O)(=O)O)CC4CC(O)CCC4(C)C3CCC12C,0,Holmer
+n_ac_dfec,CC(=O)NC(CSC(F)(F)C(OCF)C(F)F)C(=O)O,0,Holmer
+n_ac_ffvc,CC(=O)NC(CSC(F)=C(OCF)C(F)F)C(=O)O,0,Holmer
+n_ac_pcbc,NC(CSC(Cl)=C(Cl)C(Cl)=C(Cl)Cl)C(=O)O,0,Holmer
+n_desmethyleletriptan,O=S(=O)(CCc1ccc2[nH]cc(CC3CCCN3)c2c1)c1ccccc1,0,DrugBank
+n_formyl_l_methionine,CSCCC(NC=O)C(=O)O,0,Holmer
+n_isobutyl_2_4_8_10_12_tetradecapentaenamide,CC=CC=CC=CCC=CC=CCC(=O)NCC(C)C,0,Holmer
+n_methylnicotinamide,CNC(=O)c1cccnc1,0,DrugBank
+n_ribosylhistidine,NC(Cc1cn(C2OC(CO)C(O)C2O)cn1)C(=O)O,0,Holmer
+nadh,NC(=O)C1=CN(C2OC(CO[PH](=O)(=O)O[PH](=O)(=O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C=CC1,0,Holmer
+ne_100,CCCN(CCC)CCc1ccc(OC)c(OCCc2ccccc2)c1,0,Holmer
+neotigogenin,CC1CCC2(OC1)OC1CC3C4CCC5CC(O)CCC5(C)C4CCC3(C)C1C2C,0,Holmer
+neotussilagolactone,C=C1C(OC(=O)C=C(C)CC)C=C(C(C)C)C2C(=CC)C(=O)OCC12,0,Holmer
+nequinate,CCCCc1cc2c(=O)c(C(=O)OC)c[nH]c2cc1OCc1ccccc1,0,Holmer
+neryl_isobutyrate,CC(C)=CCCC(C)=CCOC(=O)C(C)C,0,Holmer
+niazinin,COC(=S)NCc1ccc(OC2OC(C)C(O)C(O)C2O)cc1,0,Holmer
+nifedipine,COC(=O)C1=C(C)N=C(C)C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],0,DrugBank
+nitecapone,CC(=O)C(=Cc1cc(O)c(O)c([N+](=O)[O-])c1)C(C)=O,0,Holmer
+nitrendipine,CCOC(=O)C1=C(C)N=C(C)C(C(=O)OC)C1c1cccc([N+](=O)[O-])c1,0,Holmer
+nmpha,CN(N=O)c1ccccc1,0,Holmer
+nnal,CN(CCC(=O)C(O)c1cccnc1)N=O,0,Holmer
+no_1886,CCOP(=O)(Cc1ccc(C(=O)Nc2ccc(Br)cc2C#N)cc1)OCC,0,Holmer
+nor_laam,CCC(OC(C)=O)C(CC(C)NC)(c1ccccc1)c1ccccc1,0,Holmer
+norartocarpetin,O=c1cc(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,0,Holmer
+nordexfenfluramine,CC(N)Cc1cccc(C(F)(F)F)c1,0,DrugBank
+norecasantalal,CC1(CC=O)C2CC3C(C2)C31C,0,Holmer
+norfuraneol,Cc1occ(O)c1O,0,Holmer
+ns_21,CCN(CC)CC#CC(C)(C)OC(=O)C(O)(c1ccccc1)C1CCCCC1,0,Holmer
+o6_benzylguanine,Nc1nc(OCc2ccccc2)c2[nH]cnc2n1,0,Holmer
+o_aminoazotoluene,Cc1cc(N=Nc2ccccc2C)ccc1N,0,Holmer
+o_methylmalonylcarnitine,CC(C(=O)O)C(=O)OC(CC(=O)[O-])C[N+](C)(C)C,0,Holmer
+o_o_diethyl_hydrogen_thiophosphate,CCOP(=O)(S)OCC,0,Holmer
+o_stearoylcarnitine,CCCCCCCCCCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,0,Holmer
+occidentoside,O=C1CC(c2ccc(Oc3c(O)c(C(=O)C=Cc4ccc(O)cc4)c(O)c(C4OC(CO)C(O)C(O)C4O)c3O)cc2)Oc2cc(O)cc(O)c21,0,Holmer
+ochratoxin_b,CC1Cc2ccc(C(=O)NC(Cc3ccccc3)C(=O)O)c(O)c2C(=O)O1,0,Holmer
+octyl_butanoate,CCCCCCCCOC(=O)CCC,0,Holmer
+olopatadine,CN(C)CCC=C1c2ccccc2COc2ccc(CC(=O)O)cc21,0,Holmer
+omeprazole,COc1ccc2[nH]c([S+]([O-])Cc3ncc(C)c(OC)c3C)nc2c1,0,Yamashita
+onapristone,CN(C)c1ccc(C2=C3C4=C(CCC3C3CCC(O)(CCCO)C3(C)C2)CC(=O)CC4)cc1,0,Holmer
+org_30659,C#CC1(O)C=CC2C3CC=C4CC(=O)CCC4C3C(=C)CC21C,0,Holmer
+ornithine,NCCCC(N)C(=O)O,0,Holmer
+oryzalic_acid_a,CC(C)(C(=O)O)C1CCC23CC(CCC2C1(C)CC(=O)O)C1(C)OC31,0,Holmer
+oxycinchophen,O=C(O)c1c(O)c(-c2ccccc2)nc2ccccc12,0,Holmer
+oxypinnatanine,NC(CC(=O)C(=O)NC1OCC=C1CO)C(O)O,0,Holmer
+p(1)_p(4)_bis(5prime_xanthosyl)_tetraphosphate,O=c1[nH]c(=O)c2ncn(C3OC(CO[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)OCC4OC(n5cnc6c(=O)[nH]c(=O)[nH]c65)C(O)C4O)C(O)C3O)c2[nH]1,0,Holmer
+p_isopropyloxyacetanilide,CC(=O)Nc1ccc(OC(C)C)cc1,0,Holmer
+p_methoxyacetanilide,COc1ccc(NC(C)=O)cc1,0,Holmer
+palmityl_myristoleate,CCCCC=CCCCCCCCC(=O)OCCCCCCCCCCCCCCCC,0,Holmer
+panaquinquecol_7,CCCCCCCC1OC1CC#CC#CC(=O)CCO,0,Holmer
+pantoprazole,COc1ccnc(C[S+]([O-])c2nc3cc(OC(F)F)ccc3[nH]2)c1OC,0,Yamashita
+paullinic_acid,CCCCCCC=CCCCCCCCCCCCC(=O)O,0,Holmer
+peg/ppg_butyl_ether,CCCCOCCOCC(C)OCCCOC,0,Holmer
+pentachlorobenzene,Clc1cc(Cl)c(Cl)c(Cl)c1Cl,0,Holmer
+pentanal,CCCCC=O,0,Holmer
+permetin_a,CCC(C)C1=NC(=O)C(CCN)N=C(O)CC(C(C)CC)OC(=O)C(CO)N=C(O)C(CC(C)C)N=C(O)C(C(C)C)NC(=O)C(CCN)NC(=O)C(CC(C)C)NC(=O)C(Cc2ccccc2)NC(=O)C(CCN)NC1O,0,Holmer
+peroxyacetic_acid_uroporphyrin_iii,O=C(O)C=C1C2=NC(=C1CCC(=O)O)C=c1[nH]c(c(CC(=O)O)c1CCC(=O)OO)=Cc1[nH]c(c(CCC(=O)O)c1CC(=O)O)C=c1[nH]c(c(CCC(=O)O)c1CC(=O)O)=C2,0,Holmer
+petroselinate,CCCCCCCCCCCC=CCCCCC(=O)O,0,Holmer
+phaseolus_e,C=C1CC23CC1(O)CCC2C12CC(OC4OC(CO)C(O)C(O)C4O)C(O)C(C)(C(=O)O1)C2C3C(=O)O,0,Holmer
+phaseoluside_a,CC1(C)CC(O)C2(C)CCC3(C)C(=CCC4C5(C)CCC(OC6OC(CO)C(OC7OC(CO)C(O)C(O)C7O)C(OC7OC(CO)C(O)C(O)C7O)C6O)C(C)(CO)C5CCC43C)C2C1,0,Holmer
+phencyclidine,c1ccc(C2(N3CCCCC3)CCCCC2)cc1,0,Holmer
+phenformin,N=C(N)N=C(N)NCCc1ccccc1,0,Holmer
+phomopsin_a,C=C(C)C1NC(=O)C(NC)C(O)c2cc(Cl)c(O)c(c2)OC(C)(CC)C(C(=O)N2CC=CC2C(=O)N=C(C(=O)NC(=CC(=O)O)C(=O)O)C(C)CC)NC1=O,0,Holmer
+phorate,CCOP(=S)(OCC)SCSCC,0,Holmer
+phosphocreatine,CN(CC(=O)O)C(=N)N[PH](=O)(=O)O,0,Holmer
+phosphoric_acid,O=[PH](=O)(O)O,0,Holmer
+phyllocladene,C=C1CC23CCC4C(C)(C)CCCC4(C)C2CCC1C3,0,Holmer
+physalin_g,CC12C(=O)CCC=C1C(=O)CC1C2CCC2(O)C(=O)OC3(C)C4CC5(C)C(COC16OC23C5C6=O)C(=O)O4,0,Holmer
+pilocarpine,CCC1C(=O)OCC1Cc1cncn1C,0,Holmer
+pinacidil,CC(N=C(N=c1cc[nH]cc1)NC#N)C(C)(C)C,0,Holmer
+pioglitazone,CCc1ccc(CCOc2ccc(Cc3sc(=O)[nH]c3O)cc2)nc1,0,Yamashita
+pipericine,CCCCCCCCCCCCC=CC=CCC(=O)NCC(C)C,0,Holmer
+pmma,CNC(C)Cc1ccc(OC)cc1,0,Holmer
+pogostol,C=C(C)C1CCC(C)(O)C2CCC(C)C2C1,0,Holmer
+poly_gamma_d_glutamate,NC(CCC(=O)NC(CCC(=O)NC(CCC(=O)NC(CCC=O)C(=O)O)C(=O)O)C(=O)O)C(=O)O,0,Holmer
+portulacaxanthin_ii,O=C(O)c1cc(CC=NC(Cc2ccc(O)cc2)C(=O)O)cc(C(O)O)n1,0,Holmer
+pradefovir,Nc1ncnc2c1ncn2CCOCP1(=O)OCCC(c2cccc(Cl)c2)O1,0,Holmer
+pranidipine,COC(=O)C1=C(C)N=C(C)C(C(=O)OCC=Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1,0,Holmer
+pristanoylglycine,CC(C)CCCC(C)CCCC(C)CCCC(C)C(=O)NCC(=O)O,0,Holmer
+pro_phe,O=C(O)C(Cc1ccccc1)NC(=O)C1CCCN1,0,Holmer
+progesterone,CC(=O)C1CCC2C3CC=C4CC(=O)CCC4(C)C3CCC12C,0,Yamashita
+proguanil,CC(C)N=C(N)N=C(N)Nc1ccc(Cl)cc1,0,Yamashita
+protogracillin,CC(CCC1(O)OC2CC3C4CC=C5CC(OC6OC(CO)C(O)C(OC7OC(CO)C(O)C(O)C7O)C6OC6OC(C)C(O)C(O)C6O)CCC5(C)C4CCC3(C)C2C1C)COC1OC(CO)C(O)C(O)C1O,0,Holmer
+psilocin,CN(C)CCc1c[nH]c2cccc(O)c12,0,Holmer
+psoralen,O=c1ccc2cc3ccoc3cc2o1,0,Holmer
+purpurenin,CCCCCC(O)CCCCC(O)C1CCC(C2CCC(C(O)CCCCC(O)CCCCCCCc3cc(C)oc3O)O2)O1,0,Holmer
+py74,COc1cc([N+](=O)[O-])ccc1NN=C(C(C)=O)C(=O)Nc1ccccc1OC,0,Holmer
+pyrrole_2_carboxylate,O=C(O)c1ccc[nH]1,0,Holmer
+pyruvaldehyde,CC(=O)C=O,0,Holmer
+quercetin_3_o_alpha_d_arabinofuranoside,O=c1c(OC2OC(CO)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,0,Holmer
+questiomycin_a,Nc1cc2nc3ccccc3oc-2cc1=O,0,Holmer
+quinacrine,CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12,0,Holmer
+r_568,COc1cccc(C(C)NCCCc2ccccc2Cl)c1,0,Holmer
+r_95913,O=C(C1CC1)C(c1ccccc1F)N1CCc2sc(O)cc2C1,0,Holmer
+ranitidine,CN=C(C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,0,Holmer
+rebaudioside_a,C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1OC(CO)C(O)C(O)C1O)C3,0,Holmer
+reduced_diclofenac,OCCc1ccccc1Nc1c(Cl)cccc1Cl,0,Holmer
+reduced_dolasetron,O=C(OC1CC2CC3CC(C1)N2CC3O)c1c[nH]c2ccccc12,0,Holmer
+reduced_haloperidol,OC(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1,0,Holmer
+reticulatain_2,CCCCCCCCCCC(O)C1CCC(COCCCCCCCCCCCCCCCCc2cc(C)oc2O)O1,0,Holmer
+rhp+,OC(CCC[n+]1ccc(-c2ccc(Cl)cc2)cc1)c1ccc(F)cc1,0,Holmer
+ribose_1_5_bisphosphate,O=[PH](=O)(O)OCC1OC(O[PH](=O)(=O)O)C(O)C1O,0,Holmer
+riddelliine,C=C1CC(=CC)C(=O)OC2CCN3CC=C(COC(=O)C1(O)CO)C23,0,Holmer
+rifalazil,COC1C=COC2(C)Oc3c(C)c(=O)c4c(O)c(c5oc6cc(N7CCN(CC(C)C)CC7)cc(O)c6nc5c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,0,Holmer
+roquinimex,CN(C(=O)c1c(O)c2ccccc2n(C)c1=O)c1ccccc1,0,Holmer
+rosmaridiphenol,CC(C)c1cc2c(c(O)c1O)C(=O)C1CCCC(C)(C)C1CC2,0,Holmer
+rox_m_4,NCCCOc1cccc(CN2CCCCC2)c1,0,Holmer
+rox_m_5,OCCCOc1cccc(CN2CCCCC2)c1,0,Holmer
+roxithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O,0,Holmer
+rp73401,COc1ccc(C(=O)Nc2c(Cl)cncc2Cl)cc1OC1CCCC1,0,Holmer
+rpr_106541,CCCC1OC2CC3C4CC(F)=C5CC(=O)CCC5(C)C4(F)C(O)CC3(C)C2(SC)O1,0,Holmer
+s_145,O=C(O)CCCC=CCC1C2CCC(C2)C1NS(=O)(=O)c1ccccc1,0,Holmer
+s_methyl_propanethioate,CCC(=O)SC,0,Holmer
+saccharin,O=C1NS(=O)(=O)c2ccccc21,0,Holmer
+sagequinone_methide_a,CC(C)c1cc2c(c(O)c1O)C13CCCC(C)(C)C1=C(C2)OC3=O,0,Holmer
+sambubiose,OCC1OC(O)C(OC2OCC(O)C(O)C2O)C(O)C1O,0,Holmer
+sapogenol_c,CC1(C)C=CC2(C)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(CO)C5CCC43C)C2C1,0,Holmer
+saquinavir,CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(=O)C(Cc1ccccc1)NC(=O)C(CC(N)O)NC(=O)c1ccc2ccccc2n1,0,Yamashita
+sarmentoside_c,CC1OC(OC2CCC3(C=O)C4C(O)CC5(C)C(c6coc(O)c6)CCC5(O)C4CCC3(O)C2)C(O)C(O)C1O,0,Holmer
+sativoside_b1,CC(CCC1(O)OC2CC3C4CC(O)C5CC(OC6OC(CO)C(OC7OC(CO)C(O)C(OC8OC(CO)C(O)C(O)C8O)C7OC7OC(CO)C(O)C(OC8OC(CO)C(O)C(O)C8O)C7O)C(O)C6O)CCC5(C)C4CCC3(C)C2C1C)COC1OC(CO)C(O)C(O)C1O,0,Holmer
+schembl12591362,COc1cc(C=CC(=O)NCCCCN=C(N)N)cc2c1OC(c1ccc(OC3OC(CO)C(O)C(O)C3O)cc1)C2C(=O)NCCCCN=C(N)N,0,Holmer
+schembl13772427,CC(C)=CCCC(C)(OC1OC(CO)C(O)C(O)C1O)C1CCC2(C)C1C(O)CC1C3(C)CCC(OC4OC(CO)C(O)C(O)C4O)C(C)(C)C3C(O)CC12C,0,Holmer
+schembl18439905,CC1C(O)CC2(C)C(O)CC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1C,0,Holmer
+schembl18963491,CCC(=O)OCC1CCCO1,0,Holmer
+schembl2832271,CC(C=CC=C(C)C=CC=C(C)CCC1OC1(C)C)=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C,0,Holmer
+schembl2833041,CC(C=O)=CC=CC(C)=CC=CC=C(C)C=CC=C(C)C=CC12OC1(C)CC(O)CC2(C)C,0,Holmer
+schembl311379,CC=CC(=O)C1C(C)C=CCC1(C)C,0,Holmer
+schembl8429139,CC(C)C(N)C(=O)NC(CCC(N)=O)C(=O)O,0,Holmer
+schembl8954842,CCC=CCCOC(=O)C(C)CC,0,Holmer
+schembl9438541,CC1OC(O[PH](=O)(=O)O[PH](=O)(=O)OCC2OC(n3cnc4c(=O)[nH]c(N)nc43)C(O)C2O)C(O)C(O)C1O,0,Holmer
+scorzoside,C=C1C(OC2OC(CO)C(O)C(O)C2O)CC2C(C)C(=O)OC2C2C(=C)CCC12,0,Holmer
+sdz_imm_125,CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(COCCO)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,0,Holmer
+senecionine,CC=C1CC(C)C(C)(O)C(=O)OCC2=CCN3CCC(OC1=O)C23,0,Holmer
+seratrodast,Cc1c(C)c(O)c(C(=CCCCCC(=O)O)c2ccccc2)c(C)c1O,0,Holmer
+serylarginine,N=C(N)NCCCC(NC(=O)C(N)CO)C(=O)O,0,Holmer
+shyobunone,C=CC1(C)CCC(C(C)C)C(=O)C1=C(C)C,0,Holmer
+sibutramine,CC(C)CC(N(C)C)C1(c2ccc(Cl)cc2)CCC1,0,Holmer
+sildenafil,CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12,0,DrugBank
+simonin_iv,CCCCCCCCCCCC(=O)OC1C(C)OC(OC2C(C)OC(OC3C(C)OC4OC5C(OC(CCCCC)CCCCCCCCCC(=O)OC4C3O)OC(C)C(O)C5O)C(OC(=O)CCCCCCCCC)C2OC2OC(C)C(O)C(O)C2O)C(O)C1O,0,Holmer
+simvastatin_hydroxy_acid,CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C21,0,Holmer
+sinocrassuloside_xi,CC(=O)OC1C(C)OC(OC(=O)C23CCC(C)(C)CC2C2=CCC4C5(C)CCC(OC6OC(C(=O)O)C(O)C(OC7OCC(O)C(O)C7O)C6OC6OC(CO)C(O)C(O)C6O)C(C)(C=O)C5CCC4(C)C2(C)CC3O)C(OC2OC(C)C(OC3OCC(O)C(O)C3O)C(O)C2O)C1OC1OC(CO)C(O)C(O)C1O,0,Holmer
+sirolimus,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)=CC(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,0,Yamashita
+sm(d17:1/24:0),CCCCCCCCCCCCC=CC(O)C(CO[PH](=O)(=O)OCC[N+](C)(C)C)NC(=O)CCCCCCCCCCCCCCCCCCCCCCC,0,Holmer
+sm(d18:0/18:1(9z)),CCCCCCCCC=CCCCCCCCC(=O)NC(COP(=O)([O-])OCC[N+](C)(C)C)C(O)CCCCCCCCCCCCCCC,0,Holmer
+sm(d18:1/18:1(9z)),CCCCCCCCC=CCCCCCCCC(=O)NC(COP(=O)([O-])OCC[N+](C)(C)C)C(O)C=CCCCCCCCCCCCCC,0,Holmer
+sm_12502,CC1SC(c2cccnc2)N(C)C1=O,0,Holmer
+sni_2011,CC1OC2(CS1)CN1CCC2CC1,0,Holmer
+soyasaponin_alpha,CC1OC(OC2CC(C)(C)CC3C4=CCC5C6(C)CCC(OC7OC(C(=O)O)C(O)C(O)C7OC7OCC(O)C(O)C7OC7OC(CO)C(O)C(O)C7O)C(C)(CO)C6CCC5(C)C4(C)CCC23C)CC(=O)C1=O,0,Holmer
+spirosulfonamide,NS(=O)(=O)c1ccc(C2=C(c3ccc(F)cc3)C(=O)OC23CCCC3)cc1,0,Holmer
+spirotaccagenin,CC1C2C(CC3C4CC=C5CC(O)CCC5(C)C4CCC32C)OC12CCC(O)(CO)CO2,0,Holmer
+squamone,CCCCCCCCCCCCC(O)C1CCC(C(O)CCCCCC(=O)CCCCC2CC(CC(C)=O)C(=O)O2)O1,0,Holmer
+sr_49498,CCCCC(=O)NC1(C(=O)NCc2ccc(-c3ccccc3-c3nn[nH]n3)cc2)CCCC1,0,Holmer
+steviol,C=C1CC23CCC4C(C)(C(=O)O)CCCC4(C)C2CCC1(O)C3,0,Holmer
+sulfinpyrazone,O=c1c(CC[S+]([O-])c2ccccc2)c(O)n(-c2ccccc2)n1-c1ccccc1,0,Yamashita
+sulfinpyrazone_sulfide,O=c1c(CCSc2ccccc2)c(O)n(-c2ccccc2)n1-c1ccccc1,0,Holmer
+superoxide_anion,OO,0,Holmer
+suprofen,CC(C(=O)O)c1ccc(C(=O)c2cccs2)cc1,0,Holmer
+sylveterpinolene,CC1=CC(=C(C)C)CCC1,0,Holmer
+tamarixetin,COc1ccc(-c2oc3cc(O)cc(O)c3c(=O)c2O)cc1O,0,Holmer
+tamsulosin,CCOc1ccccc1OCCNC(C)Cc1ccc(OC)c(S(N)(=O)=O)c1,0,Holmer
+tangeretin_t27,COc1c(OC)c(OC)c2c(=O)cc(-c3ccc(O)cc3)oc2c1OC,0,Holmer
+taurochenodeoxycholic_acid,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C,0,Holmer
+tauromustine,CN(C)S(=O)(=O)CCNC(=O)N(CCCl)N=O,0,Holmer
+taxol,CC(=O)OC1=C2C(C)C(OC(=O)C(O)C(NC(=O)c3ccccc3)c3ccccc3)CC(O)(C(OC(=O)c3ccccc3)C3C4(OC(C)=O)COC4CC(O)C3(C)C1=O)C2(C)C,0,Holmer
+tazofelone,CC(C)(C)c1cc(CC2SCNC2=O)cc(C(C)(C)C)c1O,0,Holmer
+tegaserod,CCCCCN=C(N)NN=Cc1c[nH]c2ccc(OC)cc12,0,DrugBank
+tenoxicam,CN1C(C(=O)Nc2ccccn2)C(=O)c2sccc2S1(=O)=O,0,Yamashita
+tentoxin,Cc1c(O)[nH]c(CC(C)C)c(O)n(C)c(Cc2ccccc2)c(O)ncc(=O)n1C,0,Holmer
+terbuthylazine,CCNc1nc(Cl)nc(NC(C)(C)C)n1,0,Holmer
+testosterone,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,0,Yamashita
+tetracosapentaenoic_acid_(24:5n_3),CCC=CCC=CCC=CCC=CCC=CCCCCCCCC(=O)O,0,Holmer
+tetradec_2_enal,CCCCCCCCCCCC=CC=O,0,Holmer
+tetrahydropentoxyline,O=C(O)C1Cc2c([nH]c3ccccc23)C(C(O)C(O)C(O)C(O)CO)N1,0,Holmer
+tetranor,O=C(O)CCC1C2CCC(C2)C1NS(=O)(=O)c1ccccc1,0,Holmer
+tfmpp,FC(F)(F)c1cccc(N2CCNCC2)c1,0,Holmer
+thalidomide,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,0,Yamashita
+thelephoric_acid,O=C1C=c2oc3c(O)c4c(oc5cc(O)c(O)cc54)c(O)c3c2=CC1=O,0,Holmer
+thiamine_triphosphate,Cc1ncc(C[n+]2csc(CCO[PH](=O)(=O)O[PH](=O)(=O)O[PH](=O)(=O)O)c2C)c(N)n1,0,Holmer
+thiiranebutanenitrile,N#CCCCC1CS1,0,Holmer
+thr_arg,CC(=O)C(N)C(O)NC(CCCN=C(N)N)C(=O)O,0,Holmer
+thromboxane_b3,CCC=CCC(O)C=CC1OC(O)CC(O)C1CC=CCCCC(=O)O,0,Holmer
+tienilic_acid,O=C(O)COc1ccc(C(=O)c2cccs2)c(Cl)c1Cl,0,Holmer
+tienilic_acid_derivative,O=C(c1cccs1)c1ccc(OCCCO)c(Cl)c1Cl,0,Holmer
+tirilazad,CC1CC2C3CC=C4CC(=O)C=CC4(C)C3=CCC2(C)C1C(=O)CN1CCN(c2cc(N3CCCC3)nc(N3CCCC3)n2)CC1,0,Yamashita
+tocopherosolan,Cc1c(C)c2c(c(C)c1OC(=O)CCC(=O)OCCO)CCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O2,0,Holmer
+toremifene,CN(C)CCOc1ccc(C(=C(CCCl)c2ccccc2)c2ccccc2)cc1,0,Holmer
+tpa023,CCn1ncnc1COc1nn2c(-c3ccccc3F)nnc2cc1C(C)(C)C,0,Holmer
+tr_14035,COc1cccc(OC)c1-c1ccc(CC(NC(=O)c2c(Cl)cccc2Cl)C(=O)O)cc1,0,Holmer
+trans_4_hydroxycyclohexylacetic_acid,O=C(O)CC1CCC(O)CC1,0,Holmer
+trans_5_6_dihydro_5_6_dihydroxythymidine,CC1(O)C(=O)NC(=O)N(C2CC(O)C(CO)O2)C1O,0,Holmer
+trans_dec_2_enoyl_coa,CCCCCCC=CCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)CO[PH](=O)(=O)O[PH](=O)(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O[PH](=O)(=O)O,0,Holmer
+trans_trans_3_5_octadien_2_one,CC=CC=CCC(C)=O,0,Holmer
+triacontanal,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC=O,0,Holmer
+trigoneoside_xiib,CC(CCC1(O)OC2CC3C4CCC5=CC(OC6OC(CO)C(O)C(O)C6OC6OC(C)C(O)C(O)C6O)CCC5(C)C4CCC3(C)C2C1C)COC1OC(CO)C(O)C(O)C1O,0,Holmer
+trihexosylceramide_(d18:1/16:0),CCCCCCCCCCCCCC=CC(O)C(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3O)C(O)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCC,0,Holmer
+trihexosylceramide_(d18:1/24:1(15z)),CCCCCCCCC=CCCCCCCCCCCCCCC(=O)NC(COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(O)C3O)C(O)C2O)C(O)C1O)C(O)C=CCCCCCCCCCCCCC,0,Holmer
+trihydroxycoprostanoic_acid,CC(C)CCCC(C)C1CCC2C3C(O)CC4(C(=O)O)CC(O)CCC4(C)C3CC(O)C12C,0,Holmer
+tuberoside,CC(C)C(C)C=CC(C)C1CCC2C3=CC(O)C4(O)CC(OC5OC(CO)C(O)C(O)C5O)CCC4(C)C3CCC21C,0,Holmer
+tyr_ile,CCC(C)C(NC(=O)C(N)Cc1ccc(O)cc1)C(=O)O,0,Holmer
+tyramine,NCCc1ccc(O)cc1,0,Holmer
+tyramine_glucuronide,NCCc1ccc(OC2OC(C(=O)O)C(O)C(O)C2O)cc1,0,Holmer
+tyrosyltyrosine,NC(Cc1ccc(O)cc1)C(=O)NC(Cc1ccc(O)cc1)C(=O)O,0,Holmer
+ubiquinol_2,COc1c(O)c(C)c(CC=C(C)CCC=C(C)C)c(O)c1OC,0,Holmer
+uk_343664,CCCOc1ccc(S(=O)(=O)N2CCN(CC)CC2)cc1-c1nc(=O)c2nn(Cc3ccccn3)c(CC)c2[nH]1,0,DrugBank
+unii_1161a82373,C=C(C)CCCC(C)CCOC(=O)C(C)C,0,Holmer
+unii_34in72430s,CCCCC(CC=O)SC,0,Holmer
+unii_408af93g1u,CCSC(C)CCO,0,Holmer
+unii_m8i6861388,CCCCCCCC1OCC(C)O1,0,Holmer
+unii_mh0uum21k0,CC1(C)CCCC(C)(O)C1=O,0,Holmer
+unii_s68x88k6s1,C=C(C)C1CCC(C)C(OC(C)=O)C1,0,Holmer
+unii_v16hyx6k7b,Cc1c(C)c(O)c(C=CC(C)(O)CCC(=O)O)c(C)c1O,0,Holmer
+unii_x69h9499rf,CCC(C)COC(=O)C=C(C)C,0,Holmer
+upunaphenol_e,O=Cc1ccc2c(c1)C(c1cc(O)cc3c1C(c1cc(O)cc(O)c1)C(c1ccc(O)cc1)O3)C(c1ccc(O)cc1)O2,0,Holmer
+urobilin,CCc1c(O)[nH]c(C=c2[nH]c(=Cc3[nH]c(Cc4[nH]c(O)c(C)c4CC)c(C)c3CCC(=O)O)c(CCC(=O)O)c2C)c1C,0,Holmer
+valspodar,CC=CCC(C)C(=O)C1C(=O)NC(C(C)C)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,0,Holmer
+vanilpyruvic_acid,COc1cc(CC(=O)C(=O)O)ccc1O,0,Holmer
+veranisatin_a,COCC1(O)C2CC3(C(=O)C(O)O2)C(C)CCC3(O)C12COC2=O,0,Holmer
+vicriviroc,COCC(c1ccc(C(F)(F)F)cc1)N1CCN(C2(C)CCN(C(=O)c3c(C)ncnc3C)CC2)CC1C,0,Holmer
+vitamin_d2,C=C1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)C=CC(C)C(C)C,0,Holmer
+vivid_red,O=c1ccc2nc3ccc(OCOCc4ccccc4)cc3oc-2c1,0,Holmer
+voreloxin,CNC1CN(c2ccc3c(=O)c(C(=O)O)cn(-c4nccs4)c3n2)CC1OC,0,Holmer
+wyerol,CCC=CC#CC(O)c1ccc(C=CC(=O)OC)o1,0,Holmer
+xanthosine,O=c1[nH]c(=O)c2ncn(C3OC(CO)C(O)C3O)c2[nH]1,0,Holmer
+zatosetron,CN1C2CCC1CC(NC(=O)c1cc(Cl)cc3c1OC(C)(C)C3)C2,0,Holmer
+zinc13521513,O=C(O)C1CC(O)CN1C(=O)C1CCCN1,0,Holmer
+zinc15270207,C=CCCCCCCCCCCCC(CC(O)CO)OC(C)=O,0,Holmer
+zinc1579641,NC(Cc1ccccc1)C(=O)NC(CC(=O)O)C(=O)O,0,Holmer
+zinc1584045,CCCCCCCCC1OCC(C)O1,0,Holmer
+zinc2572145,CC1(O)CC2CCC1(C)C2(C)C,0,Holmer
+zinc31475165,CC1CCC(C(C)C)C2(C1)OCC(CO)O2,0,Holmer
+zinc59206760,CC1=CCC23C(C)CCC(C(C)C)C2C13,0,Holmer
+zinc85567739,CC(C)=CCc1c(-c2ccc(O)cc2O)oc2c(C3C=C(C)CC(c4ccc(O)cc4O)C3C(=O)c3ccc(O)cc3O)c(O)cc(O)c2c1=O,0,Holmer
+ziprasidone,Oc1cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2[nH]1,0,Yamashita
+zoledronic_acid,O=[PH](=O)(O)C(O)(Cn1ccnc1)[PH](=O)(=O)O,0,Holmer

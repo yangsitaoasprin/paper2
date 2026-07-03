@@ -1,0 +1,566 @@
+{
+  "experiment": "CMDM released-split compact multi-seed benchmark",
+  "python_executable": "C:\\Users\\Administrator\\.conda\\envs\\cyp450\\python.exe",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "models": {
+    "Drug-Only": {
+      "runs": [
+        {
+          "seed": 42,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment6_drugonly_seed42.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment6_drugonly_seed42.pt",
+          "best_epoch": null,
+          "best_val_auc": 0.8229545800550269,
+          "test_metrics": {
+            "auc": 0.875496606522099,
+            "pr_auc": 0.5553599595718295,
+            "mcc": 0.5001802757957606,
+            "accuracy": 0.8135838150289018,
+            "f1": 0.5852090032154341
+          }
+        },
+        {
+          "seed": 43,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment6_drugonly_seed43.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment6_drugonly_seed43.pt",
+          "best_epoch": null,
+          "best_val_auc": 0.8200984421248676,
+          "test_metrics": {
+            "auc": 0.8711123986095017,
+            "pr_auc": 0.5616790431420106,
+            "mcc": 0.49088597017114477,
+            "accuracy": 0.8285163776493256,
+            "f1": 0.5821596244131455
+          }
+        },
+        {
+          "seed": 44,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment6_drugonly_seed44.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment6_drugonly_seed44.pt",
+          "best_epoch": null,
+          "best_val_auc": 0.8189821792570264,
+          "test_metrics": {
+            "auc": 0.8853120344313856,
+            "pr_auc": 0.592130972328148,
+            "mcc": 0.4883760998446114,
+            "accuracy": 0.8270712909441233,
+            "f1": 0.5801169590643275
+          }
+        }
+      ],
+      "summary": {
+        "n_runs": 3,
+        "seeds": [
+          42,
+          43,
+          44
+        ],
+        "metrics": {
+          "auc": {
+            "mean": 0.8773070131876621,
+            "std": 0.007270872959251072,
+            "min": 0.8711123986095017,
+            "max": 0.8853120344313856,
+            "values": [
+              0.875496606522099,
+              0.8711123986095017,
+              0.8853120344313856
+            ]
+          },
+          "pr_auc": {
+            "mean": 0.569723325013996,
+            "std": 0.019661121481449145,
+            "min": 0.5553599595718295,
+            "max": 0.592130972328148,
+            "values": [
+              0.5553599595718295,
+              0.5616790431420106,
+              0.592130972328148
+            ]
+          },
+          "mcc": {
+            "mean": 0.4931474486038389,
+            "std": 0.006218549348327,
+            "min": 0.4883760998446114,
+            "max": 0.5001802757957606,
+            "values": [
+              0.5001802757957606,
+              0.49088597017114477,
+              0.4883760998446114
+            ]
+          },
+          "accuracy": {
+            "mean": 0.8230571612074502,
+            "std": 0.008235914324490784,
+            "min": 0.8135838150289018,
+            "max": 0.8285163776493256,
+            "values": [
+              0.8135838150289018,
+              0.8285163776493256,
+              0.8270712909441233
+            ]
+          },
+          "f1": {
+            "mean": 0.5824951955643024,
+            "std": 0.0025625542740245334,
+            "min": 0.5801169590643275,
+            "max": 0.5852090032154341,
+            "values": [
+              0.5852090032154341,
+              0.5821596244131455,
+              0.5801169590643275
+            ]
+          }
+        }
+      }
+    },
+    "Morgan-CNN": {
+      "runs": [
+        {
+          "seed": 42,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment1_morgancnn_seed42.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment1_morgancnn_seed42.pt",
+          "best_epoch": 20,
+          "best_val_auc": 0.9014656050525549,
+          "test_metrics": {
+            "auc": 0.9239414004303922,
+            "pr_auc": 0.7047284253766938,
+            "mcc": 0.598339834840282,
+            "accuracy": 0.8848747591522158,
+            "f1": 0.6675938803894298
+          }
+        },
+        {
+          "seed": 43,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment1_morgancnn_seed43.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment1_morgancnn_seed43.pt",
+          "best_epoch": 46,
+          "best_val_auc": 0.8905607368589423,
+          "test_metrics": {
+            "auc": 0.9210039728521768,
+            "pr_auc": 0.7237944468751586,
+            "mcc": 0.6082833273921994,
+            "accuracy": 0.8819845857418112,
+            "f1": 0.6772068511198946
+          }
+        },
+        {
+          "seed": 44,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment1_morgancnn_seed44.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment1_morgancnn_seed44.pt",
+          "best_epoch": 29,
+          "best_val_auc": 0.8986811242204025,
+          "test_metrics": {
+            "auc": 0.9258930640622414,
+            "pr_auc": 0.724202391780367,
+            "mcc": 0.6395632919675315,
+            "accuracy": 0.901252408477842,
+            "f1": 0.6980854197349042
+          }
+        }
+      ],
+      "summary": {
+        "n_runs": 3,
+        "seeds": [
+          42,
+          43,
+          44
+        ],
+        "metrics": {
+          "auc": {
+            "mean": 0.9236128124482701,
+            "std": 0.0024610527750495025,
+            "min": 0.9210039728521768,
+            "max": 0.9258930640622414,
+            "values": [
+              0.9239414004303922,
+              0.9210039728521768,
+              0.9258930640622414
+            ]
+          },
+          "pr_auc": {
+            "mean": 0.7175750880107398,
+            "std": 0.011127405824637079,
+            "min": 0.7047284253766938,
+            "max": 0.724202391780367,
+            "values": [
+              0.7047284253766938,
+              0.7237944468751586,
+              0.724202391780367
+            ]
+          },
+          "mcc": {
+            "mean": 0.6153954847333376,
+            "std": 0.021512332298344,
+            "min": 0.598339834840282,
+            "max": 0.6395632919675315,
+            "values": [
+              0.598339834840282,
+              0.6082833273921994,
+              0.6395632919675315
+            ]
+          },
+          "accuracy": {
+            "mean": 0.8893705844572897,
+            "std": 0.010390937499912321,
+            "min": 0.8819845857418112,
+            "max": 0.901252408477842,
+            "values": [
+              0.8848747591522158,
+              0.8819845857418112,
+              0.901252408477842
+            ]
+          },
+          "f1": {
+            "mean": 0.6809620504147429,
+            "std": 0.015588766282877408,
+            "min": 0.6675938803894298,
+            "max": 0.6980854197349042,
+            "values": [
+              0.6675938803894298,
+              0.6772068511198946,
+              0.6980854197349042
+            ]
+          }
+        }
+      }
+    },
+    "Two-Tower V1": {
+      "runs": [
+        {
+          "seed": 42,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment2_twotowerv1_seed42.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment2_twotowerv1_seed42.pt",
+          "best_epoch": 25,
+          "best_val_auc": 0.8743335483557066,
+          "test_metrics": {
+            "auc": 0.9142360536335044,
+            "pr_auc": 0.6989235562032005,
+            "mcc": 0.5645128808310569,
+            "accuracy": 0.8227360308285164,
+            "f1": 0.6275303643724697
+          }
+        },
+        {
+          "seed": 43,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment2_twotowerv1_seed43.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment2_twotowerv1_seed43.pt",
+          "best_epoch": 36,
+          "best_val_auc": 0.8718225254459273,
+          "test_metrics": {
+            "auc": 0.9183678198973682,
+            "pr_auc": 0.6846368060468246,
+            "mcc": 0.5891993209909704,
+            "accuracy": 0.8641618497109826,
+            "f1": 0.6602409638554216
+          }
+        },
+        {
+          "seed": 44,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment2_twotowerv1_seed44.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment2_twotowerv1_seed44.pt",
+          "best_epoch": 45,
+          "best_val_auc": 0.8779995904013107,
+          "test_metrics": {
+            "auc": 0.9213855321966562,
+            "pr_auc": 0.6952662969442147,
+            "mcc": 0.6108416506293127,
+            "accuracy": 0.867533718689788,
+            "f1": 0.6760895170789164
+          }
+        }
+      ],
+      "summary": {
+        "n_runs": 3,
+        "seeds": [
+          42,
+          43,
+          44
+        ],
+        "metrics": {
+          "auc": {
+            "mean": 0.9179964685758429,
+            "std": 0.0035891764075120154,
+            "min": 0.9142360536335044,
+            "max": 0.9213855321966562,
+            "values": [
+              0.9142360536335044,
+              0.9183678198973682,
+              0.9213855321966562
+            ]
+          },
+          "pr_auc": {
+            "mean": 0.6929422197314132,
+            "std": 0.007421509864978506,
+            "min": 0.6846368060468246,
+            "max": 0.6989235562032005,
+            "values": [
+              0.6989235562032005,
+              0.6846368060468246,
+              0.6952662969442147
+            ]
+          },
+          "mcc": {
+            "mean": 0.58818461748378,
+            "std": 0.023181047110960584,
+            "min": 0.5645128808310569,
+            "max": 0.6108416506293127,
+            "values": [
+              0.5645128808310569,
+              0.5891993209909704,
+              0.6108416506293127
+            ]
+          },
+          "accuracy": {
+            "mean": 0.8514771997430957,
+            "std": 0.02494761447583397,
+            "min": 0.8227360308285164,
+            "max": 0.867533718689788,
+            "values": [
+              0.8227360308285164,
+              0.8641618497109826,
+              0.867533718689788
+            ]
+          },
+          "f1": {
+            "mean": 0.6546202817689359,
+            "std": 0.02476271144745683,
+            "min": 0.6275303643724697,
+            "max": 0.6760895170789164,
+            "values": [
+              0.6275303643724697,
+              0.6602409638554216,
+              0.6760895170789164
+            ]
+          }
+        }
+      }
+    },
+    "Exp7-plus": {
+      "runs": [
+        {
+          "seed": 42,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment7plus_lightweight_seed42.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment7plus_lightweight_seed42.pt",
+          "best_epoch": 15,
+          "best_val_auc": 0.8933904947554945,
+          "test_metrics": {
+            "auc": 0.9202880317828174,
+            "pr_auc": 0.698583157751447,
+            "mcc": 0.576315713136893,
+            "accuracy": 0.859344894026975,
+            "f1": 0.6498800959232613
+          }
+        },
+        {
+          "seed": 43,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment7plus_lightweight_seed43.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment7plus_lightweight_seed43.pt",
+          "best_epoch": 15,
+          "best_val_auc": 0.8909978350967713,
+          "test_metrics": {
+            "auc": 0.9124913093858633,
+            "pr_auc": 0.6847790891675116,
+            "mcc": 0.5785794867248251,
+            "accuracy": 0.8771676300578035,
+            "f1": 0.6521145975443383
+          }
+        },
+        {
+          "seed": 44,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment7plus_lightweight_seed44.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment7plus_lightweight_seed44.pt",
+          "best_epoch": 12,
+          "best_val_auc": 0.8988875235599245,
+          "test_metrics": {
+            "auc": 0.921509683827181,
+            "pr_auc": 0.715796072583636,
+            "mcc": 0.5906974943365878,
+            "accuracy": 0.8694605009633911,
+            "f1": 0.6625155666251556
+          }
+        }
+      ],
+      "summary": {
+        "n_runs": 3,
+        "seeds": [
+          42,
+          43,
+          44
+        ],
+        "metrics": {
+          "auc": {
+            "mean": 0.9180963416652872,
+            "std": 0.004892381686807821,
+            "min": 0.9124913093858633,
+            "max": 0.921509683827181,
+            "values": [
+              0.9202880317828174,
+              0.9124913093858633,
+              0.921509683827181
+            ]
+          },
+          "pr_auc": {
+            "mean": 0.6997194398341982,
+            "std": 0.015539680427464377,
+            "min": 0.6847790891675116,
+            "max": 0.715796072583636,
+            "values": [
+              0.698583157751447,
+              0.6847790891675116,
+              0.715796072583636
+            ]
+          },
+          "mcc": {
+            "mean": 0.5818642313994353,
+            "std": 0.007733115045181267,
+            "min": 0.576315713136893,
+            "max": 0.5906974943365878,
+            "values": [
+              0.576315713136893,
+              0.5785794867248251,
+              0.5906974943365878
+            ]
+          },
+          "accuracy": {
+            "mean": 0.8686576750160565,
+            "std": 0.008938449363979943,
+            "min": 0.859344894026975,
+            "max": 0.8771676300578035,
+            "values": [
+              0.859344894026975,
+              0.8771676300578035,
+              0.8694605009633911
+            ]
+          },
+          "f1": {
+            "mean": 0.6548367533642517,
+            "std": 0.006743246932711559,
+            "min": 0.6498800959232613,
+            "max": 0.6625155666251556,
+            "values": [
+              0.6498800959232613,
+              0.6521145975443383,
+              0.6625155666251556
+            ]
+          }
+        }
+      }
+    },
+    "CNN-2": {
+      "runs": [
+        {
+          "seed": 42,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment13_cnn2_seed42.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment13_cnn2_seed42.pt",
+          "best_epoch": 49,
+          "best_val_auc": 0.8555122180451128,
+          "test_metrics": {
+            "auc": 0.9106273795729185,
+            "pr_auc": 0.671617252187488,
+            "mcc": 0.5735809284178259,
+            "accuracy": 0.850674373795761,
+            "f1": 0.6453089244851259
+          }
+        },
+        {
+          "seed": 43,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment13_cnn2_seed43.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment13_cnn2_seed43.pt",
+          "best_epoch": 34,
+          "best_val_auc": 0.8732363347247069,
+          "test_metrics": {
+            "auc": 0.9234961099155768,
+            "pr_auc": 0.6804293834828776,
+            "mcc": 0.57856467327766,
+            "accuracy": 0.8362235067437379,
+            "f1": 0.6421052631578947
+          }
+        },
+        {
+          "seed": 44,
+          "result_path": "D:\\cyp\\new-vision\\result\\cmdm_experiment13_cnn2_seed44.json",
+          "model_path": "D:\\cyp\\new-vision\\model\\cmdm_experiment13_cnn2_seed44.pt",
+          "best_epoch": 31,
+          "best_val_auc": 0.8709785277269007,
+          "test_metrics": {
+            "auc": 0.9192401920211886,
+            "pr_auc": 0.693712687001081,
+            "mcc": 0.5494205347675435,
+            "accuracy": 0.8208092485549133,
+            "f1": 0.6180698151950719
+          }
+        }
+      ],
+      "summary": {
+        "n_runs": 3,
+        "seeds": [
+          42,
+          43,
+          44
+        ],
+        "metrics": {
+          "auc": {
+            "mean": 0.9177878938365613,
+            "std": 0.006556137023493148,
+            "min": 0.9106273795729185,
+            "max": 0.9234961099155768,
+            "values": [
+              0.9106273795729185,
+              0.9234961099155768,
+              0.9192401920211886
+            ]
+          },
+          "pr_auc": {
+            "mean": 0.6819197742238156,
+            "std": 0.011122859718657764,
+            "min": 0.671617252187488,
+            "max": 0.693712687001081,
+            "values": [
+              0.671617252187488,
+              0.6804293834828776,
+              0.693712687001081
+            ]
+          },
+          "mcc": {
+            "mean": 0.5671887121543432,
+            "std": 0.015588153320504802,
+            "min": 0.5494205347675435,
+            "max": 0.57856467327766,
+            "values": [
+              0.5735809284178259,
+              0.57856467327766,
+              0.5494205347675435
+            ]
+          },
+          "accuracy": {
+            "mean": 0.8359023763648041,
+            "std": 0.01493515215701151,
+            "min": 0.8208092485549133,
+            "max": 0.850674373795761,
+            "values": [
+              0.850674373795761,
+              0.8362235067437379,
+              0.8208092485549133
+            ]
+          },
+          "f1": {
+            "mean": 0.6351613342793642,
+            "std": 0.014888112033815602,
+            "min": 0.6180698151950719,
+            "max": 0.6453089244851259,
+            "values": [
+              0.6453089244851259,
+              0.6421052631578947,
+              0.6180698151950719
+            ]
+          }
+        }
+      }
+    }
+  }
+}
